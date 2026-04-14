@@ -64,7 +64,7 @@ for file_path in favorites_dir.iterdir():
 items_list = list(all_items.values())
 
 # Save JSON
-output_path = Path(__file__).parent.parent / "data" / "output" / "favorites.json"
+output_path = Path(__file__).parent.parent / "app" / "data" / "favorites.json"
 output_path.parent.mkdir(parents=True, exist_ok=True)
 
 with open(output_path, "w", encoding="utf-8") as f:

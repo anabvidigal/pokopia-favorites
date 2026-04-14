@@ -1,8 +1,6 @@
 let allData = [];
 let uniqueFavorites = [];
 
-
-
 function fetchData(){
     return fetch('./data/favorites.json')
     .then(response => {
