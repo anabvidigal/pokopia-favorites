@@ -1,0 +1,288 @@
+<main>
+<div align="center"><FORM NAME="index"><DIV><SELECT NAME="SelectURL" onChange="document.location.href=document.index.SelectURL.options[document.index.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+ <option value="/pokemonpokopia/habitats.shtml">Pok&eacute;mon Pokopia - Favorites Database</option><option value="/pokemonpokopia/favorites/blockystuff.shtml">Blocky stuff</option><option value="/pokemonpokopia/favorites/cleanliness.shtml">Cleanliness</option><option value="/pokemonpokopia/favorites/colorfulstuff.shtml">Colorful stuff</option><option value="/pokemonpokopia/favorites/complicatedstuff.shtml">Complicated stuff</option><option value="/pokemonpokopia/favorites/construction.shtml">Construction</option><option value="/pokemonpokopia/favorites/containers.shtml">Containers</option><option value="/pokemonpokopia/favorites/cutestuff.shtml">Cute stuff</option><option value="/pokemonpokopia/favorites/electronics.shtml">Electronics</option><option value="/pokemonpokopia/favorites/exercise.shtml">Exercise</option><option value="/pokemonpokopia/favorites/fabric.shtml">Fabric</option><option value="/pokemonpokopia/favorites/garbage.shtml">Garbage</option><option value="/pokemonpokopia/favorites/gatherings.shtml">Gatherings</option><option value="/pokemonpokopia/favorites/glassstuff.shtml">Glass stuff</option><option value="/pokemonpokopia/favorites/groupactivities.shtml">Group Activities</option><option value="/pokemonpokopia/favorites/hardstuff.shtml">Hard stuff</option><option value="/pokemonpokopia/favorites/healing.shtml">Healing</option><option value="/pokemonpokopia/favorites/lettersandwords.shtml">Letters and words</option><option value="/pokemonpokopia/favorites/lookslikefood.shtml">Looks like food</option><option value="/pokemonpokopia/favorites/lotsofdirt.shtml">Lots of dirt</option><option value="/pokemonpokopia/favorites/lotsoffire.shtml">Lots of fire</option><option value="/pokemonpokopia/favorites/lotsofnature.shtml">Lots of nature</option><option value="/pokemonpokopia/favorites/lotsofwater.shtml">Lots of water</option><option value="/pokemonpokopia/favorites/luxury.shtml">Luxury</option><option value="/pokemonpokopia/favorites/metalstuff.shtml">Metal stuff</option><option value="/pokemonpokopia/favorites/nicebreezes.shtml">Nice breezes</option><option value="/pokemonpokopia/favorites/noisystuff.shtml">Noisy stuff</option><option value="/pokemonpokopia/favorites/oceanvibes.shtml">Ocean vibes</option><option value="/pokemonpokopia/favorites/playspaces.shtml">Play spaces</option><option value="/pokemonpokopia/favorites/prettyflowers.shtml">Pretty flowers</option><option value="/pokemonpokopia/favorites/rides.shtml">Rides</option><option value="/pokemonpokopia/favorites/roundstuff.shtml">Round stuff</option><option value="/pokemonpokopia/favorites/sharpstuff.shtml">Sharp stuff</option><option value="/pokemonpokopia/favorites/shinystuff.shtml">Shiny stuff</option><option value="/pokemonpokopia/favorites/slenderobjects.shtml">Slender objects</option><option value="/pokemonpokopia/favorites/softstuff.shtml">Soft stuff</option><option value="/pokemonpokopia/favorites/spinningstuff.shtml">Spinning stuff</option><option value="/pokemonpokopia/favorites/spookystuff.shtml">Spooky stuff</option><option value="/pokemonpokopia/favorites/stonestuff.shtml">Stone stuff</option><option value="/pokemonpokopia/favorites/strangestuff.shtml">Strange stuff</option><option value="/pokemonpokopia/favorites/symbols.shtml">Symbols</option><option value="/pokemonpokopia/favorites/watchingstuff.shtml">Watching stuff</option><option value="/pokemonpokopia/favorites/wobblystuff.shtml">Wobbly stuff</option><option value="/pokemonpokopia/favorites/woodenstuff.shtml">Wooden stuff</option></SELECT></DIV> </FORM></div>
+
+
+<p><h1>Ocean vibes</h1></p>
+<table class="anctab" align="center"><tr><td rowspan="3">Anchors</td>
+<td class="fooblack" width="14%"><a href="#items">Items</a></td>
+<td class="fooblack" width="14%"><a href="#pokemon">Pok&eacute;mon</a></td>
+</tr></table>
+
+<p><i>Please note this page is very work in progress and new items will be added periodically</i></p>
+
+
+<p><h2><a name="items"></a>List of Ocean vibes Items </h2></p>
+
+
+<table class="dextable" align="center">
+		<tr>
+		<td class="fooevo">Picture</td>
+		<td class="fooevo">Name</td>
+		<td class="fooevo">Description</td>
+		<td class="fooevo">Category</td>
+		</tr>
+			<tr><td class="cen"><a href="/pokemonpokopia/items/resortstool.shtml"><img src="/pokemonpokopia/items/resortstool.png" height="64" loading="lazy" alt="Resort stool" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resortstool.shtml"><u>Resort stool</u></a></td>
+<td class="fooinfo">While this stool looks stiff, the cotton padding inside makes it surprisingly soft</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/resortchair.shtml"><img src="/pokemonpokopia/items/resortchair.png" height="64" loading="lazy" alt="Resort chair" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resortchair.shtml"><u>Resort chair</u></a></td>
+<td class="fooinfo">A chair perfect for relaxing. Kick back on this to taste a bit of the resort life</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/resortsofa.shtml"><img src="/pokemonpokopia/items/resortsofa.png" height="64" loading="lazy" alt="Resort sofa" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resortsofa.shtml"><u>Resort sofa</u></a></td>
+<td class="fooinfo">Sitting on this makes you feel like you're in the tropics! Feel free to just laze the day away...</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/resortbed.shtml"><img src="/pokemonpokopia/items/resortbed.png" height="64" loading="lazy" alt="Resort bed" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resortbed.shtml"><u>Resort bed</u></a></td>
+<td class="fooinfo">A refreshingly cool bed made of woven vines. Lying down on this makes you feel like you're at a resort</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/deckchair.shtml"><img src="/pokemonpokopia/items/deckchair.png" height="64" loading="lazy" alt="Deck chair" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/deckchair.shtml"><u>Deck chair</u></a></td>
+<td class="fooinfo">Lean this chair backa nd relax for a bit. It looks great for sunbating.</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/beachchair.shtml"><img src="/pokemonpokopia/items/beachchair.png" height="64" loading="lazy" alt="Beach chair" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/beachchair.shtml"><u>Beach chair</u></a></td>
+<td class="fooinfo">Lean back and relax in this chair. It pairs perfectly with a beach parasol</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/resorthammock.shtml"><img src="/pokemonpokopia/items/resorthammock.png" height="64" loading="lazy" alt="Resort hammock" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resorthammock.shtml"><u>Resort hammock</u></a></td>
+<td class="fooinfo">The breeze feels so nice when you're lying on this hammock. It's perfect for dozing off!</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/ship'swheel.shtml"><img src="/pokemonpokopia/items/ship'swheel.png" height="64" loading="lazy" alt="Ship's Wheel" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/ship'swheel.shtml"><u>Ship's Wheel</u></a></td>
+<td class="fooinfo">A wheel used to steer a ship. It spinds round and round when you touch it!</td>
+<td class="cen"><a href="/pokemonpokopia/items/toy.shtml"><img src="/pokemonpokopia/items/toy.png" alt="Toy" loading="lazy" height="40" /><br />Toy</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/beachparasol.shtml"><img src="/pokemonpokopia/items/beachparasol.png" height="64" loading="lazy" alt="Beach parasol" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/beachparasol.shtml"><u>Beach parasol</u></a></td>
+<td class="fooinfo">Place one of these on the beach for protection from scorching sunbeams</td>
+<td class="cen"><a href="/pokemonpokopia/items/relaxation.shtml"><img src="/pokemonpokopia/items/relaxation.png" alt="Relaxation" loading="lazy" height="40" /><br />Relaxation</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/horseafountain.shtml"><img src="/pokemonpokopia/items/horseafountain.png" height="64" loading="lazy" alt="Horsea fountain" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/horseafountain.shtml"><u>Horsea fountain</u></a></td>
+<td class="fooinfo">Installing this near water should raise the humidity of its surroundings</td>
+<td class="cen"><a href="/pokemonpokopia/items/toy.shtml"><img src="/pokemonpokopia/items/toy.png" alt="Toy" loading="lazy" height="40" /><br />Toy</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/fishingrod.shtml"><img src="/pokemonpokopia/items/fishingrod.png" height="64" loading="lazy" alt="Fishing rod" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/fishingrod.shtml"><u>Fishing rod</u></a></td>
+<td class="fooinfo">A must-have item for fishing up Pok&eacute;mon. Set one by the water and wait patiently for a bite!</td>
+<td class="cen"><a href="/pokemonpokopia/items/toy.shtml"><img src="/pokemonpokopia/items/toy.png" alt="Toy" loading="lazy" height="40" /><br />Toy</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/harborstreetlight.shtml"><img src="/pokemonpokopia/items/harborstreetlight.png" height="64" loading="lazy" alt="Harbor streetlight" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/harborstreetlight.shtml"><u>Harbor streetlight</u></a></td>
+<td class="fooinfo">A streetlight that invokes harbor vibes. The life buoy stands out as the main highlight.</td>
+<td class="cen"><a href="/pokemonpokopia/items/decoration.shtml"><img src="/pokemonpokopia/items/decoration.png" alt="Decoration" loading="lazy" height="40" /><br />Decoration</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/shelllamp.shtml"><img src="/pokemonpokopia/items/shelllamp.png" height="64" loading="lazy" alt="Shell lamp" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/shelllamp.shtml"><u>Shell lamp</u></a></td>
+<td class="fooinfo">It looks like a simple seashell at first glance, but hang it up and power it on, and it emits a gentle light</td>
+<td class="cen"><a href="/pokemonpokopia/items/decoration.shtml"><img src="/pokemonpokopia/items/decoration.png" alt="Decoration" loading="lazy" height="40" /><br />Decoration</a></td>
+</tr><tr><td class="cen"><a href="/pokemonpokopia/items/resortlight.shtml"><img src="/pokemonpokopia/items/resortlight.png" height="64" loading="lazy" alt="Resort light" /></a></td>
+<td class="cen"><a href="/pokemonpokopia/items/resortlight.shtml"><u>Resort light</u></a></td>
+<td class="fooinfo">A light that resembles a ball of tangled string. Its gentle glow creates a fancy atmosphere</td>
+<td class="cen"><a href="/pokemonpokopia/items/decoration.shtml"><img src="/pokemonpokopia/items/decoration.png" alt="Decoration" loading="lazy" height="40" /><br />Decoration</a></td>
+</tr></table><p><h2><a name="items"></a>List of Pok&eacute;mon that like Ocean vibes </h2></p>
+<table class="tab" align="center">
+	<tr>
+		<td align="center" class="fooevo" width="60">
+		No.
+		</td>
+		<td  align="center" class="fooevo"  width="96">
+		Pic	
+		</td>
+		<td  align="center" class="fooevo">
+		Name	
+		</td>
+
+		<td  align="center" class="fooevo" width="10%">
+		Ideal Habitat
+		</td>
+
+		<td  align="center" class="fooevo" width="10%">
+		Specialty
+		</td>
+
+	</tr>
+
+<tr>
+	<td class="cen">#045</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/magikarp.shtml"><img src="/pokemonpokopia/pokemon/small/129.png"  alt="Magikarp Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/magikarp.shtml"><u>Magikarp</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><img src="/pokemonpokopia/pokedex/specialty/???.png" alt="???" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><u>???</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#046</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gyarados.shtml"><img src="/pokemonpokopia/pokemon/small/130.png"  alt="Gyarados Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gyarados.shtml"><u>Gyarados</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#059</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/shellos.shtml"><img src="/pokemonpokopia/pokemon/small/422.png"  alt="Shellos Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/shellos.shtml"><u>Shellos</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#059</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/shelloseastsea.shtml"><img src="/pokemonpokopia/pokemon/small/422-shelloseastsea.png"  alt="Shellos East Sea Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/shelloseastsea.shtml"><u>Shellos East Sea</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#060</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gastrodon.shtml"><img src="/pokemonpokopia/pokemon/small/423.png"  alt="Gastrodon Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gastrodon.shtml"><u>Gastrodon</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#060</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gastrodoneastsea.shtml"><img src="/pokemonpokopia/pokemon/small/423-gastrodoneastsea.png"  alt="Gastrodon East Sea Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/gastrodoneastsea.shtml"><u>Gastrodon East Sea</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#077</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/cramorant.shtml"><img src="/pokemonpokopia/pokemon/small/845.png"  alt="Cramorant Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/cramorant.shtml"><u>Cramorant</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><img src="/pokemonpokopia/pokedex/specialty/fly.png" alt="Fly" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><u>Fly</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#086</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/psyduck.shtml"><img src="/pokemonpokopia/pokemon/small/054.png"  alt="Psyduck Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/psyduck.shtml"><u>Psyduck</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/search.shtml"><img src="/pokemonpokopia/pokedex/specialty/search.png" alt="Search" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/search.shtml"><u>Search</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#087</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/golduck.shtml"><img src="/pokemonpokopia/pokemon/small/055.png"  alt="Golduck Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/golduck.shtml"><u>Golduck</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/search.shtml"><img src="/pokemonpokopia/pokedex/specialty/search.png" alt="Search" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/search.shtml"><u>Search</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#106</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/lapras.shtml"><img src="/pokemonpokopia/pokemon/small/131.png"  alt="Lapras Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/lapras.shtml"><u>Lapras</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#123</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/wingull.shtml"><img src="/pokemonpokopia/pokemon/small/278.png"  alt="Wingull Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/wingull.shtml"><u>Wingull</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><img src="/pokemonpokopia/pokedex/specialty/fly.png" alt="Fly" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><u>Fly</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#124</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/pelipper.shtml"><img src="/pokemonpokopia/pokemon/small/279.png"  alt="Pelipper Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/pelipper.shtml"><u>Pelipper</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><img src="/pokemonpokopia/pokedex/specialty/fly.png" alt="Fly" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><u>Fly</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#128</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/piplup.shtml"><img src="/pokemonpokopia/pokemon/small/393.png"  alt="Piplup Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/piplup.shtml"><u>Piplup</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#129</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/prinplup.shtml"><img src="/pokemonpokopia/pokemon/small/394.png"  alt="Prinplup Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/prinplup.shtml"><u>Prinplup</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#130</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/empoleon.shtml"><img src="/pokemonpokopia/pokemon/small/395.png"  alt="Empoleon Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/empoleon.shtml"><u>Empoleon</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#145</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiricurlyform.shtml"><img src="/pokemonpokopia/pokemon/small/978-tatsugiricurlyform.png"  alt="Tatsugiri Curly Form Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiricurlyform.shtml"><u>Tatsugiri Curly Form</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#145</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiridroopyform.shtml"><img src="/pokemonpokopia/pokemon/small/978-tatsugiridroopyform.png"  alt="Tatsugiri Droopy Form Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiridroopyform.shtml"><u>Tatsugiri Droopy Form</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#145</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiristretchyform.shtml"><img src="/pokemonpokopia/pokemon/small/978-tatsugiristretchyform.png"  alt="Tatsugiri Stretchy Form Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/tatsugiristretchyform.shtml"><u>Tatsugiri Stretchy Form</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><img src="/pokemonpokopia/pokedex/specialty/trade.png" alt="Trade" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/trade.shtml"><u>Trade</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#251</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/froakie.shtml"><img src="/pokemonpokopia/pokemon/small/656.png"  alt="Froakie Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/froakie.shtml"><u>Froakie</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#252</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/frogadier.shtml"><img src="/pokemonpokopia/pokemon/small/657.png"  alt="Frogadier Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/frogadier.shtml"><u>Frogadier</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#253</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/greninja.shtml"><img src="/pokemonpokopia/pokemon/small/658.png"  alt="Greninja Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/greninja.shtml"><u>Greninja</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/chop.shtml"><img src="/pokemonpokopia/pokedex/specialty/chop.png" alt="Chop" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/chop.shtml"><u>Chop</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#266</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/wattrel.shtml"><img src="/pokemonpokopia/pokemon/small/940.png"  alt="Wattrel Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/wattrel.shtml"><u>Wattrel</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/bright.shtml">Bright</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/generate.shtml"><img src="/pokemonpokopia/pokedex/specialty/generate.png" alt="Generate" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/generate.shtml"><u>Generate</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#267</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/kilowattrel.shtml"><img src="/pokemonpokopia/pokemon/small/941.png"  alt="Kilowattrel Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/kilowattrel.shtml"><u>Kilowattrel</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/bright.shtml">Bright</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/generate.shtml"><img src="/pokemonpokopia/pokedex/specialty/generate.png" alt="Generate" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/generate.shtml"><u>Generate</u></a></td><tr><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><img src="/pokemonpokopia/pokedex/specialty/fly.png" alt="Fly" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/fly.shtml"><u>Fly</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#289</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/kyogre.shtml"><img src="/pokemonpokopia/pokemon/small/382.png"  alt="Kyogre Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/kyogre.shtml"><u>Kyogre</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><img src="/pokemonpokopia/pokedex/specialty/???.png" alt="???" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><u>???</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#292</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/suicune.shtml"><img src="/pokemonpokopia/pokemon/small/245.png"  alt="Suicune Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/suicune.shtml"><u>Suicune</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><img src="/pokemonpokopia/pokedex/specialty/water.png" alt="Water" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/water.shtml"><u>Water</u></a></td></tr></table></td>
+	</tr>
+	<tr>
+	<td class="cen">#297</td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/lugia.shtml"><img src="/pokemonpokopia/pokemon/small/249.png"  alt="Lugia Image" height="60" /></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/lugia.shtml"><u>Lugia</u></a></td>
+	<td class="cen"><a href="/pokemonpokopia/pokedex/idealhabitat/humid.shtml">Humid</a></td>
+	<td class="cen"><table align="center"><tr><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><img src="/pokemonpokopia/pokedex/specialty/???.png" alt="???" height="40" loading="lazy" /></a></td><td><a href="/pokemonpokopia/pokedex/specialty/???.shtml"><u>???</u></a></td></tr></table></td>
+	</tr>
+	</table>
+</main></div><!-- END id="content" -->

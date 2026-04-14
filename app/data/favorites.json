@@ -1,0 +1,5828 @@
+[
+  {
+    "name": "Mug",
+    "description": "A simple, easy-to-use mug. You could change up the colors, and it would still look great.",
+    "category": "Decoration",
+    "favorites": [
+      "Symbols",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Sign",
+    "description": "A sign made out of wood. There's an important message witten on it... Probably!",
+    "category": "Decoration",
+    "favorites": [
+      "Symbols",
+      "Letters and words",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Signpost",
+    "description": "A sign that looks like it belongs at a bus stop. It could serve as a guiding landmark in cities or on roads!",
+    "category": "Decoration",
+    "favorites": [
+      "Symbols",
+      "Letters and words",
+      "Shiny stuff",
+      "Stone stuff",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Information board",
+    "description": "A sign with information about the town written on it. Nobody knows what town it's for, though.",
+    "category": "Decoration",
+    "favorites": [
+      "Symbols",
+      "Letters and words",
+      "Shiny stuff",
+      "Stone stuff",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Team Rocket Wall Hanging",
+    "description": "The symbol of a certain organization. Just looking at it makes you want to get up to some mischief",
+    "category": "Decoration",
+    "favorites": [
+      "Symbols",
+      "Blocky stuff",
+      "Watching stuff",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cooking stove",
+    "description": "A simple stylish stove. Turn the dial and flames will shoot right out of it",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Blocky stuff",
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Fiery Magby statue",
+    "description": "If you place a switch nearby and activate it, Magby will shoot fire out of their mouth! Fwooosh!",
+    "category": "Toy",
+    "favorites": [
+      "Lots of fire",
+      "Strange stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Campfire",
+    "description": "A campfire made from gathered sticks. When lit, it illuminates the area with a warm light.",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of fire",
+      "Group activities",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Torch",
+    "description": "If you light this, it'll burn slowly, filling the area with bright light",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of fire"
+    ]
+  },
+  {
+    "name": "Slender candle",
+    "description": "Light this up to get a flickering bright-red flame. It's small enough to fit on a desk",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Slender objects",
+      "Spooky stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Eerie candle",
+    "description": "Fwoosh! This candle glows with a bluish flame when lit. It's small enough to fit on top of a desk.",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Spooky stuff",
+      "Stone stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Wall torch",
+    "description": "A simple light that looks appropriate even on rugged surfaces such as caves and rock walls",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Firepit",
+    "description": "Set this ablaze to illuminate the surroundings with bright light. Fwoosh!",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Group activities",
+      "Stone stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Bonfire",
+    "description": "When the wood in the center catches fire, this provides warmth and light to a large nearby area",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of fire",
+      "Group activities",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Smelting furnace",
+    "description": "A furnace for processing ore into metals. Get a Pok\u00e9mon with the Burn specialty to help you out",
+    "category": "",
+    "favorites": [
+      "Lots of fire"
+    ]
+  },
+  {
+    "name": "Metallic smelting furnace",
+    "description": "A high-performance metallic furnace that can quickly process metals and other ingredients",
+    "category": "",
+    "favorites": [
+      "Lots of fire"
+    ]
+  },
+  {
+    "name": "Charcoal",
+    "description": "Charcoal made by burning wood. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Lots of fire"
+    ]
+  },
+  {
+    "name": "Pok\u00e9metal",
+    "description": "Made from smelted Pok\u00e9metal fragmants, these can be used to make various items.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Red paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Blue paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Green paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Yellow paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Pink paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Cyan paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "White paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Black paint",
+    "description": "Colorful paint made from crushed berries. A must-have when painting.",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Gaming fridge",
+    "description": "A chest that's slightly cold to the touch. Ice-type Pok\u00e9mon will probably enjoy this.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Glass stuff",
+      "Containers",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Stylish stool",
+    "description": "A small, round stool with a stylish three-color cushion.",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Antique Chair",
+    "description": "A chair with a charming retro design. Its cushions are soft and fluffy",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Pop art chair",
+    "description": "A chair with a soft design and rounded corners. The colors of the backrest and cushion can be changed",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Gaming chair",
+    "description": "With its large backrest and cushions, you could sit comfortable in this chair for a long time.",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Soft stuff",
+      "Shiny stuff",
+      "Luxury",
+      "Spinning stuff",
+      "Electronics",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Antique sofa",
+    "description": "A retro sofa with Pok\u00e9 Ball designs here and there",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Pop art sofa",
+    "description": "A soft-looking sofa with cute, rounded edges.",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Pikachu sofa",
+    "description": "Pikachu's face is front and center. On the back, you can find a little tail sticking out.",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Log Bed",
+    "description": "A bed made from small logs. You'll sleep soundly enveloped by a woodsy aroma",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Soft stuff",
+      "Blocky stuff",
+      "Fabric",
+      "Lots of nature",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Gaming bed",
+    "description": "A cool, stylish bed. Flip on the power switch to get a cyberspace vibe going",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Soft stuff",
+      "Shiny stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Fried potatoes",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Soda float",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of water",
+      "Looks like food"
+    ]
+  },
+  {
+    "name": "Afternoon tea set",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Luxury",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Chocolate cookies",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Gatherings",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Sandwiches",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Blocky stuff",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Shaved ice",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of water",
+      "Looks like food"
+    ]
+  },
+  {
+    "name": "Ribbon cake",
+    "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Cute stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "CD rack",
+    "description": "A rack with CDs on it. Sure to appeal to music lovers",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Strange stuff",
+      "Gatherings",
+      "Watching stuff",
+      "Containers",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Magazine rack",
+    "description": "This stand has a great selection of weekly magazines and photo books.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Gatherings",
+      "Watching stuff",
+      "Containers",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Mini bookcase",
+    "description": "A small bookcase packed with books. It's tiny enough to fit in tight spaces!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Blocky stuff",
+      "Watching stuff",
+      "Containers",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Bookcase",
+    "description": "Furniture with colorful books arranged on the shelves. It looks like there's room for even MORE books!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Blocky stuff",
+      "Watching stuff",
+      "Containers",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Stone fireplace",
+    "description": "A huge fireplace. Light this up to make a space feel warm and cozy",
+    "category": "Relaxation",
+    "favorites": [
+      "Colorful stuff",
+      "Blocky stuff",
+      "Luxury",
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Gaming PC",
+    "description": "A PC rig that even includes a headset. The monitor can display photos when powered on",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Pinwheels",
+    "description": "Pok\u00e9mon like to spin these round and round. Wind-producing Pok\u00e9mon especially like them!",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Play spaces",
+      "Nice breezes",
+      "Spinning stuff",
+      "Gatherings",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Knitting supplies",
+    "description": "Tools for knitting hats, sweaters and the like. Pok\u00e9mon are captivated by the round balls of yarn",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of dirt",
+      "Group activities",
+      "Soft stuff",
+      "Gatherings",
+      "Fabric",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "First aid kit",
+    "description": "A box with lots of medicines and supplies for treating injuries",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Healing",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Balloons",
+    "description": "Balloons of many vibrant colors. They sway back and forth even in the most gentle of breezes",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Play spaces",
+      "Wobbly stuff",
+      "Gatherings",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Punching game",
+    "description": "Slug this machine real good with your first, and it'll tell you how strong your punch is",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Play spaces",
+      "Wobbly stuff",
+      "Exercise"
+    ]
+  },
+  {
+    "name": "Hanging banner",
+    "description": "Cloth you might find on a department store's wall. Stack several to make 'em even longer",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Party bunting",
+    "description": "These make perfect party decorations. Hang a bunch to create a festive mood!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Berry wall decoration",
+    "description": "The six swaying berries look incredibly tasty. Alas, they're inedible",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Gatherings",
+      "Watching stuff",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Wall-mounted flowers",
+    "description": "A planter with colorful flowers. Hang one on a wall to create a vibrant space.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Garden flowers",
+    "description": "A styish flower pot with cute flowers in full bloom. It would look great as a desk ornament",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Painting (landscape)",
+    "description": "One of Smearguru's passion prjects. The contrast betwee the forest and the mountain is beautiful",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Watching stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Painting (portrait)",
+    "description": "One of Smearguru's passion projects. The subject has been masterfully recreated, wobbliness and all.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Watching stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Painting (still life)",
+    "description": "One of Smearguru's passion projects. Each and every object looks just like the real thing",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Watching stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Water basin",
+    "description": "Fill this with water so Pok\u00e9mon can do some watering for you",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Cleanliness",
+      "Lots of water",
+      "Round stuff",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Raichu sign",
+    "description": "A sign depicting Raichu discharging electricity. When powered up, the neon lighting glows brightly",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Letters and words",
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Photo cutout board",
+    "description": "Put your fac through the hole to become Plusle or Minun!",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Gatherings",
+      "Watching stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Ball light",
+    "description": "A neon light that glows red and white when powered on. It would look great on top of a table",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Glass stuff",
+      "Luxury",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Model planet",
+    "description": "A model of some unexplored faraway planet. It looks jut like a piece of yummy candy",
+    "category": "Toy",
+    "favorites": [
+      "Colorful stuff",
+      "Spinning stuff",
+      "Cute stuff",
+      "Electronics",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Gaming light",
+    "description": "Emits rainbow light when mounted to a wall and powered on.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Glass stuff",
+      "Gatherings",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Paint balloon (white)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (red)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (yellow)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (green)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (rose)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (pink)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (orange)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (purple)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (brown)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (beige)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (black)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (lime)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (plum)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (navy)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (blue)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (cyan)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (gray)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Paint balloon (aquamarine)",
+    "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
+    "category": "",
+    "favorites": [
+      "Colorful stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Flowery table setting",
+    "description": "A set of cute tableward. The placemat has a Jumpluff pattern!",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Group activities",
+      "Pretty flowers",
+      "Soft stuff",
+      "Gatherings",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Lunch box",
+    "description": "A lunch box packed with Pok\u00e9mon-shaped food. The perfect meal for a picnic lunch",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Gatherings",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Hoppip water bottle",
+    "description": "This water bottle with a shoulder strap is perfect for picnics! The Hoopip pattern is very cute.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Lots of water",
+      "Cute stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Juice trio",
+    "description": "Bottles of colored juices. One of them is capped off nicely with a flower-shaped lid.",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Looks like food",
+      "Glass stuff",
+      "Gatherings",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Flower garland",
+    "description": "An adorable wall decoration made with a variety of colorful flowers",
+    "category": "Decoration",
+    "favorites": [
+      "Colorful stuff",
+      "Pretty flowers",
+      "Soft stuff",
+      "Gatherings",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Waterproof seat",
+    "description": "A smooth waterproof chair. Place it near a bathtub or shower",
+    "category": "Relaxation",
+    "favorites": [
+      "Cleanliness"
+    ]
+  },
+  {
+    "name": "Modern sink",
+    "description": "A state-of-the-art sink that even has a drain. Turn the handle to make water flow out",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Blocky stuff",
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Washing machine",
+    "description": "While this does make noise when powered on, it doesn't seem to actually wash clothes...",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Blocky stuff",
+      "Strange stuff",
+      "Glass stuff",
+      "Containers",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Toilet",
+    "description": "Lift the cover and sit on the toilet for as long as you like",
+    "category": "Decoration",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Strange stuff",
+      "Stone stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Sink",
+    "description": "A stylish sink on a wooden stand. Turn on the faucet to make water pour out.",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Blocky stuff",
+      "Strange stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Towel rack",
+    "description": "A simple wall rack with a towel hanging on it. This would look great next to a sink",
+    "category": "Decoration",
+    "favorites": [
+      "Cleanliness",
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Bathtime set",
+    "description": "Shampoo, towels and a toy-everything you need to make bath time a blast!",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Shiny stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Cleaning supplies",
+    "description": "Detergent, a dust cloth, and a Mareep sponge are all you need to become a cleaning master!",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Shower",
+    "description": "A shower with a simple design. Place it next to a bathtub to make your bathroom complete",
+    "category": "Toy",
+    "favorites": [
+      "Cleanliness",
+      "Slender objects",
+      "Lots of water",
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Bathtub",
+    "description": "A bathtub with a simple design. Fill it up with water to enjoy a nice soak",
+    "category": "Decoration",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Strange stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Bouncy blue bathtub",
+    "description": "A bathtub that lets you experience waves and bubbles, even without a single drop of water inside.",
+    "category": "Decoration",
+    "favorites": [
+      "Cleanliness",
+      "Lots of water",
+      "Strange stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Sandbox",
+    "description": "Place this to set up a fun space for playing with sand. Discover what you can create here!",
+    "category": "Toy",
+    "favorites": [
+      "Lots of dirt",
+      "Play spaces",
+      "Group activities",
+      "Blocky stuff"
+    ]
+  },
+  {
+    "name": "Punching bag",
+    "description": "Heavy and packed full of sand. Perfect for practicing punches and kicks!",
+    "category": "Toy",
+    "favorites": [
+      "Lots of dirt",
+      "Wobbly stuff",
+      "Fabric",
+      "Exercise"
+    ]
+  },
+  {
+    "name": "Sandbags",
+    "description": "A cloth sack filled with dirt and sand. It's pretty bulky and looks heavy",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Construction",
+      "Gatherings",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Wheelbarrow",
+    "description": "A wheelbarrow carrying a large mound of dirt. A lot of construction sites probably have these!",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Construction",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Skull Fossil",
+    "description": "An ancient Pok\u00e9mon fossil. It looks like a hard, sturdy skill",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Armor Fossil",
+    "description": "An ancient Pok\u00e9mon fossil. It looks like a smooth shield",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Jaw Fossil",
+    "description": "An ancient Pok\u00e9mon fossil. It looks like a large jaw",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Sail Fossil",
+    "description": "An ancient Pok\u00e9mon fossil. It looks like a thin sail from a Pok\u00e9mon's body",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Wing Fossil (head)",
+    "description": "A fossil of an ancient Pok\u00e9mon's head. Its jagged fangs look just likea  saw",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Wing Fossil (right wing)",
+    "description": "A fossil of an ancient Pok\u00e9mon's right wing. Its finger bones have become part of the wing",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Wing Fossil (left wing)",
+    "description": "A fossil of an ancient Pok\u00e9mon's left wing. By joining its bones together, you can tell the size of the wing",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Wing fossil (body)",
+    "description": "A fossil of an ancient Pok\u00e9mon's body. A hump juts out from the middle of its rickety spine",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Wing Fossil (tail)",
+    "description": "A fossil of an ancient Pok\u00e9mon's tail. Long and slend, it looks like it could bend gracefully",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Headbutt Fossil (head)",
+    "description": "A fossil of an ancient Pok\u00e9mon's head. Its skull is dense and bulbous",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Headbutt Fossil (body)",
+    "description": "A fossil of an ancient Pok\u00e9mon's body. Its torso is big, but its arms are quite small",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Headbutt Fossil (tail)",
+    "description": "A fossil of an ancient Pok\u00e9mon's tail. Its base is thick and sturdy",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Shield Fossil (Head)",
+    "description": "A fossil of an ancient Pok\u00e9mon's head. Its sturdy, like a giant shield",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Shield Fossil (body)",
+    "description": "A fossil of an ancient Pok\u00e9mon's body. Its thick bones supported a heavy head.",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Shield Fossil (tail)",
+    "description": "A fossil of an ancient Pok\u00e9mon's tail. Its hind hooves are particularly large.",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Despot Fossil (head)",
+    "description": "A fossil of an ancient Pok\u00e9mon's head. Its large fangs are as sharp as knives",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Despot Fossil (body)",
+    "description": "A fossil of an ancient Pok\u00e9mon's body. Its sharp claws look like they could slice through anything",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Despot Fossil (legs)",
+    "description": "A fossil of an ancient Pok\u00e9mon's legs. Two stocky legs support the rest of its body.",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Despot Fossil (tail)",
+    "description": "A fossil of an ancient Pok\u00e9mon's tail. Even the very tip is spiky like its frill",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Tundra Fossil (head)",
+    "description": "A fossil of an ancient Pok\u00e9mon's head. It has sails that resemble an aurora",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Tundra Fossil (body)",
+    "description": "A fossil of an ancient Pok\u00e9mon's body. It must have been pretty tall with a spin like this",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Tundra Fossil (tail)",
+    "description": "A fossil of an ancient Pok\u00e9mon's tail. The tip is curled up and looks like a spring",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of dirt",
+      "Slender objects",
+      "Strange stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Mud",
+    "description": "A mass of muddy debris. Spray it with Bubble to clean it up!Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Lots of dirt"
+    ]
+  },
+  {
+    "name": "Vine rope",
+    "description": "Obtained by cutting vines, which grow in caves and high-altitude areas",
+    "category": "",
+    "favorites": [
+      "Slender objects"
+    ]
+  },
+  {
+    "name": "Twine",
+    "description": "Obtained by destroying textile garbage. Bug-type Pok\u00e9mon can also produce it.",
+    "category": "",
+    "favorites": [
+      "Slender objects"
+    ]
+  },
+  {
+    "name": "Small vase",
+    "description": "A vase with a single cute flower inside. Put it anywhere to add a splash of color to your life",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Pretty flowers",
+      "Stone stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Tall potted plant",
+    "description": "A small, thin palm tree. It comes in a planter so it won't make a mess even if it's placed indoors",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Pretty flowers",
+      "Stone stuff",
+      "Watching stuff",
+      "Containers",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Flat-leaf plant",
+    "description": "A plant with flat leaves that look like planks. It's actually a type of succulent",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Pretty flowers",
+      "Watching stuff",
+      "Containers",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Twisted potted plant",
+    "description": "A plant with a winding, twisted trunk. It doesn't look like it will get any bigger than it already is.",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Pretty flowers",
+      "Watching stuff",
+      "Containers",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Fancy pen",
+    "description": "A high-class ballpoint pen that exudes luxury. A very important person could have used this",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Luxury",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Vine wall decoration",
+    "description": "With just a few leaves and vine ropes, you can make a stylish wall decoration",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Wooden birdhouse",
+    "description": "A birdhouse filled with dry, soft grass. Bird Pok\u00e9mon would probably love lounging here.",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Fishing rod",
+    "description": "A must-have item for fishing up Pok\u00e9mon. Set one by the water and wait patiently for a bite!",
+    "category": "Toy",
+    "favorites": [
+      "Slender objects",
+      "Ocean vibes",
+      "Wobbly stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Mushroom streetlight",
+    "description": "Darkness poses no problem when you've got a gentle mushroom glow.",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Spooky stuff",
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Town streetlight",
+    "description": "Power this with electricity to illuminate the area with gentle light",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Harbor streetlight",
+    "description": "A streetlight that invokes harbor vibes. The life buoy stands out as the main highlight.",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Ocean vibes",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Chic streetlight",
+    "description": "When powered on, this light emits a gentle glow that faintly illuminates its surroundings",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Double streetlight",
+    "description": "When pwoered on, both lamps shine brightly to illuminate their surroundings",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Desk light",
+    "description": "A light with a simple design. Perfect for brightening up your desk when you need to focus on work.",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Luxury lamp",
+    "description": "When this lamp is powered on, it emits a gentle light, illuminating its surroundings",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Glass stuff",
+      "Luxury",
+      "Cute stuff",
+      "Electronics",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Fluorescent light",
+    "description": "Shines brilliantly when powered on. Even nighttime feels like noon when this light is on",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Berry hanging lamp",
+    "description": "When hung from the ceiling and powered on, the tip of the Chesto Berry emits a gentle light",
+    "category": "Decoration",
+    "favorites": [
+      "Slender objects",
+      "Looks like food",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Wire",
+    "description": "A wire that can support objects of any weight. It's perfect for hanging furnishings from the ceiling",
+    "category": "",
+    "favorites": [
+      "Slender objects"
+    ]
+  },
+  {
+    "name": "Metal chain",
+    "description": "A thin, sturdy chain. Link a few pieces together and you can use them to climb up to high places",
+    "category": "",
+    "favorites": [
+      "Slender objects",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Rope",
+    "description": "A length of thick, sturdy rope. Tie a few together and climb it to reach high places",
+    "category": "",
+    "favorites": [
+      "Slender objects"
+    ]
+  },
+  {
+    "name": "Broken streetlight",
+    "description": "This rusted streetlight doesn't even have a light bulb. It can't be powered on anymore.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Slender objects"
+    ]
+  },
+  {
+    "name": "Inflatable Sudowoodo",
+    "description": "A balloon shaped like Sudowoodo. It stands up and dances around just like a real Sudowoodo too!",
+    "category": "Toy",
+    "favorites": [
+      "Slender objects",
+      "Strange stuff",
+      "Wobbly stuff",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Resort hammock",
+    "description": "The breeze feels so nice when you're lying on this hammock. It's perfect for dozing off!",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of water",
+      "Soft stuff",
+      "Ocean vibes",
+      "Wobbly stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Paper Party cups",
+    "description": "Paper cups that are easy to carry- perfect for hosting a party!",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of water",
+      "Group activities",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Humidifier",
+    "description": "A humidifier with a  distinct round shape. Turn it on to increase the humidity level nearby.",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of water",
+      "Healing",
+      "Strange stuff",
+      "Glass stuff",
+      "Electronics",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Funky diffuser",
+    "description": "The symbol on it looks dangerous, but it doesn't seem like this will actually spew out poison gas...",
+    "category": "Toy",
+    "favorites": [
+      "Lots of water",
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Inflatable boat",
+    "description": "Feels great whether you lie down on it like a bed, or float it on the water like a boat.",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of water",
+      "Group activities",
+      "Blocky stuff",
+      "Wobbly stuff"
+    ]
+  },
+  {
+    "name": "Beach parasol",
+    "description": "Place one of these on the beach for protection from scorching sunbeams",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of water",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Horsea fountain",
+    "description": "Installing this near water should raise the humidity of its surroundings",
+    "category": "Toy",
+    "favorites": [
+      "Lots of water",
+      "Ocean vibes",
+      "Strange stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Fire hydrant",
+    "description": "This device spews water for putting out fires, but you're not really sure how to use it,...",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of water",
+      "Shiny stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Sprinkler",
+    "description": "An irrigation device that sprays water in a wide area. Try putting one near the waterside",
+    "category": "Toy",
+    "favorites": [
+      "Lots of water",
+      "Strange stuff",
+      "Stone stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Mystic Water",
+    "description": "A teardrop-shaped gem. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Lots of water"
+    ]
+  },
+  {
+    "name": "Water pillar quarter",
+    "description": "A fancy pillar filled with water. Its faint glow is beautiful, even in darkness",
+    "category": "Decoration",
+    "favorites": [
+      "Lots of water",
+      "Glass stuff",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Arcade machine",
+    "description": "A game machine from a facility somewhere. It looks brand-new, so it probably can still be turned on",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Group activities",
+      "Blocky stuff",
+      "Glass stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Toy blocks",
+    "description": "Stacking toys that are fun to play with. Discover all the different combinations you can make!",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Gatherings",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Boo-in-the-box",
+    "description": "Open the box, and -BOING!-out pops the Gengar!",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Group activities",
+      "Spooky stuff",
+      "Blocky stuff",
+      "Strange stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Wobbuffet Wobbler",
+    "description": "An exceptionally durable Wobbuffet doll. It gets back up no matter how many times you knock it over.",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Strange stuff",
+      "Wobbly stuff",
+      "Cute stuff",
+      "Round stuff",
+      "Exercise"
+    ]
+  },
+  {
+    "name": "Tire toy",
+    "description": "Tires used in parks as playground equipment. Put them on the ground and have fun hopping over them!",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Group activities",
+      "Wobbly stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Slide",
+    "description": "An essential part of any playground. Its imposing size leaves a real impression",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Group activities",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Small stage",
+    "description": "Get on and start dancing! You can power on the lights by hooking this up to electricity",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Group activities",
+      "Strange stuff",
+      "Spinning stuff",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Music mat (low do)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (Re)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (Mi)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (Fa)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (Sol)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (La)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (Ti)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Music mat (High do)",
+    "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
+    "category": "Toy",
+    "favorites": [
+      "Play spaces",
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff"
+    ]
+  },
+  {
+    "name": "Wooden bench",
+    "description": "A long bench that's perfect for taking a break. Pok\u00e9mon might sit next to each other here.",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities"
+    ]
+  },
+  {
+    "name": "Stone bench",
+    "description": "A wide, rock-solid seat. This would make a great park bench",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Plain sofa",
+    "description": "If you see small Pok\u00e9mon on this sofa, try sitting down next to them",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Resort sofa",
+    "description": "Sitting on this makes you feel like you're in the tropics! Feel free to just laze the day away...",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Chic sofa",
+    "description": "A luxurious high-class sofa. It looks exactly like the ones on the S.S. Anne",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Iron bench",
+    "description": "A seat made of solid hardened iron. It's sturdy enough to support even the heaviest Pok\u00e9mon",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Industrial bench",
+    "description": "A simple bench made of wood and iron. The kind you'd expect to find at parks and walking paths.",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Luxury sofa",
+    "description": "This sofa is sooo fluffy. It's like sitting on a cloud",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Garden bench",
+    "description": "A stylish bench with a vine pattern. Put one down to instantly add some flair to an area",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Lots of nature",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cute sofa",
+    "description": "A cute, slightly elegant sofa. The backrest is shaped like a Pok\u00e9mon's wings.",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Ball Sofa",
+    "description": "Experience sitting in an open Pok\u00e9 Ball! Seats two comfortably",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Pop art bed",
+    "description": "lying on tthis bed feels like being inside of a pod. It's soft, fluffy, and easy to sleep on.",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Wooden Bed",
+    "description": "This bed gives any room a mountain lodge aesthetic. You'll sleep soudnly surrounded by the woodsy scent",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Plain bed",
+    "description": "A bed with a simple deisng. It looks like it would mesh with a variety of rooms",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Guest-room bed",
+    "description": "A bed with a rather high-class vibe. It looks like it belongs on a luxury ship or in a fancy hotel.",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Fabric",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Antique bed",
+    "description": "This bed has a relaxing, nostalgic atmosphere. The blanket is smooth to the touch",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Industrial bed",
+    "description": "A nice, wide bed that works in any type of room. Even a large Pok\u00e9mon could sleep in it",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Fabric",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Luxury bed",
+    "description": "An extravagantly crafted bed. It somehow reminds you of a Luxury Ball!",
+    "category": "Relaxation",
+    "favorites": [
+      "Group activities",
+      "Soft stuff",
+      "Luxury",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Picnic basket",
+    "description": "Try putting some food inside, and hungry Pok\u00e9mon might stop by for a bite",
+    "category": "",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Containers",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Tea set",
+    "description": "Enjoy an elegant teatime with this gorgeous set that includes a teapot and teacups",
+    "category": "Decoration",
+    "favorites": [
+      "Group activities",
+      "Gatherings",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Table setting",
+    "description": "This cutlery immediately makes any table look like it belongs in a high-class restaurant",
+    "category": "Decoration",
+    "favorites": [
+      "Group activities",
+      "Looks like food",
+      "Gatherings",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Photo frame",
+    "description": "You can put one of your photos in this frame and place it on a table or stand",
+    "category": "Decoration",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Television",
+    "description": "A large television that can be easily viewed from far away. It's a flatscreen, so carrying it is easy-peasy.",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Letters and words",
+      "Shiny stuff",
+      "Glass stuff",
+      "Watching stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Wall monitor",
+    "description": "A monitor that emits blue light when powered on. Try displaying your photographs on it",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Letters and words",
+      "Shiny stuff",
+      "Glass stuff",
+      "Watching stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Game Boy system",
+    "description": "A very sturdy-looking game console. It's old but it still seems to start up",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Jumbled cords",
+    "description": "These cords are all tangled up and cannot be separated",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Garbage",
+      "Gatherings",
+      "Containers",
+      "Electronics",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "CD player",
+    "description": "A device that plays music. If you find a CD, try putting it inside",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Noisy stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Standing mic",
+    "description": "A microphone meant for the stage. Standing before it makes you want to burst into song",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Shiny stuff",
+      "Strange stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Whiteboard",
+    "description": "A whiteboard covered in writing and sticky notes that looks like it belongs in a lab",
+    "category": "Decoration",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Letters and words",
+      "Shiny stuff",
+      "Gatherings",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Vending machine",
+    "description": "Connect this to electricity to make it light up! Looks like it still has some things inside for sale.",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Blocky stuff",
+      "Glass stuff",
+      "Sharp stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Canoe",
+    "description": "A paddle, bucket and rope is all you need for a journey out to sea",
+    "category": "Toy",
+    "favorites": [
+      "Group activities",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Construction supplies",
+    "description": "Construction tools stored in a meta drum. Great for factories or warehouses.",
+    "category": "Decoration",
+    "favorites": [
+      "Group activities",
+      "Construction",
+      "Gatherings",
+      "Containers",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Flower cushion",
+    "description": "A cute flower-shaped cushion. It would look nice on some grassy ground.",
+    "category": "",
+    "favorites": [
+      "Group activities",
+      "Pretty flowers",
+      "Soft stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Leafy plant",
+    "description": "A plant with glossy leaves. It's actually related to the taro root",
+    "category": "Decoration",
+    "favorites": [
+      "Pretty flowers",
+      "Wobbly stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Extravagant flowers",
+    "description": "With robust orange flowers in full bloom, using this decoration is sure to add some color to an area",
+    "category": "Decoration",
+    "favorites": [
+      "Pretty flowers",
+      "Stone stuff",
+      "Wobbly stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Decorative plant shelf",
+    "description": "A long vine droops from the potted plant on this decorative shelf. Perfect for livening up any wall!",
+    "category": "Decoration",
+    "favorites": [
+      "Pretty flowers",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Chansey plant",
+    "description": "A tree that looks just like a Chansey! Looking at it seems to fill you with a gentle energy",
+    "category": "Decoration",
+    "favorites": [
+      "Pretty flowers",
+      "Blocky stuff",
+      "Luxury",
+      "Cute stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Wildflowers",
+    "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mind",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Seashore flowers",
+    "description": "The symbol of a port town. Looking at these seems to refresh you.",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Mountain flowers",
+    "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Skyland flowers",
+    "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Beautiful flower",
+    "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stems",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Cute flower",
+    "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9mon",
+    "category": "",
+    "favorites": [
+      "Pretty flowers",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Elegant flower",
+    "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolve",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Robust flower",
+    "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Wildflowers (orange)",
+    "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Wildflowers (purple)",
+    "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Wildflowers (red)",
+    "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Wildflowers (blue)",
+    "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Seashore flowers (blue)",
+    "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Seashore flowers (orange)",
+    "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Seashore flowers (white)",
+    "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Seashore flowers (yellow)",
+    "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Mountain flowers (pink)",
+    "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Mountain flowers (purple)",
+    "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Mountain flowers (red)",
+    "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Mountain flowers (white)",
+    "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Skyland flowers (blue)",
+    "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Skyland flowers (orange)",
+    "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Skyland flowers (pink)",
+    "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Skyland flowers (yellow)",
+    "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Beautiful flower (pink)",
+    "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Beautiful flower (purple)",
+    "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Beautiful flower (white)",
+    "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Beautiful flower (yellow)",
+    "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Cute flower (blue)",
+    "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Cute flower (pink)",
+    "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Cute flower (white)",
+    "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Cute flower (yellow)",
+    "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Elegant flower (orange)",
+    "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Elegant flower (pink)",
+    "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Elegant flower (red)",
+    "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Elegant flower (yellow)",
+    "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Robust flower (blue)",
+    "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Robust flower (orange)",
+    "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Robust flower (purple)",
+    "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Robust flower (white)",
+    "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Pretty flowers"
+    ]
+  },
+  {
+    "name": "Flower backpack",
+    "description": "The big flower makes this backpack stand out! Looks like it could hold everything you need for a picnic",
+    "category": "",
+    "favorites": [
+      "Pretty flowers",
+      "Soft stuff",
+      "Cute stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Berry case",
+    "description": "At a glance, this looks just like a glossy Cheri Berry. It opens wide for you to store things inside",
+    "category": "Decoration",
+    "favorites": [
+      "Looks like food",
+      "Cute stuff",
+      "Containers",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry table",
+    "description": "A large Aspear Berry table. It looks real enough to make you want to bite into it.",
+    "category": "",
+    "favorites": [
+      "Looks like food",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry chair",
+    "description": "When placed on the ground, it looks just like a buried Leppa Berry. The steam and leaves are a backrest.",
+    "category": "Relaxation",
+    "favorites": [
+      "Looks like food",
+      "Soft stuff",
+      "Cute stuff",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry bed",
+    "description": "A large Pecha Berry-themed bed. It's springy texture provides ultimate comfort at bedtime.",
+    "category": "Relaxation",
+    "favorites": [
+      "Looks like food",
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry basket",
+    "description": "A basket packed with berries. Line up a few to make your very own fruit stand!",
+    "category": "Decoration",
+    "favorites": [
+      "Looks like food",
+      "Blocky stuff",
+      "Containers",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry clock",
+    "description": "A clock that resembles an Oran Berry cross section. Try mounting it on a wall",
+    "category": "Toy",
+    "favorites": [
+      "Looks like food",
+      "Wobbly stuff",
+      "Cute stuff",
+      "Fabric",
+      "Lots of nature",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Berry table lamp",
+    "description": "A Rawst Berry made of glass. Power it on to illuminate the area with pale blue light",
+    "category": "Decoration",
+    "favorites": [
+      "Looks like food",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Berry print (wallpaper)",
+    "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
+    "category": "",
+    "favorites": [
+      "Looks like food",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Leftovers",
+    "description": "Someone's leftover food. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Looks like food"
+    ]
+  },
+  {
+    "name": "Berry print",
+    "description": "Sweeyt berries, spicy berries, bitter berries... This pattern has berry flavors for everyone",
+    "category": "",
+    "favorites": [
+      "Looks like food",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Luxury chair",
+    "description": "A classy-looking seat with a gemstone embedded in it. Just sitting on it makes you feel rich.",
+    "category": "Relaxation",
+    "favorites": [
+      "Spooky stuff",
+      "Luxury",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Pitcher-plant pot",
+    "description": "A flower vase with a pink lip that resembles a Pok\u00e9mon's mouth. It emanates a faintly sweet aroma",
+    "category": "Decoration",
+    "favorites": [
+      "Spooky stuff",
+      "Stone stuff",
+      "Wobbly stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Munna bank",
+    "description": "An especially heavy money box. It feels like it's full of coins",
+    "category": "Toy",
+    "favorites": [
+      "Spooky stuff",
+      "Stone stuff",
+      "Cute stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Mysterious statue",
+    "description": "Doesn't seem like anyone knows exactly what this is a statue of...",
+    "category": "Decoration",
+    "favorites": [
+      "Spooky stuff",
+      "Strange stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Gravestone",
+    "description": "A place where souls can rest in peace. Ghost-type Pok\u00e9mon might enjoy this",
+    "category": "Decoration",
+    "favorites": [
+      "Spooky stuff",
+      "Letters and words",
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Spell Tag",
+    "description": "A sinister, eerie tag. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Spooky stuff"
+    ]
+  },
+  {
+    "name": "Squishy clay",
+    "description": "A soft malleable crafting material used for all sorts of things. It can also be fired and hardened into  bricks",
+    "category": "",
+    "favorites": [
+      "Soft stuff"
+    ]
+  },
+  {
+    "name": "Fluff",
+    "description": "An irresistibly soft tuft of fluff. Pok\u00e9mon with the Litter specialty may scatter this",
+    "category": "",
+    "favorites": [
+      "Soft stuff",
+      "Fabric",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Straw stool",
+    "description": "This is the perfect size for small Pok\u00e9mon to take a seat!",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff"
+    ]
+  },
+  {
+    "name": "Simple cushion",
+    "description": "A simple practical cusion. It's filled with cotton and provides a soft seat.",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Plain stool",
+    "description": "A stool with a simple design. Small Pok\u00e9mon can use this as a seat",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Resort stool",
+    "description": "While this stool looks stiff, the cotton padding inside makes it surprisingly soft",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Soft seat",
+    "description": "A cushioned seat that's soft and fluffy-perfect for waiting rooms, relaxation spaces, and the like!",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Blocky stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Box Sofa",
+    "description": "A small square sofa. Line up several of them to make a wide chic sofa",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Blocky stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Plain chair",
+    "description": "This chair is just the right height for eating meals in the dining room",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Fabric",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Resort chair",
+    "description": "A chair perfect for relaxing. Kick back on this to taste a bit of the resort life",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Chic chair",
+    "description": "A luxurious loung chair. Sitting on its soft cushions is absolutely beyond compare!",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Luxury",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Fancy chair",
+    "description": "A high-class chair with a real dignified feel to it. Just sitting here will make you feel important.",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Luxury",
+      "Spinning stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Office chair",
+    "description": "With a gentle curve to support the body, this chair was designed to help you sit longer without tiring",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Spinning stuff",
+      "Fabric",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cute chair",
+    "description": "The ruffle skirt is exceptionally cute and lovely",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Mini plain bed",
+    "description": "A small, plain bed. Great for solo sleepers!",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Blocky stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Resort bed",
+    "description": "A refreshingly cool bed made of woven vines. Lying down on this makes you feel like you're at a resort",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Iron bed",
+    "description": "A slightly narrow bed. It's sturdy enough for a good night's sleep!",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Fabric",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Beach chair",
+    "description": "Lean back and relax in this chair. It pairs perfectly with a beach parasol",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Ocean vibes",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Straw bed",
+    "description": "It's a little itchy, but that doesn't bother Pok\u00e9mon. They'll snooze away just fine on this.",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Ball bed",
+    "description": "A big bed. Even large Pok\u00e9mon could sprawl out on it.",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Cute bed",
+    "description": "You'll feel like royalty sleeping on this cute canopy bed.",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Naptime bed",
+    "description": "Kick back right on top of Snorlax's belly. It feels so comfy you could snooze through the whole day",
+    "category": "Relaxation",
+    "favorites": [
+      "Soft stuff"
+    ]
+  },
+  {
+    "name": "Eevee doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Pikachu doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Clefairy doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Dragonite doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Ditto doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Substitute doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Soft stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Soft Sand",
+    "description": "Loose, silky sand. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Soft stuff"
+    ]
+  },
+  {
+    "name": "Light Clay",
+    "description": "Yellowish-green clay. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Soft stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Cotton Spores",
+    "description": "Small, white tufts of cotton. Bring them to Hoppip!",
+    "category": "",
+    "favorites": [
+      "Soft stuff"
+    ]
+  },
+  {
+    "name": "Deck chair",
+    "description": "Lean this chair backa nd relax for a bit. It looks great for sunbating.",
+    "category": "Relaxation",
+    "favorites": [
+      "Ocean vibes"
+    ]
+  },
+  {
+    "name": "Ship's Wheel",
+    "description": "A wheel used to steer a ship. It spinds round and round when you touch it!",
+    "category": "Toy",
+    "favorites": [
+      "Ocean vibes",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Shell lamp",
+    "description": "It looks like a simple seashell at first glance, but hang it up and power it on, and it emits a gentle light",
+    "category": "Decoration",
+    "favorites": [
+      "Ocean vibes",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Resort light",
+    "description": "A light that resembles a ball of tangled string. Its gentle glow creates a fancy atmosphere",
+    "category": "Decoration",
+    "favorites": [
+      "Ocean vibes",
+      "Wobbly stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Wall storage box",
+    "description": "It may be small, but it can store lots of stuff. Try mounting it on a wall",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Plain chest",
+    "description": "A chest with a simple design. It can be used to store items.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Fabric",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Office cabinet",
+    "description": "Compacy furniture that's surprisingly spacious. Open the sliding door to put items inside",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Wooden stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Antique chest",
+    "description": "Its four curvy legs are adorable. Try putting lots of different things in the draw",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Luxury",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Plain closet",
+    "description": "Open the curtains and store your stuff! You don't actually need the hangers-but they're there anyway!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Fabric",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Office locker",
+    "description": "A large locker that can even hold clothing. Try storing lots of different things in it!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Antique closet",
+    "description": "A large bulky closet. Try storing different things in it!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Luxury",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Office shelf",
+    "description": "This is jam-packed with so many files that it can't hold anything else",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Glass stuff",
+      "Gatherings",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Plain stand",
+    "description": "This low table has a simple design and is perfect for displaying items",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Fabric",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Iron stand",
+    "description": "An impressively stury iron stand. Effortlessly supports even heavy items",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Shiny stuff",
+      "Hard stuff",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Wooden stool",
+    "description": "It's a little chipped but surprisingly sturdyy. Even if a Pok\u00e9mon sits on it, it won't break. Probably.",
+    "category": "Relaxation",
+    "favorites": [
+      "Blocky stuff"
+    ]
+  },
+  {
+    "name": "Iron chair",
+    "description": "Though small, this seat is very sturdy. It doesn't look like it would break easily.",
+    "category": "Relaxation",
+    "favorites": [
+      "Blocky stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Public seat",
+    "description": "A simple chair without a backrest. Try arranging a bunch of 'em together",
+    "category": "Relaxation",
+    "favorites": [
+      "Blocky stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Wall mirror",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Glass stuff",
+      "Luxury",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Large mirror",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Glass stuff",
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Letter",
+    "description": "A simple sealed letter. It has a Pok\u00e9 Ball stamp on it",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Notepad",
+    "description": "It's full of important-looking notes, so there's no space to write anything else!",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Book",
+    "description": "A thick hardcover book. The pages inside were written in small print",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Open Book",
+    "description": "A classic hardcover book. It's probably got a lot of difficult words inside",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Papers",
+    "description": "Lots of tiny words are written on the white pages along with drawings of colorful shapes",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Newspaper",
+    "description": "Its pages are filled with small, tightly-packed letters. What could be written here?",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Wall photo frame",
+    "description": "You can put one of your photos in this frame and hang it on a wall.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Watching stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Corkboard",
+    "description": "Choose one of your favorite photos to hang on this corkboard!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Gatherings",
+      "Watching stuff"
+    ]
+  },
+  {
+    "name": "Microwave oven",
+    "description": "This lights up when powered on, but it doesn't seem like it can heat anything...",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Refrigerator",
+    "description": "It emits a slight chill, but it doesn't seem like it can keep anything cold",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Containers",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Tablet",
+    "description": "A convenient, easy-to-carry computer. It's got a hard case so no worries if you drop it!",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cell phone",
+    "description": "A device carefully protected inside a hard case. It can't make calls, even when powered on",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Laptop",
+    "description": "A sleek, easy-to-carry laptop. Try displaying some photos on the monitor.",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Speaker",
+    "description": "Putting this next to a stage or an audio mixer ought to create an electrifying atmosphere!",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Noisy stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Cardboard boxes",
+    "description": "Light cardboard boxes. It doesn't look like they have anything inside",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Gatherings",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Control unit",
+    "description": "This has a bunch of switches, but it doesn't look like any of them do anything",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Wall Calendar",
+    "description": "A calendar that's simple and easy to use. It meshes well with pretty much any wall.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Hanging scroll",
+    "description": "A scrol with phenomenal brushwork. Hang it on a wall to create a solemn atmosphere",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Menu board",
+    "description": "Specials are written on this board, but it doesn't seem like Pok\u00e9mon can actually read them.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Worn wooden crate",
+    "description": "A sturdy but somewhat shabby box. Stack a bunch of them to create a warehouse vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Wooden crate",
+    "description": "You have absolutely no idea how to open this box...But you can put stuff on top of it at least!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Large ventilation fan",
+    "description": "A huge, flat ventilation fan-the kind you'd find on top of a building or a house.",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Nice breezes",
+      "Spinning stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Frame",
+    "description": "A frame for hanging an item on a wall. Try putting different things inside!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Letters and words",
+      "Watching stuff",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Mini generator",
+    "description": "Place this anywhere, and it will generate electricity all on its own. What a remarkable machine!",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Shiny stuff",
+      "Strange stuff",
+      "Electronics",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Wall light",
+    "description": "A light that can be fixed to a wall. Power it on and it'll light the area with a warm glow",
+    "category": "Decoration",
+    "favorites": [
+      "Blocky stuff",
+      "Glass stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Town map",
+    "description": "A map of...somewhere. You can't make heads or tails of it but it looks pretty nice on a wall",
+    "category": "Toy",
+    "favorites": [
+      "Blocky stuff",
+      "Strange stuff",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Science experiment",
+    "description": "Chemicals, testing equipment, and a clipboard... OK! The experiment is ready to begin!",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Glass stuff",
+      "Gatherings",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Decorative bookshelf",
+    "description": "A decorative shelf with colorful books on it. Perfect for livening up any wall!",
+    "category": "Decoration",
+    "favorites": [
+      "Letters and words",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Grubby letter",
+    "description": "A yellowed letter, still sealed. It's got a postage stamp with a Pok\u00e9 Ball pattern on it.",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Garbage",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Grubby notepad",
+    "description": "It looks like there's some pretty important stuff written on this, but it's a little grimy",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Garbage",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Grubby book",
+    "description": "",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Garbage",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Grubby papers",
+    "description": "Lots of tiny words are written on the yellowed pages along with drawings of colorful shapess.",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Garbage",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Grubby newspaper",
+    "description": "A newspaper with noticeable dirt and grime. It smells like old paper",
+    "category": "Toy",
+    "favorites": [
+      "Letters and words",
+      "Garbage",
+      "Watching stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Arrow sign",
+    "description": "An arrow-shaped sign. You could use it as a guidepost at forked roads",
+    "category": "Decoration",
+    "favorites": [
+      "Letters and words",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Weakness Policy",
+    "description": "A piece of paper with clean, neat writing on it. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Letters and words"
+    ]
+  },
+  {
+    "name": "Crystal fragment",
+    "description": "A piece of broken crystal. It's transparent, so you can see right through it.",
+    "category": "",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Stardust",
+    "description": "Sand that can be processed into Star Pieces. It can be found on Dream Islands",
+    "category": "",
+    "favorites": [
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Ball Chest",
+    "description": "This looks like a giant Pok\u00e9 Ball. It opens wide for you to store things inside",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Cute stuff",
+      "Containers",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Computer",
+    "description": "A computer that looks like it belongs in a laboratory. Some notes have been stuck to it here and there",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Crystal ball",
+    "description": "A large crystal ball used for fortune-telling. Give it to a Psychic-type Pok\u00e9mon and see what happens",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Strange stuff",
+      "Glass stuff",
+      "Fabric",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Tabletop mic",
+    "description": "A microphone like those used at recording studios or public speeches. Try putting it on a desk!",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Gold Teeth",
+    "description": "Their lustrous golden shine hasn't changed at all. Maybe someone dropped them long ago?",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Strange stuff",
+      "Stone stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Big Nugget",
+    "description": "It's made of pure gold that gives off a lustrous gleam. It seems like it was popular among enthusiasts.",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Stone stuff",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Auspicious Armor",
+    "description": "Heavy armor recreated from armor fragments. Auspicious wishes live within it",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Strange stuff",
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Clear Bell",
+    "description": "A very-old fashioned bell that makes a gentle ringing sound. Ring it in an open space to call Ho-Oh",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Strange stuff",
+      "Noisy stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Gym emblem statue",
+    "description": "This stone statue makes you feel pumped up. Would look great on a pedestal",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Spacesuit",
+    "description": "Clothing designed for living in outer space. Keeps the wearer safe even in an airless environment",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Stone stuff",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Model space shuttle",
+    "description": "A realistic model that looks like it could blast off at any second. Could it have been in some museum?",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Nice breezes",
+      "Stone stuff",
+      "Rides",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Bell",
+    "description": "A golden, wall-mounted bell. When struck, it rings with a pleasant sound.",
+    "category": "Toy",
+    "favorites": [
+      "Shiny stuff",
+      "Strange stuff",
+      "Wobbly stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Red meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Orange meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Yellow meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Green meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Blue meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Indigo meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Violet meteor lamp",
+    "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Mirror ball",
+    "description": "Sparkles and twinkles when powered on. Quickly turns the whole area into a party zone",
+    "category": "Decoration",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff",
+      "Electronics",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Star Piece",
+    "description": "Apparently, if you give this to a Pok\u00e9mon visiting from far away, they'll give you a gift in return",
+    "category": "",
+    "favorites": [
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Nugget",
+    "description": "It's made of pure gold that gives off a lustrous gleam. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Shiny stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Silver Bottle Cap",
+    "description": "A lovely silver bottle cap. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Shiny stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Gold Bottle Cap",
+    "description": "A lovely gold bottle cap. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Shiny stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Metal Powder",
+    "description": "An extremely fine, yet hard metal pwoder. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Clear Amulet",
+    "description": "An amulent that always stays clear and sparkling. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Shiny stuff",
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Rainbow Feather",
+    "description": "A mysterious feather that shines with a rainbow light. Looks like it fell from a Pok\u00e9mon flying in the sky...",
+    "category": "",
+    "favorites": [
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Silver Feather",
+    "description": "A mysterious feather that shines with a silver light. Looks like it fell from a Pok\u00e9mon flying in the sky...",
+    "category": "",
+    "favorites": [
+      "Shiny stuff"
+    ]
+  },
+  {
+    "name": "Armor fragment",
+    "description": "A piece of shattered armor. Gather all the shards to create armor brimming with emotions",
+    "category": "",
+    "favorites": [
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Polygonal Shelf",
+    "description": "A stylish, eye-catching shelf. Looks hard to use but still functions as a shelf just fine,",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Cute stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Luxury dresser",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Luxury",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Cute dresser",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Cute stuff",
+      "Containers"
+    ]
+  },
+  {
+    "name": "Wiggly mirror",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Watching stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Air conditioner",
+    "description": "A state-of-the-art air conditioner. Press once for cold air, or press twice for hot",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Nice breezes",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Printer",
+    "description": "A large printer used by businesses. Perfect for an office or other workspaces!",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Electronics",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Alarm Clock",
+    "description": "A loud noise rings out when you press this. Be careful! You might accidentally wake someone up",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Noisy stuff",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Microscope",
+    "description": "A microscope often found in chemistry labs and research institutions. Essential for experiments!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Watching stuff",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cool electric guitar",
+    "description": "A snazzy guitat strung with strange strings. Holding it would make you feel pretty amped...",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Noisy stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Cool bass guitar",
+    "description": "A snazzy bass guitar strung with strange strings. Holding it would make you feel pretty low-key...",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Noisy stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Audio mixer",
+    "description": "Plug it in and switch on the screen. DJ Ditto is in the house!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Electronics",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Repel",
+    "description": "When you press the spray cap, a weird scent spritzes out and permeates the area",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Malicious Armor",
+    "description": "Heavy armor recreated from armor fragments. Malicious will lurks within it",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Tidal Bell",
+    "description": "A very-old fashioned bell that makes a gentle ringing sound. Ring it in an open space to call Lugia",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Nice breezes",
+      "Noisy stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Decorative storage shelf",
+    "description": "A decorative shelf lined with ceramic bottles. Attach it to a wall to liven up any space!",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Stone stuff",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Rowlet clock",
+    "description": "A wall clock shaped like a small house. Rowlet will pop out to let you know what time it is",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Watching stuff",
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Ceiling fan",
+    "description": "Its blades spin round and round when powered on. Great for when you want to circulate air!",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Nice breezes",
+      "Spinning stuff",
+      "Wobbly stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Castform weather charm",
+    "description": "A reversible Castform doll. Rumor has it, when the doll changes form, the weather changes too!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Spinning stuff",
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Bike",
+    "description": "A cool bicycle that looks high-end. It sparkles as if it's brand-new",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Rides",
+      "Exercise",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cannon",
+    "description": "Put fireworks or a Pok\u00e9mon with the Explode specialty inside, light the fuse, and watch 'em fly!",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Excavation tools",
+    "description": "A sturdy-looking pickax and shovel. They're wasted on any Pok\u00e9mon who can already dig, though.",
+    "category": "Toy",
+    "favorites": [
+      "Strange stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Cash register",
+    "description": "Place this on a table and power it on, and Pok\u00e9mon will come by to conduct trades!",
+    "category": "",
+    "favorites": [
+      "Strange stuff",
+      "Containers",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Card reader",
+    "description": "A machine that reads key cards or Pok\u00e9dexes. Mount it to a wall.",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Electronics",
+      "Complicated stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Ball lamp",
+    "description": "Emits a brilliant light when powered on. This would look great on a shelf",
+    "category": "Decoration",
+    "favorites": [
+      "Strange stuff",
+      "Glass stuff",
+      "Luxury",
+      "Electronics",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Large Lost Relic",
+    "description": "Is this a time capsule? Professor Tangrowth might know what it is!",
+    "category": "",
+    "favorites": [
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Small Lost Relic",
+    "description": "It looks like canned food but doesn't seem to have anything isnide. Show it to Professor Tangrowth",
+    "category": "",
+    "favorites": [
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Twisted Spoon",
+    "description": "A spoon imbued with telekinetic energy. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Strange stuff"
+    ]
+  },
+  {
+    "name": "Metal drum",
+    "description": "A smooth, clean canister. It's empty, so it's actually quite light",
+    "category": "Decoration",
+    "favorites": [
+      "Construction",
+      "Containers",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron pipes",
+    "description": "A pile of iron pipes that looks like it belongs at a construction site",
+    "category": "Decoration",
+    "favorites": [
+      "Construction",
+      "Gatherings",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron-scaffold plank",
+    "description": "A plank that rests atop an iron scaffold. Try using it to extend the length of your scaffolding!",
+    "category": "Road",
+    "favorites": [
+      "Construction"
+    ]
+  },
+  {
+    "name": "Iron scaffold",
+    "description": "A sturdy scaffold used for constructing buildings. The plank's bumpy surface provides great tractions.",
+    "category": "Road",
+    "favorites": [
+      "Construction"
+    ]
+  },
+  {
+    "name": "Sea glass fragments",
+    "description": "Pieces of glass that have been polished and buffed by ocean waves. They're used to make glass objects.",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Glass",
+    "description": "You can make glass by melting sand or sandstone in a furnace, or obtain it by smashing broken windos",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Antique dresser",
+    "description": "Look into the mirror to change your transformation and perfect your look!",
+    "category": "Toy",
+    "favorites": [
+      "Glass stuff",
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Dining cabinet",
+    "description": "A cupboard packed full of plates, cups-even a tea set",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Luxury",
+      "Gatherings",
+      "Containers",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Spaceship",
+    "description": "a vehicle meant for traveling to outerspace. Hermetically sealed so air doesn't escape.",
+    "category": "Toy",
+    "favorites": [
+      "Glass stuff",
+      "Stone stuff",
+      "Round stuff",
+      "Rides",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Antique clock",
+    "description": "This clock ticks away the hours. It lets out a loud bong at designated times",
+    "category": "Toy",
+    "favorites": [
+      "Glass stuff",
+      "Luxury",
+      "Wooden stuff",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Plain lamp",
+    "description": "Powering this on illuminates the surroundings with warm light",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Cute lamp",
+    "description": "A cute decorative lamp, even when it's turned off. Power it on to make the central heart glow.",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Cute stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Garden light",
+    "description": "A light that's perfect for a garden. Beautifully illuminates flowers-even at night",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Lantern",
+    "description": "This emits bright light when powered on. You'll feel safe if you have this, even in a dark cave",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Seedot Lamp",
+    "description": "When mounted to a wall, this looks just like a Seedot hanging from a branch!",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Lots of nature",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "String lights",
+    "description": "Hang these lights on the wall and power them on to create a lively atmosphere",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Gatherings",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Pop art lamp",
+    "description": "The bright bulb bounces off a shiny lampshade. Looking at it seems to improve your mood!",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Surface light",
+    "description": "Simple inconspicuous lights. You can embed them in ceilings and walls.",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Spotlight",
+    "description": "When powered on, this light shines brightly on whatever is in front of it",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Antique chandelier",
+    "description": "Hang this from the ceiling to illuminate a room with gentle light. Perfeect for a mansion aesthetic!",
+    "category": "Decoration",
+    "favorites": [
+      "Glass stuff",
+      "Luxury",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Modern door",
+    "description": "A simple yet sturdy door that would make the perfect entrance to a house",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Glass window",
+    "description": "A simple window that fits in any space. Arrange multiple vertically orhorizontally-your call.",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Window pane",
+    "description": "A framed glass pane. It makes a great window or partition",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Stained-glass window (upper)",
+    "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Stained-glass window (middle)",
+    "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Stained-glass window (lower)",
+    "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Sash window",
+    "description": "A long, vertical window with a cute cross trim. Try opening up the bottom half",
+    "category": "",
+    "favorites": [
+      "Glass stuff"
+    ]
+  },
+  {
+    "name": "Fan",
+    "description": "Power on this fan to make it swivel. Pok\u00e9mon might stop by to watch it move",
+    "category": "Toy",
+    "favorites": [
+      "Nice breezes",
+      "Spinning stuff",
+      "Electronics",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Weather vane",
+    "description": "A decoration that spins around and around in the wind. Looks like a bird Pok\u00e9mon perched on a post.",
+    "category": "Toy",
+    "favorites": [
+      "Nice breezes",
+      "Spinning stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Antique table",
+    "description": "Its lumpy legs are cute. You can make a large table by arranging several of these together",
+    "category": "",
+    "favorites": [
+      "Luxury",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Chic table",
+    "description": "A table that would look right at home in a facny restaurant. Perfect for a decadent dinner",
+    "category": "",
+    "favorites": [
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Luxury table",
+    "description": "An extravagant marble table. Setting one down brings elegance to any room.",
+    "category": "",
+    "favorites": [
+      "Luxury"
+    ]
+  },
+  {
+    "name": "Stone",
+    "description": "Just a normal stone you can find anywhere. It can be used as a material for a lot of things",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Pencil holder",
+    "description": "A pencil holder with lots of poencils in it. Try putting this on top of a study desk",
+    "category": "Toy",
+    "favorites": [
+      "Stone stuff",
+      "Gatherings",
+      "Containers",
+      "Complicated stuff"
+    ]
+  },
+  {
+    "name": "Concrete pipe",
+    "description": "Link several of these to make the pipe as long as you want! The inside is pitch black",
+    "category": "Decoration",
+    "favorites": [
+      "Stone stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Garden ornament",
+    "description": "This decoration looks like Maushold spending quality time on a log.",
+    "category": "Decoration",
+    "favorites": [
+      "Stone stuff",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Ditto Flag",
+    "description": "A flag that marks Ditto's house. Place it on a house you want to live in.",
+    "category": "",
+    "favorites": [
+      "Stone stuff"
+    ]
+  },
+  {
+    "name": "Stone tiling (wallpaper)",
+    "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone flooring (wallpaper)",
+    "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone brick wall (wallpaper)",
+    "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone brick wall",
+    "description": "Stone bricks that exude calmness. They're perfect for making buildings, flower beds, and such.",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone pillar (upper)",
+    "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone pillar (middle)",
+    "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone pillar (lower)",
+    "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone flooring",
+    "description": "Place these to create an entryway. Most folks won't notice if it gets a little dirty.",
+    "category": "Road",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone tiling",
+    "description": "Even rough, ordinary stones can be polished and stacked to make shiny tiles",
+    "category": "Road",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone steps",
+    "description": "Steps made of stacked stones. Place several of these for a stately atmosphere",
+    "category": "Road",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone hipped roof",
+    "description": "You can arrange these vertically or horizontally to make a roof",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone roof valley",
+    "description": "When you're planning out the shape of your roof, putting in some valleys adds a really nice touch",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone roof decoration",
+    "description": "Try putting this on a roof! It looks great whether you install one or a whole bunch",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone debris",
+    "description": "Sometimes found blocking the road. Break them to obtain stones.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Metal Debris",
+    "description": "It's hard to tell what these warn out objects were originally. They look difficult to process as is.Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Stone stuff",
+      "Hard stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron table",
+    "description": "Iron-crafted with a simple design. This would work well in any sleekly stylish room",
+    "category": "",
+    "favorites": [
+      "Hard stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron rack",
+    "description": "Decorate your space by putting your favorite things on these stackable shelves!",
+    "category": "",
+    "favorites": [
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Stone table",
+    "description": "A table made from stones. It's as hard as an Onix!",
+    "category": "",
+    "favorites": [
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Strength rock",
+    "description": "Though this boulder is incredibly big, it looks like you could use Strength to push it.",
+    "category": "",
+    "favorites": [
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Iron Ball",
+    "description": "A round, black iron ball. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Hard stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Lagging Tail",
+    "description": "A tremendously heavy tail of something. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Hard stuff"
+    ]
+  },
+  {
+    "name": "Nonburnable garbage",
+    "description": "Trash discared here and there. Apparently some Pok\u00e9mon are big fans of garbage",
+    "category": "",
+    "favorites": [
+      "Garbage"
+    ]
+  },
+  {
+    "name": "Wastepaper",
+    "description": "These look tough to craft in their current state. Try recycling them into regular paper",
+    "category": "",
+    "favorites": [
+      "Garbage"
+    ]
+  },
+  {
+    "name": "Small garbage can",
+    "description": "A simple, colorful trash can, perfect for indoor use",
+    "category": "Decoration",
+    "favorites": [
+      "Garbage",
+      "Containers",
+      "Round stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Grubby tablet",
+    "description": "A convenient, easy-to-carry deivce. Even though it's inside a hard case, the screen is cracked",
+    "category": "Toy",
+    "favorites": [
+      "Garbage"
+    ]
+  },
+  {
+    "name": "Grubby cell phone",
+    "description": "A device with a cracked screen. It can't make any calls, even when powered on.",
+    "category": "Toy",
+    "favorites": [
+      "Garbage"
+    ]
+  },
+  {
+    "name": "Garbage bags",
+    "description": "Trash bags found most anywhere. Certain Pok\u00e9mon find their odor irresistible",
+    "category": "Decoration",
+    "favorites": [
+      "Garbage",
+      "Gatherings"
+    ]
+  },
+  {
+    "name": "Garbage bin",
+    "description": "This trash can is big enough that a Pok\u00e9mon could probably fit inside!",
+    "category": "Decoration",
+    "favorites": [
+      "Garbage",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Recycling bin",
+    "description": "A bin for disposing of empty cans. It's just big enough for a Pok\u00e9mon to fit inside",
+    "category": "Decoration",
+    "favorites": [
+      "Garbage",
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Nonburnable garbage (outdoor)",
+    "description": "Obtained through a special method, thwese can be placed just as they are now",
+    "category": "",
+    "favorites": [
+      "Garbage"
+    ]
+  },
+  {
+    "name": "Folding chair",
+    "description": "A foldable chair that's simple and easy to carry. Set these up at event venues or similar spaces!",
+    "category": "Relaxation",
+    "favorites": [
+      "Wobbly stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Big drum",
+    "description": "A very impessive drum. Beat it to produce a loud, invigorating da-a-DUM!",
+    "category": "Toy",
+    "favorites": [
+      "Wobbly stuff",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Tires",
+    "description": "This tire stack looks like it could collapse at any moment, but oddly enough it stays upright",
+    "category": "Toy",
+    "favorites": [
+      "Wobbly stuff",
+      "Gatherings",
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Blank canvas",
+    "description": "A completely empty canvas. A Pok\u00e9mon artist might be inspired to paint something on it.",
+    "category": "Decoration",
+    "favorites": [
+      "Watching stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Cute table",
+    "description": "A table with cute lace and frills. It somehow reminds you of Fairy types",
+    "category": "",
+    "favorites": [
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Pop art table",
+    "description": "A shiny, round table. It's as smooth as a Porygon2",
+    "category": "",
+    "favorites": [
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Arcanine doll",
+    "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
+    "category": "Toy",
+    "favorites": [
+      "Cute stuff",
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Heart Scale",
+    "description": "An extremely rare scale. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Fairy Feather",
+    "description": "A feather that gleams faintly when hit by light. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Cute stuff"
+    ]
+  },
+  {
+    "name": "Mailbox",
+    "description": "A box for receiving letters. It'd look really nice in front of a house!",
+    "category": "Decoration",
+    "favorites": [
+      "Containers",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Barrel",
+    "description": "It's totally empty inside. You could put something on top to make it look nice",
+    "category": "Decoration",
+    "favorites": [
+      "Containers",
+      "Round stuff",
+      "Wooden stuff",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Utility pole",
+    "description": "Use these to connect electrical generators to machines and send electricity over long distances.",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Wireless power-transmitter switch",
+    "description": "Connect these to electrical generators to use them. Put a switch nearby to quickly turn things on or off",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Wireless power transmitter",
+    "description": "Use these to connect electrical generators to machines and send electricity over long distances.",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Floor switch",
+    "description": "A ground-mounted switch that activates nearby machinery when it detects weight",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Wall switch",
+    "description": "A switch that would look perfect installed on a house wall. Press it to activate nearby devices",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Laser sensor",
+    "description": "When this sensor detects movement, it activates devices nearby",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Security camera",
+    "description": "A camera that watches over its surroundings. Place one anywhere you want to keep an eye on",
+    "category": "",
+    "favorites": [
+      "Electronics"
+    ]
+  },
+  {
+    "name": "Mushroom lamp",
+    "description": "The mushroom emits a gentle glow, illuminating the surroundings with soft light",
+    "category": "Decoration",
+    "favorites": [
+      "Electronics",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Silk Scarf",
+    "description": "A sumptuous scarf. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Room Service",
+    "description": "A luxurious cart with a metal cloche. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Fabric"
+    ]
+  },
+  {
+    "name": "Straw table",
+    "description": "Table may be an overly generous description of this big slab of stone atop a pile of hay",
+    "category": "",
+    "favorites": [
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Log table",
+    "description": "With just some cutting and sanding, you can turn logs into a proper table",
+    "category": "",
+    "favorites": [
+      "Lots of nature",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Garden table",
+    "description": "A stylish table that would look nice with a garden chair or two",
+    "category": "",
+    "favorites": [
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Log chair",
+    "description": "You can sit on this log to take a quick breather. Other Pok\u00e9mon might stop by to take a break too.",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of nature",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Garden chair",
+    "description": "A chair that would be perfect in a nice garden. Take a seat and enjoy an elegant afternoon.",
+    "category": "Relaxation",
+    "favorites": [
+      "Lots of nature",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Miracle Seed",
+    "description": "A seed imbued with life force. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Silver Powder",
+    "description": "A shiny silver powder. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Big Root",
+    "description": "The root of some plant. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Lots of nature"
+    ]
+  },
+  {
+    "name": "Wreath",
+    "description": "A simple wreath crafted from branches and leaves. It'd look nice and elegant on a wall",
+    "category": "Decoration",
+    "favorites": [
+      "Round stuff",
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Firework (white)",
+    "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Firework (red)",
+    "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Firework (green)",
+    "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Firework (yellow)",
+    "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Firework (blue)",
+    "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Title Screen",
+    "description": "Music CD #1 If you have a music player, you can listen to an exciting tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Pallet Town",
+    "description": "Music CD #2 If you have a music player, you can listen to a tune for a tranquil town",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Oak's Lab",
+    "description": "Music CD #3 If you have a music player, you can listen to",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Road to Viridian City",
+    "description": "Music CD #4 If you have a music player, you can listen to an uplifting tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Pewter City Theme",
+    "description": "Music CD #5 If you have a music player, you can listen to a tune for a bustling town",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9mon Center",
+    "description": "Music CD #6 If you have a music player, you can listen to a tune that puts your mind at ease",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Caves of Mt. Moon",
+    "description": "Music CD #7 If you have a music player, you can listen to a mystifying tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Road to Cerulean City",
+    "description": "Music CD #8 If you have a music player, you can listen to a lighthearted tuune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Fuchsia City Theme",
+    "description": "Music CD #9 If you have a music player, you can listen to for a refreshing town",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9mon Gym",
+    "description": "Music CD #10 If you have a music player, you can listen to a powerful tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Road to Bill",
+    "description": "Music CD #11 If you have a music player, you can listen to a valiant tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Vermilion City Theme",
+    "description": "Music CD #12 If you have a music player, you can listen to for a town chock-full of energy",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "The S.S. Anne",
+    "description": "Music CD #13 If you have a music player, you can listen to a tune that reminds you of luxury",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Rocket Hideout",
+    "description": "Music CD #14 If you have a music player, you can listen to a terrifying tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Silph Co.",
+    "description": "Music CD #15 If you have a music player, you can listen to a suspicious tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Battle! (Gym Leader Battle)",
+    "description": "Music CD #16 If you have a music player, you can listen to a heart-pumping tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Union Cave",
+    "description": "Music CD #17 If you have a music player, you can listen to an eerie tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Ecruteak City",
+    "description": "Music CD #18 If you have a music player, you can listen to a graceful turne.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Bell Tower",
+    "description": "Music CD #19 If you have a music player, you can listen to a dignified tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Fortree City",
+    "description": "Music CD #20 If you have a music player, you can listen to a low-key tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Sootopolis City",
+    "description": "Music CD #21 If you have a music player, you can listen to a dreamy tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Route 209 (Day)",
+    "description": "Music CD #22 If you have a music player, you can listen to a nostalgic tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Mt. Coronet",
+    "description": "Music CD #23 If you have a music player, you can listen to a celestial tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Game Corner",
+    "description": "Music CD #24 If you have a music player, you can listen to an upbeat, fast-paced tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Driftveil City",
+    "description": "Music CD #25 If you have a music player, you can listen to a nautical tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Route 10 (Unova)",
+    "description": "Music CD #26 If you have a music player, you can listen to a tense tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Dress Up With Props",
+    "description": "Music CD #27 If you have a music player, you can listen to a cutesy pop tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Snowbelle City",
+    "description": "Music CD #28 If you have a music player, you can listen to a melancholy tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Boutique",
+    "description": "Music CD #29 If you have a music player, you can listen to",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Super Training!",
+    "description": "Music CD #30 If you have a music player, you can listen to an energetic tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Contest Spectacular",
+    "description": "Music CD #31 If you have a music player, you can listen to a fune tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Hau'oli City (Day)",
+    "description": "Music CD #32 If you have a music player, you can listen to a tropical tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Aether Paradise",
+    "description": "Music CD #33 If you have a music player, you can listen to a mysterious tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Ultra Ruin",
+    "description": "Music CD #34 If you have a music player, you can listen to a tune full of static and jumbled noises",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Wild Area (North)",
+    "description": "Music CD #35 If you have a music player, you can listen to a dynamic tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Wyndon",
+    "description": "Music CD #36 If you have a music player, you can listen to",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Rose Tower",
+    "description": "Music CD #37 If you have a music player, you can listen to a high-tempo tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Battle! (Gym Leader) 1",
+    "description": "Music CD #38 If you have a music player, you can listen to an invigorating tune.",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Jubilife Village",
+    "description": "Music CD #39 If you have a music player, you can listen to a warm, nostalgic tune",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "South Province",
+    "description": "Music CD #40 If you have a music player, you can listen to",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "The Academy",
+    "description": "Music CD #41 If you have a music player, you can listen to",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Area Zero",
+    "description": "Music CD #42 If you have a music player, you can listen to that feels special somehow",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Battle! (Gym Leader) 2",
+    "description": "Music CD #43 If you have a music player, you can listen to that fills you with courage",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Lucky Egg",
+    "description": "A round, white egg. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Life Orb",
+    "description": "A beautiful red orb. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Adrenaline Orb",
+    "description": "A round, blue ball. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Flame Orb",
+    "description": "A bizarre orb that always gives off heat. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Ring Target",
+    "description": "A target with distinctive balck and white rings. Try hanging it up in a frame!",
+    "category": "",
+    "favorites": [
+      "Round stuff"
+    ]
+  },
+  {
+    "name": "Storage box",
+    "description": "A convenient box you can store items in. It's made of wood and easy to move things in and out of.",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Big storage box",
+    "description": "Roughly three times bigger than your standard storage box. You can put a lot of things inside.",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Food counter",
+    "description": "A counter that is perfect for putting out food at parties",
+    "category": "Decoration",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Plain table",
+    "description": "This simple table can be placed just about anywhere! Try putting different things on it",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Study desk",
+    "description": "Just looking at this desk feels like it will somehow make you smarter",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Wooden plate",
+    "description": "If you put some food on this plate, Pok\u00e9mon might stop by to eat.",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Cutting board",
+    "description": "Kitchen equipment for making salads. Grab some ingredients and make something tasty!",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Stone fragments",
+    "description": "These fragments are so small that it'd be tough to process them into anything...Note: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Wooden stuff"
+    ]
+  },
+  {
+    "name": "Step stool",
+    "description": "A step stool for reaching things in high places. Try climbing on top of it.",
+    "category": "Toy",
+    "favorites": [
+      "Rides",
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Handcar",
+    "description": "These carts clang along atop railway tracks. You can even link a bunch of carts together",
+    "category": "",
+    "favorites": [
+      "Rides"
+    ]
+  },
+  {
+    "name": "Copper ore",
+    "description": "Raw mineral copper. When processed into ingots, it can be used as a crafting material",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron ore",
+    "description": "Metal that can be obtained from iron deposits. It can also be found among metal debris",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Gold ore",
+    "description": "Metal extracted from gold deposits. It glitters with a luxurious sheen",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Pok\u00e9metal fragment",
+    "description": "Colorful, sparkling metal extracted from Pok\u00e9metal deposits.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Rare Pok\u00e9metal fragment",
+    "description": "This can sometimes be found in Pok\u00e9metal deposits. If you find one, consider yourself extremely lucky!",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Copper ingot",
+    "description": "Copper that has been processed in a smelting furnace. It kinda looks like chocolate...",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron ingot",
+    "description": "Iron that has been processed in a smelting furnace. It's really hard and super heavy.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Gold ingot",
+    "description": "Gold that has been processed in a smelting furnace. Just looking at it makes you feel fancy",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Industrial desk",
+    "description": "A desk with a beautifuly wood grain texture. This would even look great outside the house.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Office desk",
+    "description": "A desk often used in offices. The pull-out drawer is locked and won't open.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Industrial chair",
+    "description": "A perfectly round chair that can easily fit anywhere. Surprisingly sturdy, thanks to its iron legs.",
+    "category": "Relaxation",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Spectator chair",
+    "description": "Audience seats like those are found at concert halls or stadiums. Try arranging a bunch of 'em in a row!",
+    "category": "Relaxation",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron-plate flooring (wallpaper)",
+    "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron wall",
+    "description": "A solid iron wlal. It gives off a slight sheen when it's exposed to light.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron-plate flooring",
+    "description": "Iron-plate flooring that looks like it belongs in a factory. Steel-type Pok\u00e9mon might enjoy this.",
+    "category": "Road",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron deposit",
+    "description": "A rock that looks like a chocolate cookie! Break it open to obtain iron ore.",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron steps",
+    "description": "Steps that wouldn't look out of place in a factory. They're a bit bumpy, which helps prevent slipping",
+    "category": "Road",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron ladder",
+    "description": "Great for reaching high places. Connect them vertically, then climb straight up",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron door",
+    "description": "A door with an antique pattern carved onto it. Would pair well with gorgeous furniture",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Iron gate",
+    "description": "Fancy double doors with a whirling patten. It would pair nicely with some metal fencing",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Corrugated metal",
+    "description": "Align several of these to crewate a roof that could probably protect against wind and rain",
+    "category": "Road",
+    "favorites": [
+      "Metal stuff"
+    ]
+  },
+  {
+    "name": "Metal fragments",
+    "description": "Metal fragments found on the ground. They look difficult to process into anythingNote: Not registered in collection",
+    "category": "",
+    "favorites": [
+      "Metal stuff"
+    ]
+  }
+]
