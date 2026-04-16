@@ -1,6 +1,7 @@
 [
   {
     "name": "Mug",
+    "image": "mug.png",
     "description": "A simple, easy-to-use mug. You could change up the colors, and it would still look great.",
     "category": "Decoration",
     "favorites": [
@@ -10,6 +11,7 @@
   },
   {
     "name": "Sign",
+    "image": "sign.png",
     "description": "A sign made out of wood. There's an important message witten on it... Probably!",
     "category": "Decoration",
     "favorites": [
@@ -20,6 +22,7 @@
   },
   {
     "name": "Signpost",
+    "image": "signpost.png",
     "description": "A sign that looks like it belongs at a bus stop. It could serve as a guiding landmark in cities or on roads!",
     "category": "Decoration",
     "favorites": [
@@ -33,6 +36,7 @@
   },
   {
     "name": "Information board",
+    "image": "informationboard.png",
     "description": "A sign with information about the town written on it. Nobody knows what town it's for, though.",
     "category": "Decoration",
     "favorites": [
@@ -46,6 +50,7 @@
   },
   {
     "name": "Team Rocket Wall Hanging",
+    "image": "teamrocketwallhanging.png",
     "description": "The symbol of a certain organization. Just looking at it makes you want to get up to some mischief",
     "category": "Decoration",
     "favorites": [
@@ -58,6 +63,7 @@
   },
   {
     "name": "Cooking stove",
+    "image": "cookingstove.png",
     "description": "A simple stylish stove. Turn the dial and flames will shoot right out of it",
     "category": "Decoration",
     "favorites": [
@@ -69,6 +75,7 @@
   },
   {
     "name": "Fiery Magby statue",
+    "image": "fierymagbystatue.png",
     "description": "If you place a switch nearby and activate it, Magby will shoot fire out of their mouth! Fwooosh!",
     "category": "Toy",
     "favorites": [
@@ -79,6 +86,7 @@
   },
   {
     "name": "Campfire",
+    "image": "campfire.png",
     "description": "A campfire made from gathered sticks. When lit, it illuminates the area with a warm light.",
     "category": "Relaxation",
     "favorites": [
@@ -89,6 +97,7 @@
   },
   {
     "name": "Torch",
+    "image": "torch.png",
     "description": "If you light this, it'll burn slowly, filling the area with bright light",
     "category": "Relaxation",
     "favorites": [
@@ -97,6 +106,7 @@
   },
   {
     "name": "Slender candle",
+    "image": "slendercandle.png",
     "description": "Light this up to get a flickering bright-red flame. It's small enough to fit on a desk",
     "category": "Decoration",
     "favorites": [
@@ -108,6 +118,7 @@
   },
   {
     "name": "Eerie candle",
+    "image": "eeriecandle.png",
     "description": "Fwoosh! This candle glows with a bluish flame when lit. It's small enough to fit on top of a desk.",
     "category": "Decoration",
     "favorites": [
@@ -119,6 +130,7 @@
   },
   {
     "name": "Wall torch",
+    "image": "walltorch.png",
     "description": "A simple light that looks appropriate even on rugged surfaces such as caves and rock walls",
     "category": "Decoration",
     "favorites": [
@@ -128,6 +140,7 @@
   },
   {
     "name": "Firepit",
+    "image": "firepit.png",
     "description": "Set this ablaze to illuminate the surroundings with bright light. Fwoosh!",
     "category": "Decoration",
     "favorites": [
@@ -139,6 +152,7 @@
   },
   {
     "name": "Bonfire",
+    "image": "bonfire.png",
     "description": "When the wood in the center catches fire, this provides warmth and light to a large nearby area",
     "category": "Decoration",
     "favorites": [
@@ -149,6 +163,7 @@
   },
   {
     "name": "Smelting furnace",
+    "image": "smeltingfurnace.png",
     "description": "A furnace for processing ore into metals. Get a Pok\u00e9mon with the Burn specialty to help you out",
     "category": "",
     "favorites": [
@@ -157,6 +172,7 @@
   },
   {
     "name": "Metallic smelting furnace",
+    "image": "metallicsmeltingfurnace.png",
     "description": "A high-performance metallic furnace that can quickly process metals and other ingredients",
     "category": "",
     "favorites": [
@@ -165,6 +181,7 @@
   },
   {
     "name": "Charcoal",
+    "image": "charcoal.png",
     "description": "Charcoal made by burning wood. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -173,6 +190,7 @@
   },
   {
     "name": "Pok\u00e9metal",
+    "image": "pok\u00e9metal.png",
     "description": "Made from smelted Pok\u00e9metal fragmants, these can be used to make various items.",
     "category": "",
     "favorites": [
@@ -182,6 +200,7 @@
   },
   {
     "name": "Red paint",
+    "image": "redpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -191,6 +210,7 @@
   },
   {
     "name": "Blue paint",
+    "image": "bluepaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -200,6 +220,7 @@
   },
   {
     "name": "Green paint",
+    "image": "greenpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -209,6 +230,7 @@
   },
   {
     "name": "Yellow paint",
+    "image": "yellowpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -218,6 +240,7 @@
   },
   {
     "name": "Pink paint",
+    "image": "pinkpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -227,6 +250,7 @@
   },
   {
     "name": "Cyan paint",
+    "image": "cyanpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -236,6 +260,7 @@
   },
   {
     "name": "White paint",
+    "image": "whitepaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -245,6 +270,7 @@
   },
   {
     "name": "Black paint",
+    "image": "blackpaint.png",
     "description": "Colorful paint made from crushed berries. A must-have when painting.",
     "category": "",
     "favorites": [
@@ -254,6 +280,7 @@
   },
   {
     "name": "Gaming fridge",
+    "image": "gamingfridge.png",
     "description": "A chest that's slightly cold to the touch. Ice-type Pok\u00e9mon will probably enjoy this.",
     "category": "Decoration",
     "favorites": [
@@ -266,6 +293,7 @@
   },
   {
     "name": "Stylish stool",
+    "image": "stylishstool.png",
     "description": "A small, round stool with a stylish three-color cushion.",
     "category": "Relaxation",
     "favorites": [
@@ -277,6 +305,7 @@
   },
   {
     "name": "Antique Chair",
+    "image": "antiquechair.png",
     "description": "A chair with a charming retro design. Its cushions are soft and fluffy",
     "category": "Relaxation",
     "favorites": [
@@ -288,6 +317,7 @@
   },
   {
     "name": "Pop art chair",
+    "image": "popartchair.png",
     "description": "A chair with a soft design and rounded corners. The colors of the backrest and cushion can be changed",
     "category": "Relaxation",
     "favorites": [
@@ -299,6 +329,7 @@
   },
   {
     "name": "Gaming chair",
+    "image": "gamingchair.png",
     "description": "With its large backrest and cushions, you could sit comfortable in this chair for a long time.",
     "category": "Relaxation",
     "favorites": [
@@ -313,6 +344,7 @@
   },
   {
     "name": "Antique sofa",
+    "image": "antiquesofa.png",
     "description": "A retro sofa with Pok\u00e9 Ball designs here and there",
     "category": "Relaxation",
     "favorites": [
@@ -325,6 +357,7 @@
   },
   {
     "name": "Pop art sofa",
+    "image": "popartsofa.png",
     "description": "A soft-looking sofa with cute, rounded edges.",
     "category": "Relaxation",
     "favorites": [
@@ -337,6 +370,7 @@
   },
   {
     "name": "Pikachu sofa",
+    "image": "pikachusofa.png",
     "description": "Pikachu's face is front and center. On the back, you can find a little tail sticking out.",
     "category": "Relaxation",
     "favorites": [
@@ -349,6 +383,7 @@
   },
   {
     "name": "Log Bed",
+    "image": "logbed.png",
     "description": "A bed made from small logs. You'll sleep soundly enveloped by a woodsy aroma",
     "category": "Relaxation",
     "favorites": [
@@ -362,6 +397,7 @@
   },
   {
     "name": "Gaming bed",
+    "image": "gamingbed.png",
     "description": "A cool, stylish bed. Flip on the power switch to get a cyberspace vibe going",
     "category": "Relaxation",
     "favorites": [
@@ -374,6 +410,7 @@
   },
   {
     "name": "Pizza",
+    "image": "pizza.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -384,6 +421,7 @@
   },
   {
     "name": "Fried potatoes",
+    "image": "friedpotatoes.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -394,6 +432,7 @@
   },
   {
     "name": "Soda float",
+    "image": "sodafloat.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -404,6 +443,7 @@
   },
   {
     "name": "Afternoon tea set",
+    "image": "afternoonteaset.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -415,6 +455,7 @@
   },
   {
     "name": "Chocolate cookies",
+    "image": "chocolatecookies.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -426,6 +467,7 @@
   },
   {
     "name": "Sandwiches",
+    "image": "sandwiches.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -437,6 +479,7 @@
   },
   {
     "name": "Shaved ice",
+    "image": "shavedice.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -447,6 +490,7 @@
   },
   {
     "name": "Ribbon cake",
+    "image": "ribboncake.png",
     "description": "Food loved by one of Eevee's friends. Be sure to prepare a table and chair too!",
     "category": "Decoration",
     "favorites": [
@@ -458,6 +502,7 @@
   },
   {
     "name": "CD rack",
+    "image": "cdrack.png",
     "description": "A rack with CDs on it. Sure to appeal to music lovers",
     "category": "Decoration",
     "favorites": [
@@ -472,6 +517,7 @@
   },
   {
     "name": "Magazine rack",
+    "image": "magazinerack.png",
     "description": "This stand has a great selection of weekly magazines and photo books.",
     "category": "Decoration",
     "favorites": [
@@ -485,6 +531,7 @@
   },
   {
     "name": "Mini bookcase",
+    "image": "minibookcase.png",
     "description": "A small bookcase packed with books. It's tiny enough to fit in tight spaces!",
     "category": "Decoration",
     "favorites": [
@@ -498,6 +545,7 @@
   },
   {
     "name": "Bookcase",
+    "image": "bookcase.png",
     "description": "Furniture with colorful books arranged on the shelves. It looks like there's room for even MORE books!",
     "category": "Decoration",
     "favorites": [
@@ -511,6 +559,7 @@
   },
   {
     "name": "Stone fireplace",
+    "image": "stonefireplace.png",
     "description": "A huge fireplace. Light this up to make a space feel warm and cozy",
     "category": "Relaxation",
     "favorites": [
@@ -523,6 +572,7 @@
   },
   {
     "name": "Gaming PC",
+    "image": "gamingpc.png",
     "description": "A PC rig that even includes a headset. The monitor can display photos when powered on",
     "category": "Toy",
     "favorites": [
@@ -535,6 +585,7 @@
   },
   {
     "name": "Pinwheels",
+    "image": "pinwheels.png",
     "description": "Pok\u00e9mon like to spin these round and round. Wind-producing Pok\u00e9mon especially like them!",
     "category": "Toy",
     "favorites": [
@@ -548,6 +599,7 @@
   },
   {
     "name": "Knitting supplies",
+    "image": "knittingsupplies.png",
     "description": "Tools for knitting hats, sweaters and the like. Pok\u00e9mon are captivated by the round balls of yarn",
     "category": "Toy",
     "favorites": [
@@ -562,6 +614,7 @@
   },
   {
     "name": "First aid kit",
+    "image": "firstaidkit.png",
     "description": "A box with lots of medicines and supplies for treating injuries",
     "category": "Toy",
     "favorites": [
@@ -573,6 +626,7 @@
   },
   {
     "name": "Balloons",
+    "image": "balloons.png",
     "description": "Balloons of many vibrant colors. They sway back and forth even in the most gentle of breezes",
     "category": "Toy",
     "favorites": [
@@ -585,6 +639,7 @@
   },
   {
     "name": "Punching game",
+    "image": "punchinggame.png",
     "description": "Slug this machine real good with your first, and it'll tell you how strong your punch is",
     "category": "Toy",
     "favorites": [
@@ -596,6 +651,7 @@
   },
   {
     "name": "Hanging banner",
+    "image": "hangingbanner.png",
     "description": "Cloth you might find on a department store's wall. Stack several to make 'em even longer",
     "category": "Decoration",
     "favorites": [
@@ -605,6 +661,7 @@
   },
   {
     "name": "Party bunting",
+    "image": "partybunting.png",
     "description": "These make perfect party decorations. Hang a bunch to create a festive mood!",
     "category": "Decoration",
     "favorites": [
@@ -614,6 +671,7 @@
   },
   {
     "name": "Berry wall decoration",
+    "image": "berrywalldecoration.png",
     "description": "The six swaying berries look incredibly tasty. Alas, they're inedible",
     "category": "Decoration",
     "favorites": [
@@ -626,6 +684,7 @@
   },
   {
     "name": "Wall-mounted flowers",
+    "image": "wall-mountedflowers.png",
     "description": "A planter with colorful flowers. Hang one on a wall to create a vibrant space.",
     "category": "Decoration",
     "favorites": [
@@ -635,6 +694,7 @@
   },
   {
     "name": "Garden flowers",
+    "image": "gardenflowers.png",
     "description": "A styish flower pot with cute flowers in full bloom. It would look great as a desk ornament",
     "category": "Decoration",
     "favorites": [
@@ -644,6 +704,7 @@
   },
   {
     "name": "Painting (landscape)",
+    "image": "painting(landscape).png",
     "description": "One of Smearguru's passion prjects. The contrast betwee the forest and the mountain is beautiful",
     "category": "Decoration",
     "favorites": [
@@ -654,6 +715,7 @@
   },
   {
     "name": "Painting (portrait)",
+    "image": "painting(portrait).png",
     "description": "One of Smearguru's passion projects. The subject has been masterfully recreated, wobbliness and all.",
     "category": "Decoration",
     "favorites": [
@@ -664,6 +726,7 @@
   },
   {
     "name": "Painting (still life)",
+    "image": "painting(stilllife).png",
     "description": "One of Smearguru's passion projects. Each and every object looks just like the real thing",
     "category": "Decoration",
     "favorites": [
@@ -674,6 +737,7 @@
   },
   {
     "name": "Water basin",
+    "image": "waterbasin.png",
     "description": "Fill this with water so Pok\u00e9mon can do some watering for you",
     "category": "Decoration",
     "favorites": [
@@ -686,6 +750,7 @@
   },
   {
     "name": "Raichu sign",
+    "image": "raichusign.png",
     "description": "A sign depicting Raichu discharging electricity. When powered up, the neon lighting glows brightly",
     "category": "Decoration",
     "favorites": [
@@ -696,6 +761,7 @@
   },
   {
     "name": "Photo cutout board",
+    "image": "photocutoutboard.png",
     "description": "Put your fac through the hole to become Plusle or Minun!",
     "category": "Toy",
     "favorites": [
@@ -708,6 +774,7 @@
   },
   {
     "name": "Pok\u00e9 Ball light",
+    "image": "pok\u00e9balllight.png",
     "description": "A neon light that glows red and white when powered on. It would look great on top of a table",
     "category": "Decoration",
     "favorites": [
@@ -720,6 +787,7 @@
   },
   {
     "name": "Model planet",
+    "image": "modelplanet.png",
     "description": "A model of some unexplored faraway planet. It looks jut like a piece of yummy candy",
     "category": "Toy",
     "favorites": [
@@ -733,6 +801,7 @@
   },
   {
     "name": "Gaming light",
+    "image": "gaminglight.png",
     "description": "Emits rainbow light when mounted to a wall and powered on.",
     "category": "Decoration",
     "favorites": [
@@ -744,6 +813,7 @@
   },
   {
     "name": "Paint balloon (white)",
+    "image": "paintballoon(white).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -753,6 +823,7 @@
   },
   {
     "name": "Paint balloon (red)",
+    "image": "paintballoon(red).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -762,6 +833,7 @@
   },
   {
     "name": "Paint balloon (yellow)",
+    "image": "paintballoon(yellow).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -771,6 +843,7 @@
   },
   {
     "name": "Paint balloon (green)",
+    "image": "paintballoon(green).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -780,6 +853,7 @@
   },
   {
     "name": "Paint balloon (rose)",
+    "image": "paintballoon(rose).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -789,6 +863,7 @@
   },
   {
     "name": "Paint balloon (pink)",
+    "image": "paintballoon(pink).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -798,6 +873,7 @@
   },
   {
     "name": "Paint balloon (orange)",
+    "image": "paintballoon(orange).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -807,6 +883,7 @@
   },
   {
     "name": "Paint balloon (purple)",
+    "image": "paintballoon(purple).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -816,6 +893,7 @@
   },
   {
     "name": "Paint balloon (brown)",
+    "image": "paintballoon(brown).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -825,6 +903,7 @@
   },
   {
     "name": "Paint balloon (beige)",
+    "image": "paintballoon(beige).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -834,6 +913,7 @@
   },
   {
     "name": "Paint balloon (black)",
+    "image": "paintballoon(black).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -843,6 +923,7 @@
   },
   {
     "name": "Paint balloon (lime)",
+    "image": "paintballoon(lime).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -852,6 +933,7 @@
   },
   {
     "name": "Paint balloon (plum)",
+    "image": "paintballoon(plum).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -861,6 +943,7 @@
   },
   {
     "name": "Paint balloon (navy)",
+    "image": "paintballoon(navy).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -870,6 +953,7 @@
   },
   {
     "name": "Paint balloon (blue)",
+    "image": "paintballoon(blue).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -879,6 +963,7 @@
   },
   {
     "name": "Paint balloon (cyan)",
+    "image": "paintballoon(cyan).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -888,6 +973,7 @@
   },
   {
     "name": "Paint balloon (gray)",
+    "image": "paintballoon(gray).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -897,6 +983,7 @@
   },
   {
     "name": "Paint balloon (aquamarine)",
+    "image": "paintballoon(aquamarine).png",
     "description": "A colorful balloon filled with paint. You can use it to paint items or buildings",
     "category": "",
     "favorites": [
@@ -906,6 +993,7 @@
   },
   {
     "name": "Flowery table setting",
+    "image": "flowerytablesetting.png",
     "description": "A set of cute tableward. The placemat has a Jumpluff pattern!",
     "category": "Decoration",
     "favorites": [
@@ -919,6 +1007,7 @@
   },
   {
     "name": "Lunch box",
+    "image": "lunchbox.png",
     "description": "A lunch box packed with Pok\u00e9mon-shaped food. The perfect meal for a picnic lunch",
     "category": "Decoration",
     "favorites": [
@@ -930,6 +1019,7 @@
   },
   {
     "name": "Hoppip water bottle",
+    "image": "hoppipwaterbottle.png",
     "description": "This water bottle with a shoulder strap is perfect for picnics! The Hoopip pattern is very cute.",
     "category": "Decoration",
     "favorites": [
@@ -941,6 +1031,7 @@
   },
   {
     "name": "Juice trio",
+    "image": "juicetrio.png",
     "description": "Bottles of colored juices. One of them is capped off nicely with a flower-shaped lid.",
     "category": "Decoration",
     "favorites": [
@@ -953,6 +1044,7 @@
   },
   {
     "name": "Flower garland",
+    "image": "flowergarland.png",
     "description": "An adorable wall decoration made with a variety of colorful flowers",
     "category": "Decoration",
     "favorites": [
@@ -965,6 +1057,7 @@
   },
   {
     "name": "Waterproof seat",
+    "image": "waterproofseat.png",
     "description": "A smooth waterproof chair. Place it near a bathtub or shower",
     "category": "Relaxation",
     "favorites": [
@@ -973,6 +1066,7 @@
   },
   {
     "name": "Modern sink",
+    "image": "modernsink.png",
     "description": "A state-of-the-art sink that even has a drain. Turn the handle to make water flow out",
     "category": "Toy",
     "favorites": [
@@ -985,6 +1079,7 @@
   },
   {
     "name": "Washing machine",
+    "image": "washingmachine.png",
     "description": "While this does make noise when powered on, it doesn't seem to actually wash clothes...",
     "category": "Toy",
     "favorites": [
@@ -999,6 +1094,7 @@
   },
   {
     "name": "Toilet",
+    "image": "toilet.png",
     "description": "Lift the cover and sit on the toilet for as long as you like",
     "category": "Decoration",
     "favorites": [
@@ -1011,6 +1107,7 @@
   },
   {
     "name": "Sink",
+    "image": "sink.png",
     "description": "A stylish sink on a wooden stand. Turn on the faucet to make water pour out.",
     "category": "Toy",
     "favorites": [
@@ -1023,6 +1120,7 @@
   },
   {
     "name": "Towel rack",
+    "image": "towelrack.png",
     "description": "A simple wall rack with a towel hanging on it. This would look great next to a sink",
     "category": "Decoration",
     "favorites": [
@@ -1033,6 +1131,7 @@
   },
   {
     "name": "Bathtime set",
+    "image": "bathtimeset.png",
     "description": "Shampoo, towels and a toy-everything you need to make bath time a blast!",
     "category": "Toy",
     "favorites": [
@@ -1044,6 +1143,7 @@
   },
   {
     "name": "Cleaning supplies",
+    "image": "cleaningsupplies.png",
     "description": "Detergent, a dust cloth, and a Mareep sponge are all you need to become a cleaning master!",
     "category": "Toy",
     "favorites": [
@@ -1054,6 +1154,7 @@
   },
   {
     "name": "Shower",
+    "image": "shower.png",
     "description": "A shower with a simple design. Place it next to a bathtub to make your bathroom complete",
     "category": "Toy",
     "favorites": [
@@ -1066,6 +1167,7 @@
   },
   {
     "name": "Bathtub",
+    "image": "bathtub.png",
     "description": "A bathtub with a simple design. Fill it up with water to enjoy a nice soak",
     "category": "Decoration",
     "favorites": [
@@ -1077,6 +1179,7 @@
   },
   {
     "name": "Bouncy blue bathtub",
+    "image": "bouncybluebathtub.png",
     "description": "A bathtub that lets you experience waves and bubbles, even without a single drop of water inside.",
     "category": "Decoration",
     "favorites": [
@@ -1088,6 +1191,7 @@
   },
   {
     "name": "Sandbox",
+    "image": "sandbox.png",
     "description": "Place this to set up a fun space for playing with sand. Discover what you can create here!",
     "category": "Toy",
     "favorites": [
@@ -1099,6 +1203,7 @@
   },
   {
     "name": "Punching bag",
+    "image": "punchingbag.png",
     "description": "Heavy and packed full of sand. Perfect for practicing punches and kicks!",
     "category": "Toy",
     "favorites": [
@@ -1110,6 +1215,7 @@
   },
   {
     "name": "Sandbags",
+    "image": "sandbags.png",
     "description": "A cloth sack filled with dirt and sand. It's pretty bulky and looks heavy",
     "category": "Decoration",
     "favorites": [
@@ -1121,6 +1227,7 @@
   },
   {
     "name": "Wheelbarrow",
+    "image": "wheelbarrow.png",
     "description": "A wheelbarrow carrying a large mound of dirt. A lot of construction sites probably have these!",
     "category": "Decoration",
     "favorites": [
@@ -1132,6 +1239,7 @@
   },
   {
     "name": "Skull Fossil",
+    "image": "skullfossil.png",
     "description": "An ancient Pok\u00e9mon fossil. It looks like a hard, sturdy skill",
     "category": "Decoration",
     "favorites": [
@@ -1142,6 +1250,7 @@
   },
   {
     "name": "Armor Fossil",
+    "image": "armorfossil.png",
     "description": "An ancient Pok\u00e9mon fossil. It looks like a smooth shield",
     "category": "Decoration",
     "favorites": [
@@ -1153,6 +1262,7 @@
   },
   {
     "name": "Jaw Fossil",
+    "image": "jawfossil.png",
     "description": "An ancient Pok\u00e9mon fossil. It looks like a large jaw",
     "category": "Decoration",
     "favorites": [
@@ -1163,6 +1273,7 @@
   },
   {
     "name": "Sail Fossil",
+    "image": "sailfossil.png",
     "description": "An ancient Pok\u00e9mon fossil. It looks like a thin sail from a Pok\u00e9mon's body",
     "category": "Decoration",
     "favorites": [
@@ -1173,6 +1284,7 @@
   },
   {
     "name": "Wing Fossil (head)",
+    "image": "wingfossil(head).png",
     "description": "A fossil of an ancient Pok\u00e9mon's head. Its jagged fangs look just likea  saw",
     "category": "Decoration",
     "favorites": [
@@ -1183,6 +1295,7 @@
   },
   {
     "name": "Wing Fossil (right wing)",
+    "image": "wingfossil(rightwing).png",
     "description": "A fossil of an ancient Pok\u00e9mon's right wing. Its finger bones have become part of the wing",
     "category": "Decoration",
     "favorites": [
@@ -1194,6 +1307,7 @@
   },
   {
     "name": "Wing Fossil (left wing)",
+    "image": "wingfossil(leftwing).png",
     "description": "A fossil of an ancient Pok\u00e9mon's left wing. By joining its bones together, you can tell the size of the wing",
     "category": "Decoration",
     "favorites": [
@@ -1205,6 +1319,7 @@
   },
   {
     "name": "Wing fossil (body)",
+    "image": "wingfossil(body).png",
     "description": "A fossil of an ancient Pok\u00e9mon's body. A hump juts out from the middle of its rickety spine",
     "category": "Decoration",
     "favorites": [
@@ -1216,6 +1331,7 @@
   },
   {
     "name": "Wing Fossil (tail)",
+    "image": "wingfossil(tail).png",
     "description": "A fossil of an ancient Pok\u00e9mon's tail. Long and slend, it looks like it could bend gracefully",
     "category": "Decoration",
     "favorites": [
@@ -1227,6 +1343,7 @@
   },
   {
     "name": "Headbutt Fossil (head)",
+    "image": "headbuttfossil(head).png",
     "description": "A fossil of an ancient Pok\u00e9mon's head. Its skull is dense and bulbous",
     "category": "Decoration",
     "favorites": [
@@ -1237,6 +1354,7 @@
   },
   {
     "name": "Headbutt Fossil (body)",
+    "image": "headbuttfossil(body).png",
     "description": "A fossil of an ancient Pok\u00e9mon's body. Its torso is big, but its arms are quite small",
     "category": "Decoration",
     "favorites": [
@@ -1248,6 +1366,7 @@
   },
   {
     "name": "Headbutt Fossil (tail)",
+    "image": "headbuttfossil(tail).png",
     "description": "A fossil of an ancient Pok\u00e9mon's tail. Its base is thick and sturdy",
     "category": "Decoration",
     "favorites": [
@@ -1259,6 +1378,7 @@
   },
   {
     "name": "Shield Fossil (Head)",
+    "image": "shieldfossil(head).png",
     "description": "A fossil of an ancient Pok\u00e9mon's head. Its sturdy, like a giant shield",
     "category": "Decoration",
     "favorites": [
@@ -1269,6 +1389,7 @@
   },
   {
     "name": "Shield Fossil (body)",
+    "image": "shieldfossil(body).png",
     "description": "A fossil of an ancient Pok\u00e9mon's body. Its thick bones supported a heavy head.",
     "category": "Decoration",
     "favorites": [
@@ -1280,6 +1401,7 @@
   },
   {
     "name": "Shield Fossil (tail)",
+    "image": "shieldfossil(tail).png",
     "description": "A fossil of an ancient Pok\u00e9mon's tail. Its hind hooves are particularly large.",
     "category": "Decoration",
     "favorites": [
@@ -1291,6 +1413,7 @@
   },
   {
     "name": "Despot Fossil (head)",
+    "image": "despotfossil(head).png",
     "description": "A fossil of an ancient Pok\u00e9mon's head. Its large fangs are as sharp as knives",
     "category": "Decoration",
     "favorites": [
@@ -1301,6 +1424,7 @@
   },
   {
     "name": "Despot Fossil (body)",
+    "image": "despotfossil(body).png",
     "description": "A fossil of an ancient Pok\u00e9mon's body. Its sharp claws look like they could slice through anything",
     "category": "Decoration",
     "favorites": [
@@ -1312,6 +1436,7 @@
   },
   {
     "name": "Despot Fossil (legs)",
+    "image": "despotfossil(legs).png",
     "description": "A fossil of an ancient Pok\u00e9mon's legs. Two stocky legs support the rest of its body.",
     "category": "Decoration",
     "favorites": [
@@ -1323,6 +1448,7 @@
   },
   {
     "name": "Despot Fossil (tail)",
+    "image": "despotfossil(tail).png",
     "description": "A fossil of an ancient Pok\u00e9mon's tail. Even the very tip is spiky like its frill",
     "category": "Decoration",
     "favorites": [
@@ -1334,6 +1460,7 @@
   },
   {
     "name": "Tundra Fossil (head)",
+    "image": "tundrafossil(head).png",
     "description": "A fossil of an ancient Pok\u00e9mon's head. It has sails that resemble an aurora",
     "category": "Decoration",
     "favorites": [
@@ -1344,6 +1471,7 @@
   },
   {
     "name": "Tundra Fossil (body)",
+    "image": "tundrafossil(body).png",
     "description": "A fossil of an ancient Pok\u00e9mon's body. It must have been pretty tall with a spin like this",
     "category": "Decoration",
     "favorites": [
@@ -1355,6 +1483,7 @@
   },
   {
     "name": "Tundra Fossil (tail)",
+    "image": "tundrafossil(tail).png",
     "description": "A fossil of an ancient Pok\u00e9mon's tail. The tip is curled up and looks like a spring",
     "category": "Decoration",
     "favorites": [
@@ -1366,6 +1495,7 @@
   },
   {
     "name": "Mud",
+    "image": "mud.png",
     "description": "A mass of muddy debris. Spray it with Bubble to clean it up!Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -1374,6 +1504,7 @@
   },
   {
     "name": "Vine rope",
+    "image": "vinerope.png",
     "description": "Obtained by cutting vines, which grow in caves and high-altitude areas",
     "category": "",
     "favorites": [
@@ -1382,6 +1513,7 @@
   },
   {
     "name": "Twine",
+    "image": "twine.png",
     "description": "Obtained by destroying textile garbage. Bug-type Pok\u00e9mon can also produce it.",
     "category": "",
     "favorites": [
@@ -1390,6 +1522,7 @@
   },
   {
     "name": "Small vase",
+    "image": "smallvase.png",
     "description": "A vase with a single cute flower inside. Put it anywhere to add a splash of color to your life",
     "category": "Decoration",
     "favorites": [
@@ -1402,6 +1535,7 @@
   },
   {
     "name": "Tall potted plant",
+    "image": "tallpottedplant.png",
     "description": "A small, thin palm tree. It comes in a planter so it won't make a mess even if it's placed indoors",
     "category": "Decoration",
     "favorites": [
@@ -1415,6 +1549,7 @@
   },
   {
     "name": "Flat-leaf plant",
+    "image": "flat-leafplant.png",
     "description": "A plant with flat leaves that look like planks. It's actually a type of succulent",
     "category": "Decoration",
     "favorites": [
@@ -1427,6 +1562,7 @@
   },
   {
     "name": "Twisted potted plant",
+    "image": "twistedpottedplant.png",
     "description": "A plant with a winding, twisted trunk. It doesn't look like it will get any bigger than it already is.",
     "category": "Decoration",
     "favorites": [
@@ -1439,6 +1575,7 @@
   },
   {
     "name": "Fancy pen",
+    "image": "fancypen.png",
     "description": "A high-class ballpoint pen that exudes luxury. A very important person could have used this",
     "category": "Decoration",
     "favorites": [
@@ -1450,6 +1587,7 @@
   },
   {
     "name": "Vine wall decoration",
+    "image": "vinewalldecoration.png",
     "description": "With just a few leaves and vine ropes, you can make a stylish wall decoration",
     "category": "Decoration",
     "favorites": [
@@ -1459,6 +1597,7 @@
   },
   {
     "name": "Wooden birdhouse",
+    "image": "woodenbirdhouse.png",
     "description": "A birdhouse filled with dry, soft grass. Bird Pok\u00e9mon would probably love lounging here.",
     "category": "Decoration",
     "favorites": [
@@ -1468,6 +1607,7 @@
   },
   {
     "name": "Fishing rod",
+    "image": "fishingrod.png",
     "description": "A must-have item for fishing up Pok\u00e9mon. Set one by the water and wait patiently for a bite!",
     "category": "Toy",
     "favorites": [
@@ -1479,6 +1619,7 @@
   },
   {
     "name": "Mushroom streetlight",
+    "image": "mushroomstreetlight.png",
     "description": "Darkness poses no problem when you've got a gentle mushroom glow.",
     "category": "Decoration",
     "favorites": [
@@ -1489,6 +1630,7 @@
   },
   {
     "name": "Town streetlight",
+    "image": "townstreetlight.png",
     "description": "Power this with electricity to illuminate the area with gentle light",
     "category": "Decoration",
     "favorites": [
@@ -1500,6 +1642,7 @@
   },
   {
     "name": "Harbor streetlight",
+    "image": "harborstreetlight.png",
     "description": "A streetlight that invokes harbor vibes. The life buoy stands out as the main highlight.",
     "category": "Decoration",
     "favorites": [
@@ -1512,6 +1655,7 @@
   },
   {
     "name": "Chic streetlight",
+    "image": "chicstreetlight.png",
     "description": "When powered on, this light emits a gentle glow that faintly illuminates its surroundings",
     "category": "Decoration",
     "favorites": [
@@ -1524,6 +1668,7 @@
   },
   {
     "name": "Double streetlight",
+    "image": "doublestreetlight.png",
     "description": "When pwoered on, both lamps shine brightly to illuminate their surroundings",
     "category": "Decoration",
     "favorites": [
@@ -1535,6 +1680,7 @@
   },
   {
     "name": "Desk light",
+    "image": "desklight.png",
     "description": "A light with a simple design. Perfect for brightening up your desk when you need to focus on work.",
     "category": "Decoration",
     "favorites": [
@@ -1546,6 +1692,7 @@
   },
   {
     "name": "Luxury lamp",
+    "image": "luxurylamp.png",
     "description": "When this lamp is powered on, it emits a gentle light, illuminating its surroundings",
     "category": "Decoration",
     "favorites": [
@@ -1559,6 +1706,7 @@
   },
   {
     "name": "Fluorescent light",
+    "image": "fluorescentlight.png",
     "description": "Shines brilliantly when powered on. Even nighttime feels like noon when this light is on",
     "category": "Decoration",
     "favorites": [
@@ -1570,6 +1718,7 @@
   },
   {
     "name": "Berry hanging lamp",
+    "image": "berryhanginglamp.png",
     "description": "When hung from the ceiling and powered on, the tip of the Chesto Berry emits a gentle light",
     "category": "Decoration",
     "favorites": [
@@ -1583,6 +1732,7 @@
   },
   {
     "name": "Wire",
+    "image": "wire.png",
     "description": "A wire that can support objects of any weight. It's perfect for hanging furnishings from the ceiling",
     "category": "",
     "favorites": [
@@ -1591,6 +1741,7 @@
   },
   {
     "name": "Metal chain",
+    "image": "metalchain.png",
     "description": "A thin, sturdy chain. Link a few pieces together and you can use them to climb up to high places",
     "category": "",
     "favorites": [
@@ -1600,6 +1751,7 @@
   },
   {
     "name": "Rope",
+    "image": "rope.png",
     "description": "A length of thick, sturdy rope. Tie a few together and climb it to reach high places",
     "category": "",
     "favorites": [
@@ -1608,6 +1760,7 @@
   },
   {
     "name": "Broken streetlight",
+    "image": "brokenstreetlight.png",
     "description": "This rusted streetlight doesn't even have a light bulb. It can't be powered on anymore.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -1616,6 +1769,7 @@
   },
   {
     "name": "Inflatable Sudowoodo",
+    "image": "inflatablesudowoodo.png",
     "description": "A balloon shaped like Sudowoodo. It stands up and dances around just like a real Sudowoodo too!",
     "category": "Toy",
     "favorites": [
@@ -1627,6 +1781,7 @@
   },
   {
     "name": "Resort hammock",
+    "image": "resorthammock.png",
     "description": "The breeze feels so nice when you're lying on this hammock. It's perfect for dozing off!",
     "category": "Relaxation",
     "favorites": [
@@ -1639,6 +1794,7 @@
   },
   {
     "name": "Paper Party cups",
+    "image": "paperpartycups.png",
     "description": "Paper cups that are easy to carry- perfect for hosting a party!",
     "category": "Decoration",
     "favorites": [
@@ -1649,6 +1805,7 @@
   },
   {
     "name": "Humidifier",
+    "image": "humidifier.png",
     "description": "A humidifier with a  distinct round shape. Turn it on to increase the humidity level nearby.",
     "category": "Decoration",
     "favorites": [
@@ -1662,6 +1819,7 @@
   },
   {
     "name": "Funky diffuser",
+    "image": "funkydiffuser.png",
     "description": "The symbol on it looks dangerous, but it doesn't seem like this will actually spew out poison gas...",
     "category": "Toy",
     "favorites": [
@@ -1672,6 +1830,7 @@
   },
   {
     "name": "Inflatable boat",
+    "image": "inflatableboat.png",
     "description": "Feels great whether you lie down on it like a bed, or float it on the water like a boat.",
     "category": "Relaxation",
     "favorites": [
@@ -1683,6 +1842,7 @@
   },
   {
     "name": "Beach parasol",
+    "image": "beachparasol.png",
     "description": "Place one of these on the beach for protection from scorching sunbeams",
     "category": "Relaxation",
     "favorites": [
@@ -1693,6 +1853,7 @@
   },
   {
     "name": "Horsea fountain",
+    "image": "horseafountain.png",
     "description": "Installing this near water should raise the humidity of its surroundings",
     "category": "Toy",
     "favorites": [
@@ -1704,6 +1865,7 @@
   },
   {
     "name": "Fire hydrant",
+    "image": "firehydrant.png",
     "description": "This device spews water for putting out fires, but you're not really sure how to use it,...",
     "category": "Decoration",
     "favorites": [
@@ -1714,6 +1876,7 @@
   },
   {
     "name": "Sprinkler",
+    "image": "sprinkler.png",
     "description": "An irrigation device that sprays water in a wide area. Try putting one near the waterside",
     "category": "Toy",
     "favorites": [
@@ -1725,6 +1888,7 @@
   },
   {
     "name": "Mystic Water",
+    "image": "mysticwater.png",
     "description": "A teardrop-shaped gem. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -1733,6 +1897,7 @@
   },
   {
     "name": "Water pillar quarter",
+    "image": "waterpillarquarter.png",
     "description": "A fancy pillar filled with water. Its faint glow is beautiful, even in darkness",
     "category": "Decoration",
     "favorites": [
@@ -1743,6 +1908,7 @@
   },
   {
     "name": "Arcade machine",
+    "image": "arcademachine.png",
     "description": "A game machine from a facility somewhere. It looks brand-new, so it probably can still be turned on",
     "category": "Toy",
     "favorites": [
@@ -1755,6 +1921,7 @@
   },
   {
     "name": "Toy blocks",
+    "image": "toyblocks.png",
     "description": "Stacking toys that are fun to play with. Discover all the different combinations you can make!",
     "category": "Toy",
     "favorites": [
@@ -1765,6 +1932,7 @@
   },
   {
     "name": "Boo-in-the-box",
+    "image": "boo-in-the-box.png",
     "description": "Open the box, and -BOING!-out pops the Gengar!",
     "category": "Toy",
     "favorites": [
@@ -1778,6 +1946,7 @@
   },
   {
     "name": "Wobbuffet Wobbler",
+    "image": "wobbuffetwobbler.png",
     "description": "An exceptionally durable Wobbuffet doll. It gets back up no matter how many times you knock it over.",
     "category": "Toy",
     "favorites": [
@@ -1791,6 +1960,7 @@
   },
   {
     "name": "Tire toy",
+    "image": "tiretoy.png",
     "description": "Tires used in parks as playground equipment. Put them on the ground and have fun hopping over them!",
     "category": "Toy",
     "favorites": [
@@ -1802,6 +1972,7 @@
   },
   {
     "name": "Slide",
+    "image": "slide.png",
     "description": "An essential part of any playground. Its imposing size leaves a real impression",
     "category": "Toy",
     "favorites": [
@@ -1812,6 +1983,7 @@
   },
   {
     "name": "Small stage",
+    "image": "smallstage.png",
     "description": "Get on and start dancing! You can power on the lights by hooking this up to electricity",
     "category": "Toy",
     "favorites": [
@@ -1825,6 +1997,7 @@
   },
   {
     "name": "Music mat (low do)",
+    "image": "musicmat(lowdo).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1836,6 +2009,7 @@
   },
   {
     "name": "Music mat (Re)",
+    "image": "musicmat(re).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1847,6 +2021,7 @@
   },
   {
     "name": "Music mat (Mi)",
+    "image": "musicmat(mi).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1858,6 +2033,7 @@
   },
   {
     "name": "Music mat (Fa)",
+    "image": "musicmat(fa).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1869,6 +2045,7 @@
   },
   {
     "name": "Music mat (Sol)",
+    "image": "musicmat(sol).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1880,6 +2057,7 @@
   },
   {
     "name": "Music mat (La)",
+    "image": "musicmat(la).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1891,6 +2069,7 @@
   },
   {
     "name": "Music mat (Ti)",
+    "image": "musicmat(ti).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1902,6 +2081,7 @@
   },
   {
     "name": "Music mat (High do)",
+    "image": "musicmat(highdo).png",
     "description": "A strange mat that makes different sounds when you step on it depending on the direction it's facing",
     "category": "Toy",
     "favorites": [
@@ -1913,6 +2093,7 @@
   },
   {
     "name": "Wooden bench",
+    "image": "woodenbench.png",
     "description": "A long bench that's perfect for taking a break. Pok\u00e9mon might sit next to each other here.",
     "category": "Relaxation",
     "favorites": [
@@ -1921,6 +2102,7 @@
   },
   {
     "name": "Stone bench",
+    "image": "stonebench.png",
     "description": "A wide, rock-solid seat. This would make a great park bench",
     "category": "Relaxation",
     "favorites": [
@@ -1931,6 +2113,7 @@
   },
   {
     "name": "Plain sofa",
+    "image": "plainsofa.png",
     "description": "If you see small Pok\u00e9mon on this sofa, try sitting down next to them",
     "category": "Relaxation",
     "favorites": [
@@ -1941,6 +2124,7 @@
   },
   {
     "name": "Resort sofa",
+    "image": "resortsofa.png",
     "description": "Sitting on this makes you feel like you're in the tropics! Feel free to just laze the day away...",
     "category": "Relaxation",
     "favorites": [
@@ -1952,6 +2136,7 @@
   },
   {
     "name": "Chic sofa",
+    "image": "chicsofa.png",
     "description": "A luxurious high-class sofa. It looks exactly like the ones on the S.S. Anne",
     "category": "Relaxation",
     "favorites": [
@@ -1963,6 +2148,7 @@
   },
   {
     "name": "Iron bench",
+    "image": "ironbench.png",
     "description": "A seat made of solid hardened iron. It's sturdy enough to support even the heaviest Pok\u00e9mon",
     "category": "Relaxation",
     "favorites": [
@@ -1972,6 +2158,7 @@
   },
   {
     "name": "Industrial bench",
+    "image": "industrialbench.png",
     "description": "A simple bench made of wood and iron. The kind you'd expect to find at parks and walking paths.",
     "category": "Relaxation",
     "favorites": [
@@ -1981,6 +2168,7 @@
   },
   {
     "name": "Luxury sofa",
+    "image": "luxurysofa.png",
     "description": "This sofa is sooo fluffy. It's like sitting on a cloud",
     "category": "Relaxation",
     "favorites": [
@@ -1992,6 +2180,7 @@
   },
   {
     "name": "Garden bench",
+    "image": "gardenbench.png",
     "description": "A stylish bench with a vine pattern. Put one down to instantly add some flair to an area",
     "category": "Relaxation",
     "favorites": [
@@ -2002,6 +2191,7 @@
   },
   {
     "name": "Cute sofa",
+    "image": "cutesofa.png",
     "description": "A cute, slightly elegant sofa. The backrest is shaped like a Pok\u00e9mon's wings.",
     "category": "Relaxation",
     "favorites": [
@@ -2013,6 +2203,7 @@
   },
   {
     "name": "Pok\u00e9 Ball Sofa",
+    "image": "pok\u00e9ballsofa.png",
     "description": "Experience sitting in an open Pok\u00e9 Ball! Seats two comfortably",
     "category": "Relaxation",
     "favorites": [
@@ -2022,6 +2213,7 @@
   },
   {
     "name": "Pop art bed",
+    "image": "popartbed.png",
     "description": "lying on tthis bed feels like being inside of a pod. It's soft, fluffy, and easy to sleep on.",
     "category": "Relaxation",
     "favorites": [
@@ -2033,6 +2225,7 @@
   },
   {
     "name": "Wooden Bed",
+    "image": "woodenbed.png",
     "description": "This bed gives any room a mountain lodge aesthetic. You'll sleep soudnly surrounded by the woodsy scent",
     "category": "Relaxation",
     "favorites": [
@@ -2043,6 +2236,7 @@
   },
   {
     "name": "Plain bed",
+    "image": "plainbed.png",
     "description": "A bed with a simple deisng. It looks like it would mesh with a variety of rooms",
     "category": "Relaxation",
     "favorites": [
@@ -2053,6 +2247,7 @@
   },
   {
     "name": "Guest-room bed",
+    "image": "guest-roombed.png",
     "description": "A bed with a rather high-class vibe. It looks like it belongs on a luxury ship or in a fancy hotel.",
     "category": "Relaxation",
     "favorites": [
@@ -2065,6 +2260,7 @@
   },
   {
     "name": "Antique bed",
+    "image": "antiquebed.png",
     "description": "This bed has a relaxing, nostalgic atmosphere. The blanket is smooth to the touch",
     "category": "Relaxation",
     "favorites": [
@@ -2076,6 +2272,7 @@
   },
   {
     "name": "Industrial bed",
+    "image": "industrialbed.png",
     "description": "A nice, wide bed that works in any type of room. Even a large Pok\u00e9mon could sleep in it",
     "category": "Relaxation",
     "favorites": [
@@ -2087,6 +2284,7 @@
   },
   {
     "name": "Luxury bed",
+    "image": "luxurybed.png",
     "description": "An extravagantly crafted bed. It somehow reminds you of a Luxury Ball!",
     "category": "Relaxation",
     "favorites": [
@@ -2098,6 +2296,7 @@
   },
   {
     "name": "Picnic basket",
+    "image": "picnicbasket.png",
     "description": "Try putting some food inside, and hungry Pok\u00e9mon might stop by for a bite",
     "category": "",
     "favorites": [
@@ -2109,6 +2308,7 @@
   },
   {
     "name": "Tea set",
+    "image": "teaset.png",
     "description": "Enjoy an elegant teatime with this gorgeous set that includes a teapot and teacups",
     "category": "Decoration",
     "favorites": [
@@ -2119,6 +2319,7 @@
   },
   {
     "name": "Table setting",
+    "image": "tablesetting.png",
     "description": "This cutlery immediately makes any table look like it belongs in a high-class restaurant",
     "category": "Decoration",
     "favorites": [
@@ -2130,6 +2331,7 @@
   },
   {
     "name": "Photo frame",
+    "image": "photoframe.png",
     "description": "You can put one of your photos in this frame and place it on a table or stand",
     "category": "Decoration",
     "favorites": [
@@ -2141,6 +2343,7 @@
   },
   {
     "name": "Television",
+    "image": "television.png",
     "description": "A large television that can be easily viewed from far away. It's a flatscreen, so carrying it is easy-peasy.",
     "category": "Toy",
     "favorites": [
@@ -2156,6 +2359,7 @@
   },
   {
     "name": "Wall monitor",
+    "image": "wallmonitor.png",
     "description": "A monitor that emits blue light when powered on. Try displaying your photographs on it",
     "category": "Toy",
     "favorites": [
@@ -2171,6 +2375,7 @@
   },
   {
     "name": "Game Boy system",
+    "image": "gameboysystem.png",
     "description": "A very sturdy-looking game console. It's old but it still seems to start up",
     "category": "Toy",
     "favorites": [
@@ -2181,6 +2386,7 @@
   },
   {
     "name": "Jumbled cords",
+    "image": "jumbledcords.png",
     "description": "These cords are all tangled up and cannot be separated",
     "category": "Toy",
     "favorites": [
@@ -2195,6 +2401,7 @@
   },
   {
     "name": "CD player",
+    "image": "cdplayer.png",
     "description": "A device that plays music. If you find a CD, try putting it inside",
     "category": "Toy",
     "favorites": [
@@ -2205,6 +2412,7 @@
   },
   {
     "name": "Standing mic",
+    "image": "standingmic.png",
     "description": "A microphone meant for the stage. Standing before it makes you want to burst into song",
     "category": "Toy",
     "favorites": [
@@ -2216,6 +2424,7 @@
   },
   {
     "name": "Whiteboard",
+    "image": "whiteboard.png",
     "description": "A whiteboard covered in writing and sticky notes that looks like it belongs in a lab",
     "category": "Decoration",
     "favorites": [
@@ -2229,6 +2438,7 @@
   },
   {
     "name": "Vending machine",
+    "image": "vendingmachine.png",
     "description": "Connect this to electricity to make it light up! Looks like it still has some things inside for sale.",
     "category": "Toy",
     "favorites": [
@@ -2241,6 +2451,7 @@
   },
   {
     "name": "Canoe",
+    "image": "canoe.png",
     "description": "A paddle, bucket and rope is all you need for a journey out to sea",
     "category": "Toy",
     "favorites": [
@@ -2250,6 +2461,7 @@
   },
   {
     "name": "Construction supplies",
+    "image": "constructionsupplies.png",
     "description": "Construction tools stored in a meta drum. Great for factories or warehouses.",
     "category": "Decoration",
     "favorites": [
@@ -2263,6 +2475,7 @@
   },
   {
     "name": "Flower cushion",
+    "image": "flowercushion.png",
     "description": "A cute flower-shaped cushion. It would look nice on some grassy ground.",
     "category": "",
     "favorites": [
@@ -2274,6 +2487,7 @@
   },
   {
     "name": "Leafy plant",
+    "image": "leafyplant.png",
     "description": "A plant with glossy leaves. It's actually related to the taro root",
     "category": "Decoration",
     "favorites": [
@@ -2285,6 +2499,7 @@
   },
   {
     "name": "Extravagant flowers",
+    "image": "extravagantflowers.png",
     "description": "With robust orange flowers in full bloom, using this decoration is sure to add some color to an area",
     "category": "Decoration",
     "favorites": [
@@ -2297,6 +2512,7 @@
   },
   {
     "name": "Decorative plant shelf",
+    "image": "decorativeplantshelf.png",
     "description": "A long vine droops from the potted plant on this decorative shelf. Perfect for livening up any wall!",
     "category": "Decoration",
     "favorites": [
@@ -2306,6 +2522,7 @@
   },
   {
     "name": "Chansey plant",
+    "image": "chanseyplant.png",
     "description": "A tree that looks just like a Chansey! Looking at it seems to fill you with a gentle energy",
     "category": "Decoration",
     "favorites": [
@@ -2318,6 +2535,7 @@
   },
   {
     "name": "Wildflowers",
+    "image": "wildflowers.png",
     "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mind",
     "category": "",
     "favorites": [
@@ -2326,6 +2544,7 @@
   },
   {
     "name": "Seashore flowers",
+    "image": "seashoreflowers.png",
     "description": "The symbol of a port town. Looking at these seems to refresh you.",
     "category": "",
     "favorites": [
@@ -2334,6 +2553,7 @@
   },
   {
     "name": "Mountain flowers",
+    "image": "mountainflowers.png",
     "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.",
     "category": "",
     "favorites": [
@@ -2342,6 +2562,7 @@
   },
   {
     "name": "Skyland flowers",
+    "image": "skylandflowers.png",
     "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.",
     "category": "",
     "favorites": [
@@ -2350,6 +2571,7 @@
   },
   {
     "name": "Beautiful flower",
+    "image": "beautifulflower.png",
     "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stems",
     "category": "",
     "favorites": [
@@ -2358,6 +2580,7 @@
   },
   {
     "name": "Cute flower",
+    "image": "cuteflower.png",
     "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9mon",
     "category": "",
     "favorites": [
@@ -2367,6 +2590,7 @@
   },
   {
     "name": "Elegant flower",
+    "image": "elegantflower.png",
     "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolve",
     "category": "",
     "favorites": [
@@ -2375,6 +2599,7 @@
   },
   {
     "name": "Robust flower",
+    "image": "robustflower.png",
     "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.",
     "category": "",
     "favorites": [
@@ -2383,6 +2608,7 @@
   },
   {
     "name": "Wildflowers (orange)",
+    "image": "wildflowers(orange).png",
     "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2391,6 +2617,7 @@
   },
   {
     "name": "Wildflowers (purple)",
+    "image": "wildflowers(purple).png",
     "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2399,6 +2626,7 @@
   },
   {
     "name": "Wildflowers (red)",
+    "image": "wildflowers(red).png",
     "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2407,6 +2635,7 @@
   },
   {
     "name": "Wildflowers (blue)",
+    "image": "wildflowers(blue).png",
     "description": "Beautiful flowers blooming on fresh dirt. Looking at them seems to soothe the mindNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2415,6 +2644,7 @@
   },
   {
     "name": "Seashore flowers (blue)",
+    "image": "seashoreflowers(blue).png",
     "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2423,6 +2653,7 @@
   },
   {
     "name": "Seashore flowers (orange)",
+    "image": "seashoreflowers(orange).png",
     "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2431,6 +2662,7 @@
   },
   {
     "name": "Seashore flowers (white)",
+    "image": "seashoreflowers(white).png",
     "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2439,6 +2671,7 @@
   },
   {
     "name": "Seashore flowers (yellow)",
+    "image": "seashoreflowers(yellow).png",
     "description": "The symbol of a port town. Looking at these seems to refresh you.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2447,6 +2680,7 @@
   },
   {
     "name": "Mountain flowers (pink)",
+    "image": "mountainflowers(pink).png",
     "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2455,6 +2689,7 @@
   },
   {
     "name": "Mountain flowers (purple)",
+    "image": "mountainflowers(purple).png",
     "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2463,6 +2698,7 @@
   },
   {
     "name": "Mountain flowers (red)",
+    "image": "mountainflowers(red).png",
     "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2471,6 +2707,7 @@
   },
   {
     "name": "Mountain flowers (white)",
+    "image": "mountainflowers(white).png",
     "description": "Flowers that bloom elegantly, even in rugged, rocky environments. They are sublimely beautiful.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2479,6 +2716,7 @@
   },
   {
     "name": "Skyland flowers (blue)",
+    "image": "skylandflowers(blue).png",
     "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2487,6 +2725,7 @@
   },
   {
     "name": "Skyland flowers (orange)",
+    "image": "skylandflowers(orange).png",
     "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2495,6 +2734,7 @@
   },
   {
     "name": "Skyland flowers (pink)",
+    "image": "skylandflowers(pink).png",
     "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2503,6 +2743,7 @@
   },
   {
     "name": "Skyland flowers (yellow)",
+    "image": "skylandflowers(yellow).png",
     "description": "Puffy flowers often found at the skylands. Their blossoms are cute and ethereal.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2511,6 +2752,7 @@
   },
   {
     "name": "Beautiful flower (pink)",
+    "image": "beautifulflower(pink).png",
     "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2519,6 +2761,7 @@
   },
   {
     "name": "Beautiful flower (purple)",
+    "image": "beautifulflower(purple).png",
     "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2527,6 +2770,7 @@
   },
   {
     "name": "Beautiful flower (white)",
+    "image": "beautifulflower(white).png",
     "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2535,6 +2779,7 @@
   },
   {
     "name": "Beautiful flower (yellow)",
+    "image": "beautifulflower(yellow).png",
     "description": "Gorgeous and extravagant flowers in full bloom. Be wary of the thorns on their stemsNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2543,6 +2788,7 @@
   },
   {
     "name": "Cute flower (blue)",
+    "image": "cuteflower(blue).png",
     "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2551,6 +2797,7 @@
   },
   {
     "name": "Cute flower (pink)",
+    "image": "cuteflower(pink).png",
     "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2559,6 +2806,7 @@
   },
   {
     "name": "Cute flower (white)",
+    "image": "cuteflower(white).png",
     "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2567,6 +2815,7 @@
   },
   {
     "name": "Cute flower (yellow)",
+    "image": "cuteflower(yellow).png",
     "description": "Cute flowers that bloom in port towns. They would surely be a delightful gift to any Pok\u00e9monNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2575,6 +2824,7 @@
   },
   {
     "name": "Elegant flower (orange)",
+    "image": "elegantflower(orange).png",
     "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2583,6 +2833,7 @@
   },
   {
     "name": "Elegant flower (pink)",
+    "image": "elegantflower(pink).png",
     "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2591,6 +2842,7 @@
   },
   {
     "name": "Elegant flower (red)",
+    "image": "elegantflower(red).png",
     "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2599,6 +2851,7 @@
   },
   {
     "name": "Elegant flower (yellow)",
+    "image": "elegantflower(yellow).png",
     "description": "Flowers that stand tall, even in rugged mountains. Their majestic elegance fills your heart with resolveNote: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2607,6 +2860,7 @@
   },
   {
     "name": "Robust flower (blue)",
+    "image": "robustflower(blue).png",
     "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2615,6 +2869,7 @@
   },
   {
     "name": "Robust flower (orange)",
+    "image": "robustflower(orange).png",
     "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2623,6 +2878,7 @@
   },
   {
     "name": "Robust flower (purple)",
+    "image": "robustflower(purple).png",
     "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2631,6 +2887,7 @@
   },
   {
     "name": "Robust flower (white)",
+    "image": "robustflower(white).png",
     "description": "Flowers resolutely blooming toward the sky. Looking at them seems to fill you with energy.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -2639,6 +2896,7 @@
   },
   {
     "name": "Flower backpack",
+    "image": "flowerbackpack.png",
     "description": "The big flower makes this backpack stand out! Looks like it could hold everything you need for a picnic",
     "category": "",
     "favorites": [
@@ -2650,6 +2908,7 @@
   },
   {
     "name": "Berry case",
+    "image": "berrycase.png",
     "description": "At a glance, this looks just like a glossy Cheri Berry. It opens wide for you to store things inside",
     "category": "Decoration",
     "favorites": [
@@ -2661,6 +2920,7 @@
   },
   {
     "name": "Berry table",
+    "image": "berrytable.png",
     "description": "A large Aspear Berry table. It looks real enough to make you want to bite into it.",
     "category": "",
     "favorites": [
@@ -2670,6 +2930,7 @@
   },
   {
     "name": "Berry chair",
+    "image": "berrychair.png",
     "description": "When placed on the ground, it looks just like a buried Leppa Berry. The steam and leaves are a backrest.",
     "category": "Relaxation",
     "favorites": [
@@ -2681,6 +2942,7 @@
   },
   {
     "name": "Berry bed",
+    "image": "berrybed.png",
     "description": "A large Pecha Berry-themed bed. It's springy texture provides ultimate comfort at bedtime.",
     "category": "Relaxation",
     "favorites": [
@@ -2693,6 +2955,7 @@
   },
   {
     "name": "Berry basket",
+    "image": "berrybasket.png",
     "description": "A basket packed with berries. Line up a few to make your very own fruit stand!",
     "category": "Decoration",
     "favorites": [
@@ -2704,6 +2967,7 @@
   },
   {
     "name": "Berry clock",
+    "image": "berryclock.png",
     "description": "A clock that resembles an Oran Berry cross section. Try mounting it on a wall",
     "category": "Toy",
     "favorites": [
@@ -2717,6 +2981,7 @@
   },
   {
     "name": "Berry table lamp",
+    "image": "berrytablelamp.png",
     "description": "A Rawst Berry made of glass. Power it on to illuminate the area with pale blue light",
     "category": "Decoration",
     "favorites": [
@@ -2729,6 +2994,7 @@
   },
   {
     "name": "Berry print (wallpaper)",
+    "image": "berryprint(wallpaper).png",
     "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
     "category": "",
     "favorites": [
@@ -2738,6 +3004,7 @@
   },
   {
     "name": "Leftovers",
+    "image": "leftovers.png",
     "description": "Someone's leftover food. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -2746,6 +3013,7 @@
   },
   {
     "name": "Berry print",
+    "image": "berryprint.png",
     "description": "Sweeyt berries, spicy berries, bitter berries... This pattern has berry flavors for everyone",
     "category": "",
     "favorites": [
@@ -2755,6 +3023,7 @@
   },
   {
     "name": "Luxury chair",
+    "image": "luxurychair.png",
     "description": "A classy-looking seat with a gemstone embedded in it. Just sitting on it makes you feel rich.",
     "category": "Relaxation",
     "favorites": [
@@ -2765,6 +3034,7 @@
   },
   {
     "name": "Pitcher-plant pot",
+    "image": "pitcher-plantpot.png",
     "description": "A flower vase with a pink lip that resembles a Pok\u00e9mon's mouth. It emanates a faintly sweet aroma",
     "category": "Decoration",
     "favorites": [
@@ -2777,6 +3047,7 @@
   },
   {
     "name": "Munna bank",
+    "image": "munnabank.png",
     "description": "An especially heavy money box. It feels like it's full of coins",
     "category": "Toy",
     "favorites": [
@@ -2788,6 +3059,7 @@
   },
   {
     "name": "Mysterious statue",
+    "image": "mysteriousstatue.png",
     "description": "Doesn't seem like anyone knows exactly what this is a statue of...",
     "category": "Decoration",
     "favorites": [
@@ -2798,6 +3070,7 @@
   },
   {
     "name": "Gravestone",
+    "image": "gravestone.png",
     "description": "A place where souls can rest in peace. Ghost-type Pok\u00e9mon might enjoy this",
     "category": "Decoration",
     "favorites": [
@@ -2808,6 +3081,7 @@
   },
   {
     "name": "Spell Tag",
+    "image": "spelltag.png",
     "description": "A sinister, eerie tag. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -2816,6 +3090,7 @@
   },
   {
     "name": "Squishy clay",
+    "image": "squishyclay.png",
     "description": "A soft malleable crafting material used for all sorts of things. It can also be fired and hardened into  bricks",
     "category": "",
     "favorites": [
@@ -2824,6 +3099,7 @@
   },
   {
     "name": "Fluff",
+    "image": "fluff.png",
     "description": "An irresistibly soft tuft of fluff. Pok\u00e9mon with the Litter specialty may scatter this",
     "category": "",
     "favorites": [
@@ -2834,6 +3110,7 @@
   },
   {
     "name": "Straw stool",
+    "image": "strawstool.png",
     "description": "This is the perfect size for small Pok\u00e9mon to take a seat!",
     "category": "Relaxation",
     "favorites": [
@@ -2842,6 +3119,7 @@
   },
   {
     "name": "Simple cushion",
+    "image": "simplecushion.png",
     "description": "A simple practical cusion. It's filled with cotton and provides a soft seat.",
     "category": "Relaxation",
     "favorites": [
@@ -2851,6 +3129,7 @@
   },
   {
     "name": "Plain stool",
+    "image": "plainstool.png",
     "description": "A stool with a simple design. Small Pok\u00e9mon can use this as a seat",
     "category": "Relaxation",
     "favorites": [
@@ -2860,6 +3139,7 @@
   },
   {
     "name": "Resort stool",
+    "image": "resortstool.png",
     "description": "While this stool looks stiff, the cotton padding inside makes it surprisingly soft",
     "category": "Relaxation",
     "favorites": [
@@ -2870,6 +3150,7 @@
   },
   {
     "name": "Soft seat",
+    "image": "softseat.png",
     "description": "A cushioned seat that's soft and fluffy-perfect for waiting rooms, relaxation spaces, and the like!",
     "category": "Relaxation",
     "favorites": [
@@ -2880,6 +3161,7 @@
   },
   {
     "name": "Box Sofa",
+    "image": "boxsofa.png",
     "description": "A small square sofa. Line up several of them to make a wide chic sofa",
     "category": "Relaxation",
     "favorites": [
@@ -2890,6 +3172,7 @@
   },
   {
     "name": "Plain chair",
+    "image": "plainchair.png",
     "description": "This chair is just the right height for eating meals in the dining room",
     "category": "Relaxation",
     "favorites": [
@@ -2900,6 +3183,7 @@
   },
   {
     "name": "Resort chair",
+    "image": "resortchair.png",
     "description": "A chair perfect for relaxing. Kick back on this to taste a bit of the resort life",
     "category": "Relaxation",
     "favorites": [
@@ -2910,6 +3194,7 @@
   },
   {
     "name": "Chic chair",
+    "image": "chicchair.png",
     "description": "A luxurious loung chair. Sitting on its soft cushions is absolutely beyond compare!",
     "category": "Relaxation",
     "favorites": [
@@ -2920,6 +3205,7 @@
   },
   {
     "name": "Fancy chair",
+    "image": "fancychair.png",
     "description": "A high-class chair with a real dignified feel to it. Just sitting here will make you feel important.",
     "category": "Relaxation",
     "favorites": [
@@ -2931,6 +3217,7 @@
   },
   {
     "name": "Office chair",
+    "image": "officechair.png",
     "description": "With a gentle curve to support the body, this chair was designed to help you sit longer without tiring",
     "category": "Relaxation",
     "favorites": [
@@ -2942,6 +3229,7 @@
   },
   {
     "name": "Cute chair",
+    "image": "cutechair.png",
     "description": "The ruffle skirt is exceptionally cute and lovely",
     "category": "Relaxation",
     "favorites": [
@@ -2952,6 +3240,7 @@
   },
   {
     "name": "Mini plain bed",
+    "image": "miniplainbed.png",
     "description": "A small, plain bed. Great for solo sleepers!",
     "category": "Relaxation",
     "favorites": [
@@ -2962,6 +3251,7 @@
   },
   {
     "name": "Resort bed",
+    "image": "resortbed.png",
     "description": "A refreshingly cool bed made of woven vines. Lying down on this makes you feel like you're at a resort",
     "category": "Relaxation",
     "favorites": [
@@ -2972,6 +3262,7 @@
   },
   {
     "name": "Iron bed",
+    "image": "ironbed.png",
     "description": "A slightly narrow bed. It's sturdy enough for a good night's sleep!",
     "category": "Relaxation",
     "favorites": [
@@ -2982,6 +3273,7 @@
   },
   {
     "name": "Beach chair",
+    "image": "beachchair.png",
     "description": "Lean back and relax in this chair. It pairs perfectly with a beach parasol",
     "category": "Relaxation",
     "favorites": [
@@ -2992,6 +3284,7 @@
   },
   {
     "name": "Straw bed",
+    "image": "strawbed.png",
     "description": "It's a little itchy, but that doesn't bother Pok\u00e9mon. They'll snooze away just fine on this.",
     "category": "Relaxation",
     "favorites": [
@@ -3001,6 +3294,7 @@
   },
   {
     "name": "Pok\u00e9 Ball bed",
+    "image": "pok\u00e9ballbed.png",
     "description": "A big bed. Even large Pok\u00e9mon could sprawl out on it.",
     "category": "Relaxation",
     "favorites": [
@@ -3010,6 +3304,7 @@
   },
   {
     "name": "Cute bed",
+    "image": "cutebed.png",
     "description": "You'll feel like royalty sleeping on this cute canopy bed.",
     "category": "Relaxation",
     "favorites": [
@@ -3020,6 +3315,7 @@
   },
   {
     "name": "Naptime bed",
+    "image": "naptimebed.png",
     "description": "Kick back right on top of Snorlax's belly. It feels so comfy you could snooze through the whole day",
     "category": "Relaxation",
     "favorites": [
@@ -3028,6 +3324,7 @@
   },
   {
     "name": "Eevee doll",
+    "image": "eeveedoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3038,6 +3335,7 @@
   },
   {
     "name": "Pikachu doll",
+    "image": "pikachudoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3048,6 +3346,7 @@
   },
   {
     "name": "Clefairy doll",
+    "image": "clefairydoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3058,6 +3357,7 @@
   },
   {
     "name": "Dragonite doll",
+    "image": "dragonitedoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3068,6 +3368,7 @@
   },
   {
     "name": "Ditto doll",
+    "image": "dittodoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3078,6 +3379,7 @@
   },
   {
     "name": "Substitute doll",
+    "image": "substitutedoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -3088,6 +3390,7 @@
   },
   {
     "name": "Soft Sand",
+    "image": "softsand.png",
     "description": "Loose, silky sand. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3096,6 +3399,7 @@
   },
   {
     "name": "Light Clay",
+    "image": "lightclay.png",
     "description": "Yellowish-green clay. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3105,6 +3409,7 @@
   },
   {
     "name": "Cotton Spores",
+    "image": "cottonspores.png",
     "description": "Small, white tufts of cotton. Bring them to Hoppip!",
     "category": "",
     "favorites": [
@@ -3113,6 +3418,7 @@
   },
   {
     "name": "Deck chair",
+    "image": "deckchair.png",
     "description": "Lean this chair backa nd relax for a bit. It looks great for sunbating.",
     "category": "Relaxation",
     "favorites": [
@@ -3121,6 +3427,7 @@
   },
   {
     "name": "Ship's Wheel",
+    "image": "ship'swheel.png",
     "description": "A wheel used to steer a ship. It spinds round and round when you touch it!",
     "category": "Toy",
     "favorites": [
@@ -3130,6 +3437,7 @@
   },
   {
     "name": "Shell lamp",
+    "image": "shelllamp.png",
     "description": "It looks like a simple seashell at first glance, but hang it up and power it on, and it emits a gentle light",
     "category": "Decoration",
     "favorites": [
@@ -3141,6 +3449,7 @@
   },
   {
     "name": "Resort light",
+    "image": "resortlight.png",
     "description": "A light that resembles a ball of tangled string. Its gentle glow creates a fancy atmosphere",
     "category": "Decoration",
     "favorites": [
@@ -3152,6 +3461,7 @@
   },
   {
     "name": "Wall storage box",
+    "image": "wallstoragebox.png",
     "description": "It may be small, but it can store lots of stuff. Try mounting it on a wall",
     "category": "Decoration",
     "favorites": [
@@ -3162,6 +3472,7 @@
   },
   {
     "name": "Plain chest",
+    "image": "plainchest.png",
     "description": "A chest with a simple design. It can be used to store items.",
     "category": "Decoration",
     "favorites": [
@@ -3173,6 +3484,7 @@
   },
   {
     "name": "Office cabinet",
+    "image": "officecabinet.png",
     "description": "Compacy furniture that's surprisingly spacious. Open the sliding door to put items inside",
     "category": "Decoration",
     "favorites": [
@@ -3184,6 +3496,7 @@
   },
   {
     "name": "Antique chest",
+    "image": "antiquechest.png",
     "description": "Its four curvy legs are adorable. Try putting lots of different things in the draw",
     "category": "Decoration",
     "favorites": [
@@ -3195,6 +3508,7 @@
   },
   {
     "name": "Plain closet",
+    "image": "plaincloset.png",
     "description": "Open the curtains and store your stuff! You don't actually need the hangers-but they're there anyway!",
     "category": "Decoration",
     "favorites": [
@@ -3206,6 +3520,7 @@
   },
   {
     "name": "Office locker",
+    "image": "officelocker.png",
     "description": "A large locker that can even hold clothing. Try storing lots of different things in it!",
     "category": "Decoration",
     "favorites": [
@@ -3216,6 +3531,7 @@
   },
   {
     "name": "Antique closet",
+    "image": "antiquecloset.png",
     "description": "A large bulky closet. Try storing different things in it!",
     "category": "Decoration",
     "favorites": [
@@ -3227,6 +3543,7 @@
   },
   {
     "name": "Office shelf",
+    "image": "officeshelf.png",
     "description": "This is jam-packed with so many files that it can't hold anything else",
     "category": "Decoration",
     "favorites": [
@@ -3240,6 +3557,7 @@
   },
   {
     "name": "Plain stand",
+    "image": "plainstand.png",
     "description": "This low table has a simple design and is perfect for displaying items",
     "category": "Decoration",
     "favorites": [
@@ -3251,6 +3569,7 @@
   },
   {
     "name": "Iron stand",
+    "image": "ironstand.png",
     "description": "An impressively stury iron stand. Effortlessly supports even heavy items",
     "category": "Decoration",
     "favorites": [
@@ -3263,6 +3582,7 @@
   },
   {
     "name": "Wooden stool",
+    "image": "woodenstool.png",
     "description": "It's a little chipped but surprisingly sturdyy. Even if a Pok\u00e9mon sits on it, it won't break. Probably.",
     "category": "Relaxation",
     "favorites": [
@@ -3271,6 +3591,7 @@
   },
   {
     "name": "Iron chair",
+    "image": "ironchair.png",
     "description": "Though small, this seat is very sturdy. It doesn't look like it would break easily.",
     "category": "Relaxation",
     "favorites": [
@@ -3280,6 +3601,7 @@
   },
   {
     "name": "Public seat",
+    "image": "publicseat.png",
     "description": "A simple chair without a backrest. Try arranging a bunch of 'em together",
     "category": "Relaxation",
     "favorites": [
@@ -3289,6 +3611,7 @@
   },
   {
     "name": "Wall mirror",
+    "image": "wallmirror.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -3301,6 +3624,7 @@
   },
   {
     "name": "Large mirror",
+    "image": "largemirror.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -3312,6 +3636,7 @@
   },
   {
     "name": "Letter",
+    "image": "letter.png",
     "description": "A simple sealed letter. It has a Pok\u00e9 Ball stamp on it",
     "category": "Toy",
     "favorites": [
@@ -3323,6 +3648,7 @@
   },
   {
     "name": "Notepad",
+    "image": "notepad.png",
     "description": "It's full of important-looking notes, so there's no space to write anything else!",
     "category": "Toy",
     "favorites": [
@@ -3334,6 +3660,7 @@
   },
   {
     "name": "Book",
+    "image": "book.png",
     "description": "A thick hardcover book. The pages inside were written in small print",
     "category": "Toy",
     "favorites": [
@@ -3345,6 +3672,7 @@
   },
   {
     "name": "Open Book",
+    "image": "openbook.png",
     "description": "A classic hardcover book. It's probably got a lot of difficult words inside",
     "category": "Toy",
     "favorites": [
@@ -3356,6 +3684,7 @@
   },
   {
     "name": "Papers",
+    "image": "papers.png",
     "description": "Lots of tiny words are written on the white pages along with drawings of colorful shapes",
     "category": "Toy",
     "favorites": [
@@ -3367,6 +3696,7 @@
   },
   {
     "name": "Newspaper",
+    "image": "newspaper.png",
     "description": "Its pages are filled with small, tightly-packed letters. What could be written here?",
     "category": "Toy",
     "favorites": [
@@ -3378,6 +3708,7 @@
   },
   {
     "name": "Wall photo frame",
+    "image": "wallphotoframe.png",
     "description": "You can put one of your photos in this frame and hang it on a wall.",
     "category": "Decoration",
     "favorites": [
@@ -3388,6 +3719,7 @@
   },
   {
     "name": "Corkboard",
+    "image": "corkboard.png",
     "description": "Choose one of your favorite photos to hang on this corkboard!",
     "category": "Decoration",
     "favorites": [
@@ -3398,6 +3730,7 @@
   },
   {
     "name": "Microwave oven",
+    "image": "microwaveoven.png",
     "description": "This lights up when powered on, but it doesn't seem like it can heat anything...",
     "category": "Toy",
     "favorites": [
@@ -3410,6 +3743,7 @@
   },
   {
     "name": "Refrigerator",
+    "image": "refrigerator.png",
     "description": "It emits a slight chill, but it doesn't seem like it can keep anything cold",
     "category": "Toy",
     "favorites": [
@@ -3422,6 +3756,7 @@
   },
   {
     "name": "Tablet",
+    "image": "tablet.png",
     "description": "A convenient, easy-to-carry computer. It's got a hard case so no worries if you drop it!",
     "category": "Toy",
     "favorites": [
@@ -3434,6 +3769,7 @@
   },
   {
     "name": "Cell phone",
+    "image": "cellphone.png",
     "description": "A device carefully protected inside a hard case. It can't make calls, even when powered on",
     "category": "Toy",
     "favorites": [
@@ -3446,6 +3782,7 @@
   },
   {
     "name": "Laptop",
+    "image": "laptop.png",
     "description": "A sleek, easy-to-carry laptop. Try displaying some photos on the monitor.",
     "category": "Toy",
     "favorites": [
@@ -3458,6 +3795,7 @@
   },
   {
     "name": "Speaker",
+    "image": "speaker.png",
     "description": "Putting this next to a stage or an audio mixer ought to create an electrifying atmosphere!",
     "category": "Toy",
     "favorites": [
@@ -3468,6 +3806,7 @@
   },
   {
     "name": "Cardboard boxes",
+    "image": "cardboardboxes.png",
     "description": "Light cardboard boxes. It doesn't look like they have anything inside",
     "category": "Decoration",
     "favorites": [
@@ -3478,6 +3817,7 @@
   },
   {
     "name": "Control unit",
+    "image": "controlunit.png",
     "description": "This has a bunch of switches, but it doesn't look like any of them do anything",
     "category": "Toy",
     "favorites": [
@@ -3487,6 +3827,7 @@
   },
   {
     "name": "Wall Calendar",
+    "image": "wallcalendar.png",
     "description": "A calendar that's simple and easy to use. It meshes well with pretty much any wall.",
     "category": "Decoration",
     "favorites": [
@@ -3498,6 +3839,7 @@
   },
   {
     "name": "Hanging scroll",
+    "image": "hangingscroll.png",
     "description": "A scrol with phenomenal brushwork. Hang it on a wall to create a solemn atmosphere",
     "category": "Decoration",
     "favorites": [
@@ -3508,6 +3850,7 @@
   },
   {
     "name": "Menu board",
+    "image": "menuboard.png",
     "description": "Specials are written on this board, but it doesn't seem like Pok\u00e9mon can actually read them.",
     "category": "Decoration",
     "favorites": [
@@ -3519,6 +3862,7 @@
   },
   {
     "name": "Worn wooden crate",
+    "image": "wornwoodencrate.png",
     "description": "A sturdy but somewhat shabby box. Stack a bunch of them to create a warehouse vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3529,6 +3873,7 @@
   },
   {
     "name": "Wooden crate",
+    "image": "woodencrate.png",
     "description": "You have absolutely no idea how to open this box...But you can put stuff on top of it at least!",
     "category": "Decoration",
     "favorites": [
@@ -3539,6 +3884,7 @@
   },
   {
     "name": "Large ventilation fan",
+    "image": "largeventilationfan.png",
     "description": "A huge, flat ventilation fan-the kind you'd find on top of a building or a house.",
     "category": "Decoration",
     "favorites": [
@@ -3551,6 +3897,7 @@
   },
   {
     "name": "Frame",
+    "image": "frame.png",
     "description": "A frame for hanging an item on a wall. Try putting different things inside!",
     "category": "Decoration",
     "favorites": [
@@ -3563,6 +3910,7 @@
   },
   {
     "name": "Mini generator",
+    "image": "minigenerator.png",
     "description": "Place this anywhere, and it will generate electricity all on its own. What a remarkable machine!",
     "category": "Decoration",
     "favorites": [
@@ -3576,6 +3924,7 @@
   },
   {
     "name": "Wall light",
+    "image": "walllight.png",
     "description": "A light that can be fixed to a wall. Power it on and it'll light the area with a warm glow",
     "category": "Decoration",
     "favorites": [
@@ -3586,6 +3935,7 @@
   },
   {
     "name": "Town map",
+    "image": "townmap.png",
     "description": "A map of...somewhere. You can't make heads or tails of it but it looks pretty nice on a wall",
     "category": "Toy",
     "favorites": [
@@ -3597,6 +3947,7 @@
   },
   {
     "name": "Science experiment",
+    "image": "scienceexperiment.png",
     "description": "Chemicals, testing equipment, and a clipboard... OK! The experiment is ready to begin!",
     "category": "Toy",
     "favorites": [
@@ -3609,6 +3960,7 @@
   },
   {
     "name": "Decorative bookshelf",
+    "image": "decorativebookshelf.png",
     "description": "A decorative shelf with colorful books on it. Perfect for livening up any wall!",
     "category": "Decoration",
     "favorites": [
@@ -3618,6 +3970,7 @@
   },
   {
     "name": "Grubby letter",
+    "image": "grubbyletter.png",
     "description": "A yellowed letter, still sealed. It's got a postage stamp with a Pok\u00e9 Ball pattern on it.",
     "category": "Toy",
     "favorites": [
@@ -3628,6 +3981,7 @@
   },
   {
     "name": "Grubby notepad",
+    "image": "grubbynotepad.png",
     "description": "It looks like there's some pretty important stuff written on this, but it's a little grimy",
     "category": "Toy",
     "favorites": [
@@ -3638,6 +3992,7 @@
   },
   {
     "name": "Grubby book",
+    "image": "grubbybook.png",
     "description": "",
     "category": "Toy",
     "favorites": [
@@ -3648,6 +4003,7 @@
   },
   {
     "name": "Grubby papers",
+    "image": "grubbypapers.png",
     "description": "Lots of tiny words are written on the yellowed pages along with drawings of colorful shapess.",
     "category": "Toy",
     "favorites": [
@@ -3658,6 +4014,7 @@
   },
   {
     "name": "Grubby newspaper",
+    "image": "grubbynewspaper.png",
     "description": "A newspaper with noticeable dirt and grime. It smells like old paper",
     "category": "Toy",
     "favorites": [
@@ -3669,6 +4026,7 @@
   },
   {
     "name": "Arrow sign",
+    "image": "arrowsign.png",
     "description": "An arrow-shaped sign. You could use it as a guidepost at forked roads",
     "category": "Decoration",
     "favorites": [
@@ -3678,6 +4036,7 @@
   },
   {
     "name": "Weakness Policy",
+    "image": "weaknesspolicy.png",
     "description": "A piece of paper with clean, neat writing on it. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3686,6 +4045,7 @@
   },
   {
     "name": "Crystal fragment",
+    "image": "crystalfragment.png",
     "description": "A piece of broken crystal. It's transparent, so you can see right through it.",
     "category": "",
     "favorites": [
@@ -3695,6 +4055,7 @@
   },
   {
     "name": "Stardust",
+    "image": "stardust.png",
     "description": "Sand that can be processed into Star Pieces. It can be found on Dream Islands",
     "category": "",
     "favorites": [
@@ -3703,6 +4064,7 @@
   },
   {
     "name": "Pok\u00e9 Ball Chest",
+    "image": "pok\u00e9ballchest.png",
     "description": "This looks like a giant Pok\u00e9 Ball. It opens wide for you to store things inside",
     "category": "Decoration",
     "favorites": [
@@ -3715,6 +4077,7 @@
   },
   {
     "name": "Computer",
+    "image": "computer.png",
     "description": "A computer that looks like it belongs in a laboratory. Some notes have been stuck to it here and there",
     "category": "Toy",
     "favorites": [
@@ -3727,6 +4090,7 @@
   },
   {
     "name": "Crystal ball",
+    "image": "crystalball.png",
     "description": "A large crystal ball used for fortune-telling. Give it to a Psychic-type Pok\u00e9mon and see what happens",
     "category": "Toy",
     "favorites": [
@@ -3739,6 +4103,7 @@
   },
   {
     "name": "Tabletop mic",
+    "image": "tabletopmic.png",
     "description": "A microphone like those used at recording studios or public speeches. Try putting it on a desk!",
     "category": "Toy",
     "favorites": [
@@ -3748,6 +4113,7 @@
   },
   {
     "name": "Gold Teeth",
+    "image": "goldteeth.png",
     "description": "Their lustrous golden shine hasn't changed at all. Maybe someone dropped them long ago?",
     "category": "Toy",
     "favorites": [
@@ -3759,6 +4125,7 @@
   },
   {
     "name": "Big Nugget",
+    "image": "bignugget.png",
     "description": "It's made of pure gold that gives off a lustrous gleam. It seems like it was popular among enthusiasts.",
     "category": "Toy",
     "favorites": [
@@ -3770,6 +4137,7 @@
   },
   {
     "name": "Auspicious Armor",
+    "image": "auspiciousarmor.png",
     "description": "Heavy armor recreated from armor fragments. Auspicious wishes live within it",
     "category": "Decoration",
     "favorites": [
@@ -3780,6 +4148,7 @@
   },
   {
     "name": "Clear Bell",
+    "image": "clearbell.png",
     "description": "A very-old fashioned bell that makes a gentle ringing sound. Ring it in an open space to call Ho-Oh",
     "category": "Toy",
     "favorites": [
@@ -3791,6 +4160,7 @@
   },
   {
     "name": "Gym emblem statue",
+    "image": "gymemblemstatue.png",
     "description": "This stone statue makes you feel pumped up. Would look great on a pedestal",
     "category": "Decoration",
     "favorites": [
@@ -3800,6 +4170,7 @@
   },
   {
     "name": "Spacesuit",
+    "image": "spacesuit.png",
     "description": "Clothing designed for living in outer space. Keeps the wearer safe even in an airless environment",
     "category": "Toy",
     "favorites": [
@@ -3812,6 +4183,7 @@
   },
   {
     "name": "Model space shuttle",
+    "image": "modelspaceshuttle.png",
     "description": "A realistic model that looks like it could blast off at any second. Could it have been in some museum?",
     "category": "Toy",
     "favorites": [
@@ -3824,6 +4196,7 @@
   },
   {
     "name": "Bell",
+    "image": "bell.png",
     "description": "A golden, wall-mounted bell. When struck, it rings with a pleasant sound.",
     "category": "Toy",
     "favorites": [
@@ -3835,6 +4208,7 @@
   },
   {
     "name": "Red meteor lamp",
+    "image": "redmeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3846,6 +4220,7 @@
   },
   {
     "name": "Orange meteor lamp",
+    "image": "orangemeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3857,6 +4232,7 @@
   },
   {
     "name": "Yellow meteor lamp",
+    "image": "yellowmeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3868,6 +4244,7 @@
   },
   {
     "name": "Green meteor lamp",
+    "image": "greenmeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3879,6 +4256,7 @@
   },
   {
     "name": "Blue meteor lamp",
+    "image": "bluemeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3890,6 +4268,7 @@
   },
   {
     "name": "Indigo meteor lamp",
+    "image": "indigometeorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3901,6 +4280,7 @@
   },
   {
     "name": "Violet meteor lamp",
+    "image": "violetmeteorlamp.png",
     "description": "When powered on, this sparkles like a shooting star and instantly gives its surroundings a mystical vibe.",
     "category": "Decoration",
     "favorites": [
@@ -3912,6 +4292,7 @@
   },
   {
     "name": "Mirror ball",
+    "image": "mirrorball.png",
     "description": "Sparkles and twinkles when powered on. Quickly turns the whole area into a party zone",
     "category": "Decoration",
     "favorites": [
@@ -3924,6 +4305,7 @@
   },
   {
     "name": "Star Piece",
+    "image": "starpiece.png",
     "description": "Apparently, if you give this to a Pok\u00e9mon visiting from far away, they'll give you a gift in return",
     "category": "",
     "favorites": [
@@ -3932,6 +4314,7 @@
   },
   {
     "name": "Nugget",
+    "image": "nugget.png",
     "description": "It's made of pure gold that gives off a lustrous gleam. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3941,6 +4324,7 @@
   },
   {
     "name": "Silver Bottle Cap",
+    "image": "silverbottlecap.png",
     "description": "A lovely silver bottle cap. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3950,6 +4334,7 @@
   },
   {
     "name": "Gold Bottle Cap",
+    "image": "goldbottlecap.png",
     "description": "A lovely gold bottle cap. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3959,6 +4344,7 @@
   },
   {
     "name": "Metal Powder",
+    "image": "metalpowder.png",
     "description": "An extremely fine, yet hard metal pwoder. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3967,6 +4353,7 @@
   },
   {
     "name": "Clear Amulet",
+    "image": "clearamulet.png",
     "description": "An amulent that always stays clear and sparkling. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -3976,6 +4363,7 @@
   },
   {
     "name": "Rainbow Feather",
+    "image": "rainbowfeather.png",
     "description": "A mysterious feather that shines with a rainbow light. Looks like it fell from a Pok\u00e9mon flying in the sky...",
     "category": "",
     "favorites": [
@@ -3984,6 +4372,7 @@
   },
   {
     "name": "Silver Feather",
+    "image": "silverfeather.png",
     "description": "A mysterious feather that shines with a silver light. Looks like it fell from a Pok\u00e9mon flying in the sky...",
     "category": "",
     "favorites": [
@@ -3992,6 +4381,7 @@
   },
   {
     "name": "Armor fragment",
+    "image": "armorfragment.png",
     "description": "A piece of shattered armor. Gather all the shards to create armor brimming with emotions",
     "category": "",
     "favorites": [
@@ -4000,6 +4390,7 @@
   },
   {
     "name": "Polygonal Shelf",
+    "image": "polygonalshelf.png",
     "description": "A stylish, eye-catching shelf. Looks hard to use but still functions as a shelf just fine,",
     "category": "Decoration",
     "favorites": [
@@ -4010,6 +4401,7 @@
   },
   {
     "name": "Luxury dresser",
+    "image": "luxurydresser.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -4021,6 +4413,7 @@
   },
   {
     "name": "Cute dresser",
+    "image": "cutedresser.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -4032,6 +4425,7 @@
   },
   {
     "name": "Wiggly mirror",
+    "image": "wigglymirror.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -4043,6 +4437,7 @@
   },
   {
     "name": "Air conditioner",
+    "image": "airconditioner.png",
     "description": "A state-of-the-art air conditioner. Press once for cold air, or press twice for hot",
     "category": "Decoration",
     "favorites": [
@@ -4054,6 +4449,7 @@
   },
   {
     "name": "Printer",
+    "image": "printer.png",
     "description": "A large printer used by businesses. Perfect for an office or other workspaces!",
     "category": "Decoration",
     "favorites": [
@@ -4065,6 +4461,7 @@
   },
   {
     "name": "Alarm Clock",
+    "image": "alarmclock.png",
     "description": "A loud noise rings out when you press this. Be careful! You might accidentally wake someone up",
     "category": "Toy",
     "favorites": [
@@ -4077,6 +4474,7 @@
   },
   {
     "name": "Microscope",
+    "image": "microscope.png",
     "description": "A microscope often found in chemistry labs and research institutions. Essential for experiments!",
     "category": "Toy",
     "favorites": [
@@ -4089,6 +4487,7 @@
   },
   {
     "name": "Cool electric guitar",
+    "image": "coolelectricguitar.png",
     "description": "A snazzy guitat strung with strange strings. Holding it would make you feel pretty amped...",
     "category": "Toy",
     "favorites": [
@@ -4099,6 +4498,7 @@
   },
   {
     "name": "Cool bass guitar",
+    "image": "coolbassguitar.png",
     "description": "A snazzy bass guitar strung with strange strings. Holding it would make you feel pretty low-key...",
     "category": "Toy",
     "favorites": [
@@ -4109,6 +4509,7 @@
   },
   {
     "name": "Audio mixer",
+    "image": "audiomixer.png",
     "description": "Plug it in and switch on the screen. DJ Ditto is in the house!",
     "category": "Toy",
     "favorites": [
@@ -4119,6 +4520,7 @@
   },
   {
     "name": "Repel",
+    "image": "repel.png",
     "description": "When you press the spray cap, a weird scent spritzes out and permeates the area",
     "category": "Toy",
     "favorites": [
@@ -4127,6 +4529,7 @@
   },
   {
     "name": "Malicious Armor",
+    "image": "maliciousarmor.png",
     "description": "Heavy armor recreated from armor fragments. Malicious will lurks within it",
     "category": "Decoration",
     "favorites": [
@@ -4136,6 +4539,7 @@
   },
   {
     "name": "Tidal Bell",
+    "image": "tidalbell.png",
     "description": "A very-old fashioned bell that makes a gentle ringing sound. Ring it in an open space to call Lugia",
     "category": "Toy",
     "favorites": [
@@ -4147,6 +4551,7 @@
   },
   {
     "name": "Decorative storage shelf",
+    "image": "decorativestorageshelf.png",
     "description": "A decorative shelf lined with ceramic bottles. Attach it to a wall to liven up any space!",
     "category": "Decoration",
     "favorites": [
@@ -4157,6 +4562,7 @@
   },
   {
     "name": "Rowlet clock",
+    "image": "rowletclock.png",
     "description": "A wall clock shaped like a small house. Rowlet will pop out to let you know what time it is",
     "category": "Toy",
     "favorites": [
@@ -4167,6 +4573,7 @@
   },
   {
     "name": "Ceiling fan",
+    "image": "ceilingfan.png",
     "description": "Its blades spin round and round when powered on. Great for when you want to circulate air!",
     "category": "Decoration",
     "favorites": [
@@ -4179,6 +4586,7 @@
   },
   {
     "name": "Castform weather charm",
+    "image": "castformweathercharm.png",
     "description": "A reversible Castform doll. Rumor has it, when the doll changes form, the weather changes too!",
     "category": "Toy",
     "favorites": [
@@ -4190,6 +4598,7 @@
   },
   {
     "name": "Bike",
+    "image": "bike.png",
     "description": "A cool bicycle that looks high-end. It sparkles as if it's brand-new",
     "category": "Toy",
     "favorites": [
@@ -4202,6 +4611,7 @@
   },
   {
     "name": "Cannon",
+    "image": "cannon.png",
     "description": "Put fireworks or a Pok\u00e9mon with the Explode specialty inside, light the fuse, and watch 'em fly!",
     "category": "Toy",
     "favorites": [
@@ -4211,6 +4621,7 @@
   },
   {
     "name": "Excavation tools",
+    "image": "excavationtools.png",
     "description": "A sturdy-looking pickax and shovel. They're wasted on any Pok\u00e9mon who can already dig, though.",
     "category": "Toy",
     "favorites": [
@@ -4220,6 +4631,7 @@
   },
   {
     "name": "Cash register",
+    "image": "cashregister.png",
     "description": "Place this on a table and power it on, and Pok\u00e9mon will come by to conduct trades!",
     "category": "",
     "favorites": [
@@ -4231,6 +4643,7 @@
   },
   {
     "name": "Card reader",
+    "image": "cardreader.png",
     "description": "A machine that reads key cards or Pok\u00e9dexes. Mount it to a wall.",
     "category": "Decoration",
     "favorites": [
@@ -4243,6 +4656,7 @@
   },
   {
     "name": "Pok\u00e9 Ball lamp",
+    "image": "pok\u00e9balllamp.png",
     "description": "Emits a brilliant light when powered on. This would look great on a shelf",
     "category": "Decoration",
     "favorites": [
@@ -4255,6 +4669,7 @@
   },
   {
     "name": "Large Lost Relic",
+    "image": "largelostrelic.png",
     "description": "Is this a time capsule? Professor Tangrowth might know what it is!",
     "category": "",
     "favorites": [
@@ -4263,6 +4678,7 @@
   },
   {
     "name": "Small Lost Relic",
+    "image": "smalllostrelic.png",
     "description": "It looks like canned food but doesn't seem to have anything isnide. Show it to Professor Tangrowth",
     "category": "",
     "favorites": [
@@ -4271,6 +4687,7 @@
   },
   {
     "name": "Twisted Spoon",
+    "image": "twistedspoon.png",
     "description": "A spoon imbued with telekinetic energy. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -4279,6 +4696,7 @@
   },
   {
     "name": "Metal drum",
+    "image": "metaldrum.png",
     "description": "A smooth, clean canister. It's empty, so it's actually quite light",
     "category": "Decoration",
     "favorites": [
@@ -4290,6 +4708,7 @@
   },
   {
     "name": "Iron pipes",
+    "image": "ironpipes.png",
     "description": "A pile of iron pipes that looks like it belongs at a construction site",
     "category": "Decoration",
     "favorites": [
@@ -4300,6 +4719,7 @@
   },
   {
     "name": "Iron-scaffold plank",
+    "image": "iron-scaffoldplank.png",
     "description": "A plank that rests atop an iron scaffold. Try using it to extend the length of your scaffolding!",
     "category": "Road",
     "favorites": [
@@ -4308,6 +4728,7 @@
   },
   {
     "name": "Iron scaffold",
+    "image": "ironscaffold.png",
     "description": "A sturdy scaffold used for constructing buildings. The plank's bumpy surface provides great tractions.",
     "category": "Road",
     "favorites": [
@@ -4316,6 +4737,7 @@
   },
   {
     "name": "Sea glass fragments",
+    "image": "seaglassfragments.png",
     "description": "Pieces of glass that have been polished and buffed by ocean waves. They're used to make glass objects.",
     "category": "",
     "favorites": [
@@ -4324,6 +4746,7 @@
   },
   {
     "name": "Glass",
+    "image": "glass.png",
     "description": "You can make glass by melting sand or sandstone in a furnace, or obtain it by smashing broken windos",
     "category": "",
     "favorites": [
@@ -4332,6 +4755,7 @@
   },
   {
     "name": "Antique dresser",
+    "image": "antiquedresser.png",
     "description": "Look into the mirror to change your transformation and perfect your look!",
     "category": "Toy",
     "favorites": [
@@ -4341,6 +4765,7 @@
   },
   {
     "name": "Dining cabinet",
+    "image": "diningcabinet.png",
     "description": "A cupboard packed full of plates, cups-even a tea set",
     "category": "Decoration",
     "favorites": [
@@ -4353,6 +4778,7 @@
   },
   {
     "name": "Spaceship",
+    "image": "spaceship.png",
     "description": "a vehicle meant for traveling to outerspace. Hermetically sealed so air doesn't escape.",
     "category": "Toy",
     "favorites": [
@@ -4365,6 +4791,7 @@
   },
   {
     "name": "Antique clock",
+    "image": "antiqueclock.png",
     "description": "This clock ticks away the hours. It lets out a loud bong at designated times",
     "category": "Toy",
     "favorites": [
@@ -4376,6 +4803,7 @@
   },
   {
     "name": "Plain lamp",
+    "image": "plainlamp.png",
     "description": "Powering this on illuminates the surroundings with warm light",
     "category": "Decoration",
     "favorites": [
@@ -4386,6 +4814,7 @@
   },
   {
     "name": "Cute lamp",
+    "image": "cutelamp.png",
     "description": "A cute decorative lamp, even when it's turned off. Power it on to make the central heart glow.",
     "category": "Decoration",
     "favorites": [
@@ -4396,6 +4825,7 @@
   },
   {
     "name": "Garden light",
+    "image": "gardenlight.png",
     "description": "A light that's perfect for a garden. Beautifully illuminates flowers-even at night",
     "category": "Decoration",
     "favorites": [
@@ -4406,6 +4836,7 @@
   },
   {
     "name": "Lantern",
+    "image": "lantern.png",
     "description": "This emits bright light when powered on. You'll feel safe if you have this, even in a dark cave",
     "category": "Decoration",
     "favorites": [
@@ -4416,6 +4847,7 @@
   },
   {
     "name": "Seedot Lamp",
+    "image": "seedotlamp.png",
     "description": "When mounted to a wall, this looks just like a Seedot hanging from a branch!",
     "category": "Decoration",
     "favorites": [
@@ -4427,6 +4859,7 @@
   },
   {
     "name": "String lights",
+    "image": "stringlights.png",
     "description": "Hang these lights on the wall and power them on to create a lively atmosphere",
     "category": "Decoration",
     "favorites": [
@@ -4437,6 +4870,7 @@
   },
   {
     "name": "Pop art lamp",
+    "image": "popartlamp.png",
     "description": "The bright bulb bounces off a shiny lampshade. Looking at it seems to improve your mood!",
     "category": "Decoration",
     "favorites": [
@@ -4446,6 +4880,7 @@
   },
   {
     "name": "Surface light",
+    "image": "surfacelight.png",
     "description": "Simple inconspicuous lights. You can embed them in ceilings and walls.",
     "category": "Decoration",
     "favorites": [
@@ -4456,6 +4891,7 @@
   },
   {
     "name": "Spotlight",
+    "image": "spotlight.png",
     "description": "When powered on, this light shines brightly on whatever is in front of it",
     "category": "Decoration",
     "favorites": [
@@ -4466,6 +4902,7 @@
   },
   {
     "name": "Antique chandelier",
+    "image": "antiquechandelier.png",
     "description": "Hang this from the ceiling to illuminate a room with gentle light. Perfeect for a mansion aesthetic!",
     "category": "Decoration",
     "favorites": [
@@ -4477,6 +4914,7 @@
   },
   {
     "name": "Modern door",
+    "image": "moderndoor.png",
     "description": "A simple yet sturdy door that would make the perfect entrance to a house",
     "category": "",
     "favorites": [
@@ -4485,6 +4923,7 @@
   },
   {
     "name": "Glass window",
+    "image": "glasswindow.png",
     "description": "A simple window that fits in any space. Arrange multiple vertically orhorizontally-your call.",
     "category": "",
     "favorites": [
@@ -4493,6 +4932,7 @@
   },
   {
     "name": "Window pane",
+    "image": "windowpane.png",
     "description": "A framed glass pane. It makes a great window or partition",
     "category": "",
     "favorites": [
@@ -4501,6 +4941,7 @@
   },
   {
     "name": "Stained-glass window (upper)",
+    "image": "stained-glasswindow(upper).png",
     "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
     "category": "",
     "favorites": [
@@ -4509,6 +4950,7 @@
   },
   {
     "name": "Stained-glass window (middle)",
+    "image": "stained-glasswindow(middle).png",
     "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
     "category": "",
     "favorites": [
@@ -4517,6 +4959,7 @@
   },
   {
     "name": "Stained-glass window (lower)",
+    "image": "stained-glasswindow(lower).png",
     "description": "A fancy stained-glass window. It's got a slightly retro vibe.",
     "category": "",
     "favorites": [
@@ -4525,6 +4968,7 @@
   },
   {
     "name": "Sash window",
+    "image": "sashwindow.png",
     "description": "A long, vertical window with a cute cross trim. Try opening up the bottom half",
     "category": "",
     "favorites": [
@@ -4533,6 +4977,7 @@
   },
   {
     "name": "Fan",
+    "image": "fan.png",
     "description": "Power on this fan to make it swivel. Pok\u00e9mon might stop by to watch it move",
     "category": "Toy",
     "favorites": [
@@ -4544,6 +4989,7 @@
   },
   {
     "name": "Weather vane",
+    "image": "weathervane.png",
     "description": "A decoration that spins around and around in the wind. Looks like a bird Pok\u00e9mon perched on a post.",
     "category": "Toy",
     "favorites": [
@@ -4554,6 +5000,7 @@
   },
   {
     "name": "Antique table",
+    "image": "antiquetable.png",
     "description": "Its lumpy legs are cute. You can make a large table by arranging several of these together",
     "category": "",
     "favorites": [
@@ -4563,6 +5010,7 @@
   },
   {
     "name": "Chic table",
+    "image": "chictable.png",
     "description": "A table that would look right at home in a facny restaurant. Perfect for a decadent dinner",
     "category": "",
     "favorites": [
@@ -4571,6 +5019,7 @@
   },
   {
     "name": "Luxury table",
+    "image": "luxurytable.png",
     "description": "An extravagant marble table. Setting one down brings elegance to any room.",
     "category": "",
     "favorites": [
@@ -4579,6 +5028,7 @@
   },
   {
     "name": "Stone",
+    "image": "stone.png",
     "description": "Just a normal stone you can find anywhere. It can be used as a material for a lot of things",
     "category": "",
     "favorites": [
@@ -4588,6 +5038,7 @@
   },
   {
     "name": "Pencil holder",
+    "image": "pencilholder.png",
     "description": "A pencil holder with lots of poencils in it. Try putting this on top of a study desk",
     "category": "Toy",
     "favorites": [
@@ -4599,6 +5050,7 @@
   },
   {
     "name": "Concrete pipe",
+    "image": "concretepipe.png",
     "description": "Link several of these to make the pipe as long as you want! The inside is pitch black",
     "category": "Decoration",
     "favorites": [
@@ -4608,6 +5060,7 @@
   },
   {
     "name": "Garden ornament",
+    "image": "gardenornament.png",
     "description": "This decoration looks like Maushold spending quality time on a log.",
     "category": "Decoration",
     "favorites": [
@@ -4617,6 +5070,7 @@
   },
   {
     "name": "Ditto Flag",
+    "image": "dittoflag.png",
     "description": "A flag that marks Ditto's house. Place it on a house you want to live in.",
     "category": "",
     "favorites": [
@@ -4625,6 +5079,7 @@
   },
   {
     "name": "Stone tiling (wallpaper)",
+    "image": "stonetiling(wallpaper).png",
     "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
     "category": "",
     "favorites": [
@@ -4634,6 +5089,7 @@
   },
   {
     "name": "Stone flooring (wallpaper)",
+    "image": "stoneflooring(wallpaper).png",
     "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
     "category": "",
     "favorites": [
@@ -4643,6 +5099,7 @@
   },
   {
     "name": "Stone brick wall (wallpaper)",
+    "image": "stonebrickwall(wallpaper).png",
     "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
     "category": "",
     "favorites": [
@@ -4652,6 +5109,7 @@
   },
   {
     "name": "Stone brick wall",
+    "image": "stonebrickwall.png",
     "description": "Stone bricks that exude calmness. They're perfect for making buildings, flower beds, and such.",
     "category": "",
     "favorites": [
@@ -4661,6 +5119,7 @@
   },
   {
     "name": "Stone pillar (upper)",
+    "image": "stonepillar(upper).png",
     "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
     "category": "",
     "favorites": [
@@ -4670,6 +5129,7 @@
   },
   {
     "name": "Stone pillar (middle)",
+    "image": "stonepillar(middle).png",
     "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
     "category": "",
     "favorites": [
@@ -4679,6 +5139,7 @@
   },
   {
     "name": "Stone pillar (lower)",
+    "image": "stonepillar(lower).png",
     "description": "A heavy stone pillar with a design that would pair nicely with a fancy brick wall",
     "category": "",
     "favorites": [
@@ -4688,6 +5149,7 @@
   },
   {
     "name": "Stone flooring",
+    "image": "stoneflooring.png",
     "description": "Place these to create an entryway. Most folks won't notice if it gets a little dirty.",
     "category": "Road",
     "favorites": [
@@ -4697,6 +5159,7 @@
   },
   {
     "name": "Stone tiling",
+    "image": "stonetiling.png",
     "description": "Even rough, ordinary stones can be polished and stacked to make shiny tiles",
     "category": "Road",
     "favorites": [
@@ -4706,6 +5169,7 @@
   },
   {
     "name": "Stone steps",
+    "image": "stonesteps.png",
     "description": "Steps made of stacked stones. Place several of these for a stately atmosphere",
     "category": "Road",
     "favorites": [
@@ -4715,6 +5179,7 @@
   },
   {
     "name": "Stone hipped roof",
+    "image": "stonehippedroof.png",
     "description": "You can arrange these vertically or horizontally to make a roof",
     "category": "",
     "favorites": [
@@ -4724,6 +5189,7 @@
   },
   {
     "name": "Stone roof valley",
+    "image": "stoneroofvalley.png",
     "description": "When you're planning out the shape of your roof, putting in some valleys adds a really nice touch",
     "category": "",
     "favorites": [
@@ -4733,6 +5199,7 @@
   },
   {
     "name": "Stone roof decoration",
+    "image": "stoneroofdecoration.png",
     "description": "Try putting this on a roof! It looks great whether you install one or a whole bunch",
     "category": "",
     "favorites": [
@@ -4742,6 +5209,7 @@
   },
   {
     "name": "Stone debris",
+    "image": "stonedebris.png",
     "description": "Sometimes found blocking the road. Break them to obtain stones.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -4751,6 +5219,7 @@
   },
   {
     "name": "Metal Debris",
+    "image": "metaldebris.png",
     "description": "It's hard to tell what these warn out objects were originally. They look difficult to process as is.Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -4761,6 +5230,7 @@
   },
   {
     "name": "Iron table",
+    "image": "irontable.png",
     "description": "Iron-crafted with a simple design. This would work well in any sleekly stylish room",
     "category": "",
     "favorites": [
@@ -4770,6 +5240,7 @@
   },
   {
     "name": "Iron rack",
+    "image": "ironrack.png",
     "description": "Decorate your space by putting your favorite things on these stackable shelves!",
     "category": "",
     "favorites": [
@@ -4778,6 +5249,7 @@
   },
   {
     "name": "Stone table",
+    "image": "stonetable.png",
     "description": "A table made from stones. It's as hard as an Onix!",
     "category": "",
     "favorites": [
@@ -4786,6 +5258,7 @@
   },
   {
     "name": "Strength rock",
+    "image": "strengthrock.png",
     "description": "Though this boulder is incredibly big, it looks like you could use Strength to push it.",
     "category": "",
     "favorites": [
@@ -4794,6 +5267,7 @@
   },
   {
     "name": "Iron Ball",
+    "image": "ironball.png",
     "description": "A round, black iron ball. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -4803,6 +5277,7 @@
   },
   {
     "name": "Lagging Tail",
+    "image": "laggingtail.png",
     "description": "A tremendously heavy tail of something. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -4811,6 +5286,7 @@
   },
   {
     "name": "Nonburnable garbage",
+    "image": "nonburnablegarbage.png",
     "description": "Trash discared here and there. Apparently some Pok\u00e9mon are big fans of garbage",
     "category": "",
     "favorites": [
@@ -4819,6 +5295,7 @@
   },
   {
     "name": "Wastepaper",
+    "image": "wastepaper.png",
     "description": "These look tough to craft in their current state. Try recycling them into regular paper",
     "category": "",
     "favorites": [
@@ -4827,6 +5304,7 @@
   },
   {
     "name": "Small garbage can",
+    "image": "smallgarbagecan.png",
     "description": "A simple, colorful trash can, perfect for indoor use",
     "category": "Decoration",
     "favorites": [
@@ -4838,6 +5316,7 @@
   },
   {
     "name": "Grubby tablet",
+    "image": "grubbytablet.png",
     "description": "A convenient, easy-to-carry deivce. Even though it's inside a hard case, the screen is cracked",
     "category": "Toy",
     "favorites": [
@@ -4846,6 +5325,7 @@
   },
   {
     "name": "Grubby cell phone",
+    "image": "grubbycellphone.png",
     "description": "A device with a cracked screen. It can't make any calls, even when powered on.",
     "category": "Toy",
     "favorites": [
@@ -4854,6 +5334,7 @@
   },
   {
     "name": "Garbage bags",
+    "image": "garbagebags.png",
     "description": "Trash bags found most anywhere. Certain Pok\u00e9mon find their odor irresistible",
     "category": "Decoration",
     "favorites": [
@@ -4863,6 +5344,7 @@
   },
   {
     "name": "Garbage bin",
+    "image": "garbagebin.png",
     "description": "This trash can is big enough that a Pok\u00e9mon could probably fit inside!",
     "category": "Decoration",
     "favorites": [
@@ -4873,6 +5355,7 @@
   },
   {
     "name": "Recycling bin",
+    "image": "recyclingbin.png",
     "description": "A bin for disposing of empty cans. It's just big enough for a Pok\u00e9mon to fit inside",
     "category": "Decoration",
     "favorites": [
@@ -4883,6 +5366,7 @@
   },
   {
     "name": "Nonburnable garbage (outdoor)",
+    "image": "nonburnablegarbage(outdoor).png",
     "description": "Obtained through a special method, thwese can be placed just as they are now",
     "category": "",
     "favorites": [
@@ -4891,6 +5375,7 @@
   },
   {
     "name": "Folding chair",
+    "image": "foldingchair.png",
     "description": "A foldable chair that's simple and easy to carry. Set these up at event venues or similar spaces!",
     "category": "Relaxation",
     "favorites": [
@@ -4900,6 +5385,7 @@
   },
   {
     "name": "Big drum",
+    "image": "bigdrum.png",
     "description": "A very impessive drum. Beat it to produce a loud, invigorating da-a-DUM!",
     "category": "Toy",
     "favorites": [
@@ -4909,6 +5395,7 @@
   },
   {
     "name": "Tires",
+    "image": "tires.png",
     "description": "This tire stack looks like it could collapse at any moment, but oddly enough it stays upright",
     "category": "Toy",
     "favorites": [
@@ -4919,6 +5406,7 @@
   },
   {
     "name": "Blank canvas",
+    "image": "blankcanvas.png",
     "description": "A completely empty canvas. A Pok\u00e9mon artist might be inspired to paint something on it.",
     "category": "Decoration",
     "favorites": [
@@ -4928,6 +5416,7 @@
   },
   {
     "name": "Cute table",
+    "image": "cutetable.png",
     "description": "A table with cute lace and frills. It somehow reminds you of Fairy types",
     "category": "",
     "favorites": [
@@ -4936,6 +5425,7 @@
   },
   {
     "name": "Pop art table",
+    "image": "poparttable.png",
     "description": "A shiny, round table. It's as smooth as a Porygon2",
     "category": "",
     "favorites": [
@@ -4944,6 +5434,7 @@
   },
   {
     "name": "Arcanine doll",
+    "image": "arcaninedoll.png",
     "description": "If you set this down and inspect it, Drifloon may fly over and whisk you away to a Dream Island",
     "category": "Toy",
     "favorites": [
@@ -4953,6 +5444,7 @@
   },
   {
     "name": "Heart Scale",
+    "image": "heartscale.png",
     "description": "An extremely rare scale. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -4961,6 +5453,7 @@
   },
   {
     "name": "Fairy Feather",
+    "image": "fairyfeather.png",
     "description": "A feather that gleams faintly when hit by light. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -4969,6 +5462,7 @@
   },
   {
     "name": "Mailbox",
+    "image": "mailbox.png",
     "description": "A box for receiving letters. It'd look really nice in front of a house!",
     "category": "Decoration",
     "favorites": [
@@ -4978,6 +5472,7 @@
   },
   {
     "name": "Barrel",
+    "image": "barrel.png",
     "description": "It's totally empty inside. You could put something on top to make it look nice",
     "category": "Decoration",
     "favorites": [
@@ -4989,6 +5484,7 @@
   },
   {
     "name": "Utility pole",
+    "image": "utilitypole.png",
     "description": "Use these to connect electrical generators to machines and send electricity over long distances.",
     "category": "",
     "favorites": [
@@ -4997,6 +5493,7 @@
   },
   {
     "name": "Wireless power-transmitter switch",
+    "image": "wirelesspower-transmitterswitch.png",
     "description": "Connect these to electrical generators to use them. Put a switch nearby to quickly turn things on or off",
     "category": "",
     "favorites": [
@@ -5005,6 +5502,7 @@
   },
   {
     "name": "Wireless power transmitter",
+    "image": "wirelesspowertransmitter.png",
     "description": "Use these to connect electrical generators to machines and send electricity over long distances.",
     "category": "",
     "favorites": [
@@ -5013,6 +5511,7 @@
   },
   {
     "name": "Floor switch",
+    "image": "floorswitch.png",
     "description": "A ground-mounted switch that activates nearby machinery when it detects weight",
     "category": "",
     "favorites": [
@@ -5021,6 +5520,7 @@
   },
   {
     "name": "Wall switch",
+    "image": "wallswitch.png",
     "description": "A switch that would look perfect installed on a house wall. Press it to activate nearby devices",
     "category": "",
     "favorites": [
@@ -5029,6 +5529,7 @@
   },
   {
     "name": "Laser sensor",
+    "image": "lasersensor.png",
     "description": "When this sensor detects movement, it activates devices nearby",
     "category": "",
     "favorites": [
@@ -5037,6 +5538,7 @@
   },
   {
     "name": "Security camera",
+    "image": "securitycamera.png",
     "description": "A camera that watches over its surroundings. Place one anywhere you want to keep an eye on",
     "category": "",
     "favorites": [
@@ -5045,6 +5547,7 @@
   },
   {
     "name": "Mushroom lamp",
+    "image": "mushroomlamp.png",
     "description": "The mushroom emits a gentle glow, illuminating the surroundings with soft light",
     "category": "Decoration",
     "favorites": [
@@ -5054,6 +5557,7 @@
   },
   {
     "name": "Silk Scarf",
+    "image": "silkscarf.png",
     "description": "A sumptuous scarf. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5062,6 +5566,7 @@
   },
   {
     "name": "Room Service",
+    "image": "roomservice.png",
     "description": "A luxurious cart with a metal cloche. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5070,6 +5575,7 @@
   },
   {
     "name": "Straw table",
+    "image": "strawtable.png",
     "description": "Table may be an overly generous description of this big slab of stone atop a pile of hay",
     "category": "",
     "favorites": [
@@ -5078,6 +5584,7 @@
   },
   {
     "name": "Log table",
+    "image": "logtable.png",
     "description": "With just some cutting and sanding, you can turn logs into a proper table",
     "category": "",
     "favorites": [
@@ -5087,6 +5594,7 @@
   },
   {
     "name": "Garden table",
+    "image": "gardentable.png",
     "description": "A stylish table that would look nice with a garden chair or two",
     "category": "",
     "favorites": [
@@ -5095,6 +5603,7 @@
   },
   {
     "name": "Log chair",
+    "image": "logchair.png",
     "description": "You can sit on this log to take a quick breather. Other Pok\u00e9mon might stop by to take a break too.",
     "category": "Relaxation",
     "favorites": [
@@ -5104,6 +5613,7 @@
   },
   {
     "name": "Garden chair",
+    "image": "gardenchair.png",
     "description": "A chair that would be perfect in a nice garden. Take a seat and enjoy an elegant afternoon.",
     "category": "Relaxation",
     "favorites": [
@@ -5113,6 +5623,7 @@
   },
   {
     "name": "Miracle Seed",
+    "image": "miracleseed.png",
     "description": "A seed imbued with life force. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5121,6 +5632,7 @@
   },
   {
     "name": "Silver Powder",
+    "image": "silverpowder.png",
     "description": "A shiny silver powder. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5129,6 +5641,7 @@
   },
   {
     "name": "Big Root",
+    "image": "bigroot.png",
     "description": "The root of some plant. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5137,6 +5650,7 @@
   },
   {
     "name": "Wreath",
+    "image": "wreath.png",
     "description": "A simple wreath crafted from branches and leaves. It'd look nice and elegant on a wall",
     "category": "Decoration",
     "favorites": [
@@ -5146,6 +5660,7 @@
   },
   {
     "name": "Firework (white)",
+    "image": "firework(white).png",
     "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
     "category": "",
     "favorites": [
@@ -5154,6 +5669,7 @@
   },
   {
     "name": "Firework (red)",
+    "image": "firework(red).png",
     "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
     "category": "",
     "favorites": [
@@ -5162,6 +5678,7 @@
   },
   {
     "name": "Firework (green)",
+    "image": "firework(green).png",
     "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
     "category": "",
     "favorites": [
@@ -5170,6 +5687,7 @@
   },
   {
     "name": "Firework (yellow)",
+    "image": "firework(yellow).png",
     "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
     "category": "",
     "favorites": [
@@ -5178,6 +5696,7 @@
   },
   {
     "name": "Firework (blue)",
+    "image": "firework(blue).png",
     "description": "Load this into a cannon, light the fuse, and watch it go flying with a huge BOOM!",
     "category": "",
     "favorites": [
@@ -5186,6 +5705,7 @@
   },
   {
     "name": "Title Screen",
+    "image": "titlescreen.png",
     "description": "Music CD #1 If you have a music player, you can listen to an exciting tune",
     "category": "",
     "favorites": [
@@ -5194,6 +5714,7 @@
   },
   {
     "name": "Pallet Town",
+    "image": "pallettown.png",
     "description": "Music CD #2 If you have a music player, you can listen to a tune for a tranquil town",
     "category": "",
     "favorites": [
@@ -5202,6 +5723,7 @@
   },
   {
     "name": "Oak's Lab",
+    "image": "oak'slab.png",
     "description": "Music CD #3 If you have a music player, you can listen to",
     "category": "",
     "favorites": [
@@ -5210,6 +5732,7 @@
   },
   {
     "name": "Road to Viridian City",
+    "image": "roadtoviridiancity.png",
     "description": "Music CD #4 If you have a music player, you can listen to an uplifting tune",
     "category": "",
     "favorites": [
@@ -5218,6 +5741,7 @@
   },
   {
     "name": "Pewter City Theme",
+    "image": "pewtercitytheme.png",
     "description": "Music CD #5 If you have a music player, you can listen to a tune for a bustling town",
     "category": "",
     "favorites": [
@@ -5226,6 +5750,7 @@
   },
   {
     "name": "Pok\u00e9mon Center",
+    "image": "pok\u00e9moncenter.png",
     "description": "Music CD #6 If you have a music player, you can listen to a tune that puts your mind at ease",
     "category": "",
     "favorites": [
@@ -5234,6 +5759,7 @@
   },
   {
     "name": "Caves of Mt. Moon",
+    "image": "cavesofmt.moon.png",
     "description": "Music CD #7 If you have a music player, you can listen to a mystifying tune",
     "category": "",
     "favorites": [
@@ -5242,6 +5768,7 @@
   },
   {
     "name": "Road to Cerulean City",
+    "image": "roadtoceruleancity.png",
     "description": "Music CD #8 If you have a music player, you can listen to a lighthearted tuune.",
     "category": "",
     "favorites": [
@@ -5250,6 +5777,7 @@
   },
   {
     "name": "Fuchsia City Theme",
+    "image": "fuchsiacitytheme.png",
     "description": "Music CD #9 If you have a music player, you can listen to for a refreshing town",
     "category": "",
     "favorites": [
@@ -5258,6 +5786,7 @@
   },
   {
     "name": "Pok\u00e9mon Gym",
+    "image": "pok\u00e9mongym.png",
     "description": "Music CD #10 If you have a music player, you can listen to a powerful tune",
     "category": "",
     "favorites": [
@@ -5266,6 +5795,7 @@
   },
   {
     "name": "Road to Bill",
+    "image": "roadtobill.png",
     "description": "Music CD #11 If you have a music player, you can listen to a valiant tune",
     "category": "",
     "favorites": [
@@ -5274,6 +5804,7 @@
   },
   {
     "name": "Vermilion City Theme",
+    "image": "vermilioncitytheme.png",
     "description": "Music CD #12 If you have a music player, you can listen to for a town chock-full of energy",
     "category": "",
     "favorites": [
@@ -5282,6 +5813,7 @@
   },
   {
     "name": "The S.S. Anne",
+    "image": "thes.s.anne.png",
     "description": "Music CD #13 If you have a music player, you can listen to a tune that reminds you of luxury",
     "category": "",
     "favorites": [
@@ -5290,6 +5822,7 @@
   },
   {
     "name": "Rocket Hideout",
+    "image": "rockethideout.png",
     "description": "Music CD #14 If you have a music player, you can listen to a terrifying tune",
     "category": "",
     "favorites": [
@@ -5298,6 +5831,7 @@
   },
   {
     "name": "Silph Co.",
+    "image": "silphco..png",
     "description": "Music CD #15 If you have a music player, you can listen to a suspicious tune",
     "category": "",
     "favorites": [
@@ -5306,6 +5840,7 @@
   },
   {
     "name": "Battle! (Gym Leader Battle)",
+    "image": "battle!(gymleaderbattle).png",
     "description": "Music CD #16 If you have a music player, you can listen to a heart-pumping tune",
     "category": "",
     "favorites": [
@@ -5314,6 +5849,7 @@
   },
   {
     "name": "Union Cave",
+    "image": "unioncave.png",
     "description": "Music CD #17 If you have a music player, you can listen to an eerie tune",
     "category": "",
     "favorites": [
@@ -5322,6 +5858,7 @@
   },
   {
     "name": "Ecruteak City",
+    "image": "ecruteakcity.png",
     "description": "Music CD #18 If you have a music player, you can listen to a graceful turne.",
     "category": "",
     "favorites": [
@@ -5330,6 +5867,7 @@
   },
   {
     "name": "Bell Tower",
+    "image": "belltower.png",
     "description": "Music CD #19 If you have a music player, you can listen to a dignified tune",
     "category": "",
     "favorites": [
@@ -5338,6 +5876,7 @@
   },
   {
     "name": "Fortree City",
+    "image": "fortreecity.png",
     "description": "Music CD #20 If you have a music player, you can listen to a low-key tune",
     "category": "",
     "favorites": [
@@ -5346,6 +5885,7 @@
   },
   {
     "name": "Sootopolis City",
+    "image": "sootopoliscity.png",
     "description": "Music CD #21 If you have a music player, you can listen to a dreamy tune.",
     "category": "",
     "favorites": [
@@ -5354,6 +5894,7 @@
   },
   {
     "name": "Route 209 (Day)",
+    "image": "route209(day).png",
     "description": "Music CD #22 If you have a music player, you can listen to a nostalgic tune",
     "category": "",
     "favorites": [
@@ -5362,6 +5903,7 @@
   },
   {
     "name": "Mt. Coronet",
+    "image": "mt.coronet.png",
     "description": "Music CD #23 If you have a music player, you can listen to a celestial tune",
     "category": "",
     "favorites": [
@@ -5370,6 +5912,7 @@
   },
   {
     "name": "Game Corner",
+    "image": "gamecorner.png",
     "description": "Music CD #24 If you have a music player, you can listen to an upbeat, fast-paced tune",
     "category": "",
     "favorites": [
@@ -5378,6 +5921,7 @@
   },
   {
     "name": "Driftveil City",
+    "image": "driftveilcity.png",
     "description": "Music CD #25 If you have a music player, you can listen to a nautical tune",
     "category": "",
     "favorites": [
@@ -5386,6 +5930,7 @@
   },
   {
     "name": "Route 10 (Unova)",
+    "image": "route10(unova).png",
     "description": "Music CD #26 If you have a music player, you can listen to a tense tune",
     "category": "",
     "favorites": [
@@ -5394,6 +5939,7 @@
   },
   {
     "name": "Dress Up With Props",
+    "image": "dressupwithprops.png",
     "description": "Music CD #27 If you have a music player, you can listen to a cutesy pop tune",
     "category": "",
     "favorites": [
@@ -5402,6 +5948,7 @@
   },
   {
     "name": "Snowbelle City",
+    "image": "snowbellecity.png",
     "description": "Music CD #28 If you have a music player, you can listen to a melancholy tune.",
     "category": "",
     "favorites": [
@@ -5410,6 +5957,7 @@
   },
   {
     "name": "Boutique",
+    "image": "boutique.png",
     "description": "Music CD #29 If you have a music player, you can listen to",
     "category": "",
     "favorites": [
@@ -5418,6 +5966,7 @@
   },
   {
     "name": "Super Training!",
+    "image": "supertraining!.png",
     "description": "Music CD #30 If you have a music player, you can listen to an energetic tune",
     "category": "",
     "favorites": [
@@ -5426,6 +5975,7 @@
   },
   {
     "name": "Contest Spectacular",
+    "image": "contestspectacular.png",
     "description": "Music CD #31 If you have a music player, you can listen to a fune tune.",
     "category": "",
     "favorites": [
@@ -5434,6 +5984,7 @@
   },
   {
     "name": "Hau'oli City (Day)",
+    "image": "hau'olicity(day).png",
     "description": "Music CD #32 If you have a music player, you can listen to a tropical tune",
     "category": "",
     "favorites": [
@@ -5442,6 +5993,7 @@
   },
   {
     "name": "Aether Paradise",
+    "image": "aetherparadise.png",
     "description": "Music CD #33 If you have a music player, you can listen to a mysterious tune",
     "category": "",
     "favorites": [
@@ -5450,6 +6002,7 @@
   },
   {
     "name": "Ultra Ruin",
+    "image": "ultraruin.png",
     "description": "Music CD #34 If you have a music player, you can listen to a tune full of static and jumbled noises",
     "category": "",
     "favorites": [
@@ -5458,6 +6011,7 @@
   },
   {
     "name": "Wild Area (North)",
+    "image": "wildarea(north).png",
     "description": "Music CD #35 If you have a music player, you can listen to a dynamic tune.",
     "category": "",
     "favorites": [
@@ -5466,6 +6020,7 @@
   },
   {
     "name": "Wyndon",
+    "image": "wyndon.png",
     "description": "Music CD #36 If you have a music player, you can listen to",
     "category": "",
     "favorites": [
@@ -5474,6 +6029,7 @@
   },
   {
     "name": "Rose Tower",
+    "image": "rosetower.png",
     "description": "Music CD #37 If you have a music player, you can listen to a high-tempo tune.",
     "category": "",
     "favorites": [
@@ -5482,6 +6038,7 @@
   },
   {
     "name": "Battle! (Gym Leader) 1",
+    "image": "battle!(gymleader)1.png",
     "description": "Music CD #38 If you have a music player, you can listen to an invigorating tune.",
     "category": "",
     "favorites": [
@@ -5490,6 +6047,7 @@
   },
   {
     "name": "Jubilife Village",
+    "image": "jubilifevillage.png",
     "description": "Music CD #39 If you have a music player, you can listen to a warm, nostalgic tune",
     "category": "",
     "favorites": [
@@ -5498,6 +6056,7 @@
   },
   {
     "name": "South Province",
+    "image": "southprovince.png",
     "description": "Music CD #40 If you have a music player, you can listen to",
     "category": "",
     "favorites": [
@@ -5506,6 +6065,7 @@
   },
   {
     "name": "The Academy",
+    "image": "theacademy.png",
     "description": "Music CD #41 If you have a music player, you can listen to",
     "category": "",
     "favorites": [
@@ -5514,6 +6074,7 @@
   },
   {
     "name": "Area Zero",
+    "image": "areazero.png",
     "description": "Music CD #42 If you have a music player, you can listen to that feels special somehow",
     "category": "",
     "favorites": [
@@ -5522,6 +6083,7 @@
   },
   {
     "name": "Battle! (Gym Leader) 2",
+    "image": "battle!(gymleader)2.png",
     "description": "Music CD #43 If you have a music player, you can listen to that fills you with courage",
     "category": "",
     "favorites": [
@@ -5530,6 +6092,7 @@
   },
   {
     "name": "Lucky Egg",
+    "image": "luckyegg.png",
     "description": "A round, white egg. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5538,6 +6101,7 @@
   },
   {
     "name": "Life Orb",
+    "image": "lifeorb.png",
     "description": "A beautiful red orb. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5546,6 +6110,7 @@
   },
   {
     "name": "Adrenaline Orb",
+    "image": "adrenalineorb.png",
     "description": "A round, blue ball. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5554,6 +6119,7 @@
   },
   {
     "name": "Flame Orb",
+    "image": "flameorb.png",
     "description": "A bizarre orb that always gives off heat. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5562,6 +6128,7 @@
   },
   {
     "name": "Ring Target",
+    "image": "ringtarget.png",
     "description": "A target with distinctive balck and white rings. Try hanging it up in a frame!",
     "category": "",
     "favorites": [
@@ -5570,6 +6137,7 @@
   },
   {
     "name": "Storage box",
+    "image": "storagebox.png",
     "description": "A convenient box you can store items in. It's made of wood and easy to move things in and out of.",
     "category": "",
     "favorites": [
@@ -5578,6 +6146,7 @@
   },
   {
     "name": "Big storage box",
+    "image": "bigstoragebox.png",
     "description": "Roughly three times bigger than your standard storage box. You can put a lot of things inside.",
     "category": "",
     "favorites": [
@@ -5586,6 +6155,7 @@
   },
   {
     "name": "Food counter",
+    "image": "foodcounter.png",
     "description": "A counter that is perfect for putting out food at parties",
     "category": "Decoration",
     "favorites": [
@@ -5594,6 +6164,7 @@
   },
   {
     "name": "Plain table",
+    "image": "plaintable.png",
     "description": "This simple table can be placed just about anywhere! Try putting different things on it",
     "category": "",
     "favorites": [
@@ -5602,6 +6173,7 @@
   },
   {
     "name": "Study desk",
+    "image": "studydesk.png",
     "description": "Just looking at this desk feels like it will somehow make you smarter",
     "category": "",
     "favorites": [
@@ -5610,6 +6182,7 @@
   },
   {
     "name": "Wooden plate",
+    "image": "woodenplate.png",
     "description": "If you put some food on this plate, Pok\u00e9mon might stop by to eat.",
     "category": "",
     "favorites": [
@@ -5618,6 +6191,7 @@
   },
   {
     "name": "Cutting board",
+    "image": "cuttingboard.png",
     "description": "Kitchen equipment for making salads. Grab some ingredients and make something tasty!",
     "category": "",
     "favorites": [
@@ -5626,6 +6200,7 @@
   },
   {
     "name": "Stone fragments",
+    "image": "stonefragments.png",
     "description": "These fragments are so small that it'd be tough to process them into anything...Note: Not registered in collection",
     "category": "",
     "favorites": [
@@ -5634,6 +6209,7 @@
   },
   {
     "name": "Step stool",
+    "image": "stepstool.png",
     "description": "A step stool for reaching things in high places. Try climbing on top of it.",
     "category": "Toy",
     "favorites": [
@@ -5643,6 +6219,7 @@
   },
   {
     "name": "Handcar",
+    "image": "handcar.png",
     "description": "These carts clang along atop railway tracks. You can even link a bunch of carts together",
     "category": "",
     "favorites": [
@@ -5651,6 +6228,7 @@
   },
   {
     "name": "Copper ore",
+    "image": "copperore.png",
     "description": "Raw mineral copper. When processed into ingots, it can be used as a crafting material",
     "category": "",
     "favorites": [
@@ -5659,6 +6237,7 @@
   },
   {
     "name": "Iron ore",
+    "image": "ironore.png",
     "description": "Metal that can be obtained from iron deposits. It can also be found among metal debris",
     "category": "",
     "favorites": [
@@ -5667,6 +6246,7 @@
   },
   {
     "name": "Gold ore",
+    "image": "goldore.png",
     "description": "Metal extracted from gold deposits. It glitters with a luxurious sheen",
     "category": "",
     "favorites": [
@@ -5675,6 +6255,7 @@
   },
   {
     "name": "Pok\u00e9metal fragment",
+    "image": "pok\u00e9metalfragment.png",
     "description": "Colorful, sparkling metal extracted from Pok\u00e9metal deposits.",
     "category": "",
     "favorites": [
@@ -5683,6 +6264,7 @@
   },
   {
     "name": "Rare Pok\u00e9metal fragment",
+    "image": "rarepok\u00e9metalfragment.png",
     "description": "This can sometimes be found in Pok\u00e9metal deposits. If you find one, consider yourself extremely lucky!",
     "category": "",
     "favorites": [
@@ -5691,6 +6273,7 @@
   },
   {
     "name": "Copper ingot",
+    "image": "copperingot.png",
     "description": "Copper that has been processed in a smelting furnace. It kinda looks like chocolate...",
     "category": "",
     "favorites": [
@@ -5699,6 +6282,7 @@
   },
   {
     "name": "Iron ingot",
+    "image": "ironingot.png",
     "description": "Iron that has been processed in a smelting furnace. It's really hard and super heavy.",
     "category": "",
     "favorites": [
@@ -5707,6 +6291,7 @@
   },
   {
     "name": "Gold ingot",
+    "image": "goldingot.png",
     "description": "Gold that has been processed in a smelting furnace. Just looking at it makes you feel fancy",
     "category": "",
     "favorites": [
@@ -5715,6 +6300,7 @@
   },
   {
     "name": "Industrial desk",
+    "image": "industrialdesk.png",
     "description": "A desk with a beautifuly wood grain texture. This would even look great outside the house.",
     "category": "",
     "favorites": [
@@ -5723,6 +6309,7 @@
   },
   {
     "name": "Office desk",
+    "image": "officedesk.png",
     "description": "A desk often used in offices. The pull-out drawer is locked and won't open.",
     "category": "",
     "favorites": [
@@ -5731,6 +6318,7 @@
   },
   {
     "name": "Industrial chair",
+    "image": "industrialchair.png",
     "description": "A perfectly round chair that can easily fit anywhere. Surprisingly sturdy, thanks to its iron legs.",
     "category": "Relaxation",
     "favorites": [
@@ -5739,6 +6327,7 @@
   },
   {
     "name": "Spectator chair",
+    "image": "spectatorchair.png",
     "description": "Audience seats like those are found at concert halls or stadiums. Try arranging a bunch of 'em in a row!",
     "category": "Relaxation",
     "favorites": [
@@ -5747,6 +6336,7 @@
   },
   {
     "name": "Iron-plate flooring (wallpaper)",
+    "image": "iron-plateflooring(wallpaper).png",
     "description": "Wallpaper that can be used in larger houses. You can appliy it to walls, floors and even ceilings",
     "category": "",
     "favorites": [
@@ -5755,6 +6345,7 @@
   },
   {
     "name": "Iron wall",
+    "image": "ironwall.png",
     "description": "A solid iron wlal. It gives off a slight sheen when it's exposed to light.",
     "category": "",
     "favorites": [
@@ -5763,6 +6354,7 @@
   },
   {
     "name": "Iron-plate flooring",
+    "image": "iron-plateflooring.png",
     "description": "Iron-plate flooring that looks like it belongs in a factory. Steel-type Pok\u00e9mon might enjoy this.",
     "category": "Road",
     "favorites": [
@@ -5771,6 +6363,7 @@
   },
   {
     "name": "Iron deposit",
+    "image": "irondeposit.png",
     "description": "A rock that looks like a chocolate cookie! Break it open to obtain iron ore.",
     "category": "",
     "favorites": [
@@ -5779,6 +6372,7 @@
   },
   {
     "name": "Iron steps",
+    "image": "ironsteps.png",
     "description": "Steps that wouldn't look out of place in a factory. They're a bit bumpy, which helps prevent slipping",
     "category": "Road",
     "favorites": [
@@ -5787,6 +6381,7 @@
   },
   {
     "name": "Iron ladder",
+    "image": "ironladder.png",
     "description": "Great for reaching high places. Connect them vertically, then climb straight up",
     "category": "",
     "favorites": [
@@ -5795,6 +6390,7 @@
   },
   {
     "name": "Iron door",
+    "image": "irondoor.png",
     "description": "A door with an antique pattern carved onto it. Would pair well with gorgeous furniture",
     "category": "",
     "favorites": [
@@ -5803,6 +6399,7 @@
   },
   {
     "name": "Iron gate",
+    "image": "irongate.png",
     "description": "Fancy double doors with a whirling patten. It would pair nicely with some metal fencing",
     "category": "",
     "favorites": [
@@ -5811,6 +6408,7 @@
   },
   {
     "name": "Corrugated metal",
+    "image": "corrugatedmetal.png",
     "description": "Align several of these to crewate a roof that could probably protect against wind and rain",
     "category": "Road",
     "favorites": [
@@ -5819,6 +6417,7 @@
   },
   {
     "name": "Metal fragments",
+    "image": "metalfragments.png",
     "description": "Metal fragments found on the ground. They look difficult to process into anythingNote: Not registered in collection",
     "category": "",
     "favorites": [

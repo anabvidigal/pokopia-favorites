@@ -37,6 +37,9 @@ for file_path in favorites_dir.iterdir():
                 print(f"Skipping item with no name in {file_path.name}")
                 continue
 
+            # Generate image filename: lowercase, no spaces, add .png
+            item_image = item_name.lower().replace(' ', '') + '.png'
+
             # Description
             description_cell = cells[2]
             item_description = description_cell.get_text(strip=True)
@@ -55,6 +58,7 @@ for file_path in favorites_dir.iterdir():
             else:
                 all_items[item_name] = {
                     "name": item_name,
+                    "image": item_image,
                     "description": item_description,
                     "category": item_category,
                     "favorites": [file_path.stem]
